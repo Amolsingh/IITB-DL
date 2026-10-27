@@ -1,0 +1,10 @@
+# Offline RAG: local assets and generated runs must stay out of Git.
+/data/
+/models/
+/results/
+/.cache/
+/.venv/
+/venv/
+**/.ipynb_checkpoints/
+**/__pycache__/
+.DS_Store

@@ -1,0 +1,90 @@
+{
+  "total": 500,
+  "completed_without_error": 500,
+  "errors": 0,
+  "groups": {
+    "curated_factual": {
+      "n": 150,
+      "vector_article_hit5": 139,
+      "bm25_article_hit5": 97,
+      "rrf_article_hit5": 133,
+      "focused_article_hit3": 137,
+      "focused_passage_hit3": 123,
+      "final_article_hit": 137,
+      "final_passage_hit": 123,
+      "alias_evaluated": 150,
+      "alias_match": 104,
+      "alias_in_context": 138,
+      "abstained": 2,
+      "one_word_answers": 71
+    },
+    "named_article": {
+      "n": 175,
+      "vector_article_hit5": 131,
+      "bm25_article_hit5": 163,
+      "rrf_article_hit5": 168,
+      "focused_article_hit3": 166,
+      "focused_passage_hit3": 160,
+      "final_article_hit": 166,
+      "final_passage_hit": 160,
+      "alias_evaluated": 0,
+      "alias_match": 0,
+      "alias_in_context": 0,
+      "abstained": 0,
+      "one_word_answers": 4
+    },
+    "description_lookup": {
+      "n": 175,
+      "vector_article_hit5": 111,
+      "bm25_article_hit5": 122,
+      "rrf_article_hit5": 139,
+      "focused_article_hit3": 148,
+      "focused_passage_hit3": 148,
+      "final_article_hit": 148,
+      "final_passage_hit": 148,
+      "alias_evaluated": 175,
+      "alias_match": 93,
+      "alias_in_context": 91,
+      "abstained": 0,
+      "one_word_answers": 51
+    }
+  },
+  "timings": {
+    "query_embedding_ms": {
+      "p50": 10.648895986378193,
+      "p95": 14.288731536362318
+    },
+    "ann_ms": {
+      "p50": 253.39049953618087,
+      "p95": 394.3768330093007
+    },
+    "bm25_ms": {
+      "p50": 846.9819584861398,
+      "p95": 3001.141700617154
+    },
+    "rerank_ms": {
+      "p50": 605.0711245334242,
+      "p95": 959.1924791602651
+    },
+    "generation_ms": {
+      "p50": 113.0794794880785,
+      "p95": 345.7223603647434
+    },
+    "end_to_end_ms": {
+      "p50": 1609.5951664901804,
+      "p95": 3817.0992687751987
+    }
+  },
+  "degraded_queries": 26,
+  "shards": {
+    "train-00001-of-00041.parquet": 50,
+    "train-00000-of-00041.parquet": 179,
+    "train-00003-of-00041.parquet": 50,
+    "train-00002-of-00041.parquet": 47,
+    "train-00004-of-00041.parquet": 44,
+    "train-00005-of-00041.parquet": 44,
+    "train-00006-of-00041.parquet": 43,
+    "train-00007-of-00041.parquet": 43
+  },
+  "unique_articles": 400
+}

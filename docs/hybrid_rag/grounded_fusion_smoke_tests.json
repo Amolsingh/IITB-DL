@@ -1,0 +1,172 @@
+[
+  {
+    "k": 1,
+    "method": "concatenate",
+    "answer": "Brasilia.",
+    "calls": 1,
+    "packing": {
+      "requested": 1,
+      "included": 1,
+      "omitted_passage_ids": [],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "timings": {
+      "cache_hit": false,
+      "query_embedding_ms": 18.727042013779283,
+      "ann_ms": 4.952958028297871,
+      "bm25_ms": 2023.4809160465375,
+      "fusion_fetch_ms": 10.351708973757923,
+      "total_ms": 2034.0970000252128,
+      "vector_candidates": 50,
+      "bm25_candidates": 50,
+      "article_leads_ms": 0.2539160195738077,
+      "rerank_ms": 515.4275840031914,
+      "reranker_cache_hit": false,
+      "answer_ms": 125.91029203031212,
+      "end_to_end_ms": 2675.87012500735
+    }
+  },
+  {
+    "k": 1,
+    "method": "generate_from_evidence",
+    "answer": "Brasilia.",
+    "calls": 2,
+    "packing": {
+      "requested": 1,
+      "included": 1,
+      "omitted_passage_ids": [],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "timings": {
+      "cache_hit": true,
+      "total_ms": 0,
+      "query_embedding_ms": 0,
+      "ann_ms": 0,
+      "bm25_ms": 0,
+      "fusion_fetch_ms": 0,
+      "article_leads_ms": 0.37595798494294286,
+      "rerank_ms": 0,
+      "reranker_cache_hit": true,
+      "answer_ms": 235.53091700887308,
+      "end_to_end_ms": 236.06233298778534
+    }
+  },
+  {
+    "k": 3,
+    "method": "concatenate",
+    "answer": "Brasilia.",
+    "calls": 1,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7762916:0:854"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "timings": {
+      "cache_hit": true,
+      "total_ms": 0,
+      "query_embedding_ms": 0,
+      "ann_ms": 0,
+      "bm25_ms": 0,
+      "fusion_fetch_ms": 0,
+      "article_leads_ms": 0.36345800617709756,
+      "rerank_ms": 463.6612920439802,
+      "reranker_cache_hit": false,
+      "answer_ms": 194.56095801433548,
+      "end_to_end_ms": 658.754708012566
+    }
+  },
+  {
+    "k": 3,
+    "method": "generate_from_evidence",
+    "answer": "Brasilia.",
+    "calls": 4,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7762916:0:854"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "timings": {
+      "cache_hit": true,
+      "total_ms": 0,
+      "query_embedding_ms": 0,
+      "ann_ms": 0,
+      "bm25_ms": 0,
+      "fusion_fetch_ms": 0,
+      "article_leads_ms": 0.3683330141939223,
+      "rerank_ms": 0,
+      "reranker_cache_hit": true,
+      "answer_ms": 677.073750004638,
+      "end_to_end_ms": 677.6012500049546
+    }
+  },
+  {
+    "k": 5,
+    "method": "concatenate",
+    "answer": "Brasilia.",
+    "calls": 1,
+    "packing": {
+      "requested": 5,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7762916:0:854",
+        "3383:0:1032",
+        "4752:0:983"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "timings": {
+      "cache_hit": true,
+      "total_ms": 0,
+      "query_embedding_ms": 0,
+      "ann_ms": 0,
+      "bm25_ms": 0,
+      "fusion_fetch_ms": 0,
+      "article_leads_ms": 0.36924995947629213,
+      "rerank_ms": 460.3733340045437,
+      "reranker_cache_hit": false,
+      "answer_ms": 183.002833975479,
+      "end_to_end_ms": 643.9172080135904
+    }
+  },
+  {
+    "k": 5,
+    "method": "generate_from_evidence",
+    "answer": "Brasilia.",
+    "calls": 6,
+    "packing": {
+      "requested": 5,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7762916:0:854",
+        "3383:0:1032",
+        "4752:0:983"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "timings": {
+      "cache_hit": true,
+      "total_ms": 0,
+      "query_embedding_ms": 0,
+      "ann_ms": 0,
+      "bm25_ms": 0,
+      "fusion_fetch_ms": 0,
+      "article_leads_ms": 0.3751249751076102,
+      "rerank_ms": 0,
+      "reranker_cache_hit": true,
+      "answer_ms": 957.8689999761991,
+      "end_to_end_ms": 958.4076660103165
+    }
+  }
+]

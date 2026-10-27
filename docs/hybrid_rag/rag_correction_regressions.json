@@ -1,0 +1,1223 @@
+{
+  "fusion_tests": [
+    {
+      "id": "Q002",
+      "k": 1,
+      "method": "concatenate",
+      "answer": "French Republic",
+      "context": [
+        {
+          "passage_id": "5843419:0:1008",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "France (), officially the French Republic ( ), is a country located primarily in Western Europe.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "k": 1,
+      "method": "generate_from_evidence",
+      "answer": "French Republic",
+      "context": [
+        {
+          "passage_id": "5843419:0:1008",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "France (), officially the French Republic ( ), is a country located primarily in Western Europe.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "k": 3,
+      "method": "concatenate",
+      "answer": "French Republic",
+      "context": [
+        {
+          "passage_id": "5843419:0:1008",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "France (), officially the French Republic ( ), is a country located primarily in Western Europe.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5843419:77285:78358",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "The official language of France is French, a Romance language derived from Latin.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "11101346:0:882",
+          "title": "France (disambiguation)",
+          "url": "https://en.wikipedia.org/wiki/France%20%28disambiguation%29",
+          "text": "France is a country in western Europe.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "k": 3,
+      "method": "generate_from_evidence",
+      "answer": "French Republic",
+      "context": [
+        {
+          "passage_id": "5843419:0:1008",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "France (), officially the French Republic ( ), is a country located primarily in Western Europe.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5843419:77285:78358",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "The official language of France is French, a Romance language derived from Latin.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "k": 5,
+      "method": "concatenate",
+      "answer": "French Republic",
+      "context": [
+        {
+          "passage_id": "5843419:0:1008",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "France (), officially the French Republic ( ), is a country located primarily in Western Europe.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5843419:77285:78358",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "The official language of France is French, a Romance language derived from Latin.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "11101346:0:882",
+          "title": "France (disambiguation)",
+          "url": "https://en.wikipedia.org/wiki/France%20%28disambiguation%29",
+          "text": "France is a country in western Europe.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "9573203:0:825",
+          "title": "Cabardès AOC",
+          "url": "https://en.wikipedia.org/wiki/Cabard%C3%A8s%20AOC",
+          "text": "Despite the name's medieval origins, this appellation is one of the youngest in France, having only become official in February 1999.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4478036:0:1090",
+          "title": "History of French",
+          "url": "https://en.wikipedia.org/wiki/History%20of%20French",
+          "text": "Before the Roman conquest of what is now France by Julius Caesar (58–52 BC), much of present France was inhabited by Celtic-speaking people referred to by the Romans as Gauls and Belgae.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "k": 5,
+      "method": "generate_from_evidence",
+      "answer": "French Republic",
+      "context": [
+        {
+          "passage_id": "5843419:0:1008",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "France (), officially the French Republic ( ), is a country located primarily in Western Europe.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5843419:77285:78358",
+          "title": "France",
+          "url": "https://en.wikipedia.org/wiki/France",
+          "text": "The official language of France is French, a Romance language derived from Latin.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "9573203:0:825",
+          "title": "Cabardès AOC",
+          "url": "https://en.wikipedia.org/wiki/Cabard%C3%A8s%20AOC",
+          "text": "Despite the name's medieval origins, this appellation is one of the youngest in France, having only become official in February 1999.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4478036:0:1090",
+          "title": "History of French",
+          "url": "https://en.wikipedia.org/wiki/History%20of%20French",
+          "text": "Before the Roman conquest of what is now France by Julius Caesar (58–52 BC), much of present France was inhabited by Celtic-speaking people referred to by the Romans as Gauls and Belgae.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "k": 1,
+      "method": "concatenate",
+      "answer": "So Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "k": 1,
+      "method": "generate_from_evidence",
+      "answer": "So Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "k": 3,
+      "method": "concatenate",
+      "answer": "Brasilia",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "13458361:0:1057",
+          "title": "Capitals of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Capitals%20of%20Brazil",
+          "text": "The current capital of Brazil, since its construction in 1960, is Brasilia.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:1692:2713",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "k": 3,
+      "method": "generate_from_evidence",
+      "answer": "Brasilia",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "13458361:0:1057",
+          "title": "Capitals of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Capitals%20of%20Brazil",
+          "text": "The current capital of Brazil, since its construction in 1960, is Brasilia.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:1692:2713",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "k": 5,
+      "method": "concatenate",
+      "answer": "Brasilia",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "13458361:0:1057",
+          "title": "Capitals of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Capitals%20of%20Brazil",
+          "text": "The current capital of Brazil, since its construction in 1960, is Brasilia.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:1692:2713",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "3383:65889:66971",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The majority of state capitals are the largest cities in their states, except for Vitória, the capital of Espírito Santo, and Florianópolis, the capital of Santa Catarina.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:0:983",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brasília (; ) is the federal capital of Brazil and seat of government of the Federal District.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "k": 5,
+      "method": "generate_from_evidence",
+      "answer": "Brasilia",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "13458361:0:1057",
+          "title": "Capitals of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Capitals%20of%20Brazil",
+          "text": "The current capital of Brazil, since its construction in 1960, is Brasilia.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:1692:2713",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "3383:65889:66971",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The majority of state capitals are the largest cities in their states, except for Vitória, the capital of Espírito Santo, and Florianópolis, the capital of Santa Catarina.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:0:983",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brasília (; ) is the federal capital of Brazil and seat of government of the Federal District.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "k": 1,
+      "method": "concatenate",
+      "answer": "Portuguese",
+      "context": [
+        {
+          "passage_id": "3383:61755:62841",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The official language of Brazil is Portuguese (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "k": 1,
+      "method": "generate_from_evidence",
+      "answer": "Portuguese",
+      "context": [
+        {
+          "passage_id": "3383:61755:62841",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The official language of Brazil is Portuguese (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "k": 3,
+      "method": "concatenate",
+      "answer": "Portuguese",
+      "context": [
+        {
+          "passage_id": "3383:61755:62841",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The official language of Brazil is Portuguese (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:5424:6567",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official language of Brazil and the primary language used in most schools and media.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:0:1107",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official and national language of Brazil being widely spoken by most of the population.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "k": 3,
+      "method": "generate_from_evidence",
+      "answer": "Portuguese",
+      "context": [
+        {
+          "passage_id": "3383:61755:62841",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The official language of Brazil is Portuguese (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:5424:6567",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official language of Brazil and the primary language used in most schools and media.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:0:1107",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official and national language of Brazil being widely spoken by most of the population.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "k": 5,
+      "method": "concatenate",
+      "answer": "Portuguese",
+      "context": [
+        {
+          "passage_id": "3383:61755:62841",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The official language of Brazil is Portuguese (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:5424:6567",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official language of Brazil and the primary language used in most schools and media.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:0:1107",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official and national language of Brazil being widely spoken by most of the population.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "It is the only country in the Americas to have Portuguese as an official language.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5127913:17873:18623",
+          "title": "List of multilingual countries and regions",
+          "url": "https://en.wikipedia.org/wiki/List%20of%20multilingual%20countries%20and%20regions",
+          "text": "Brazil, Portuguese (official) and upwards to 100 languages spoken mainly in the urban areas (European and Asian) and indigenous languages in the Amazon.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "k": 5,
+      "method": "generate_from_evidence",
+      "answer": "Portuguese",
+      "context": [
+        {
+          "passage_id": "3383:61755:62841",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "The official language of Brazil is Portuguese (Article 13 of the Constitution of the Federal Republic of Brazil), which almost all of the population speaks and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:5424:6567",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official language of Brazil and the primary language used in most schools and media.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5272547:0:1107",
+          "title": "Languages of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Languages%20of%20Brazil",
+          "text": "Portuguese is the official and national language of Brazil being widely spoken by most of the population.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "It is the only country in the Americas to have Portuguese as an official language.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "5127913:17873:18623",
+          "title": "List of multilingual countries and regions",
+          "url": "https://en.wikipedia.org/wiki/List%20of%20multilingual%20countries%20and%20regions",
+          "text": "Brazil, Portuguese (official) and upwards to 100 languages spoken mainly in the urban areas (European and Asian) and indigenous languages in the Amazon.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "k": 1,
+      "method": "concatenate",
+      "answer": "Sao Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "k": 1,
+      "method": "generate_from_evidence",
+      "answer": "Sao Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "k": 3,
+      "method": "concatenate",
+      "answer": "So Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:0:983",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brasília is estimated to be Brazil's third-most populous city after São Paulo and Rio de Janeiro.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "9597841:3297:4257",
+          "title": "Oliveira, Minas Gerais",
+          "url": "https://en.wikipedia.org/wiki/Oliveira%2C%20Minas%20Gerais",
+          "text": "It is the 80º most populous city of the state and 289º most populous city amos the Southeast of Brazil.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "k": 3,
+      "method": "generate_from_evidence",
+      "answer": "So Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:0:983",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brasília is estimated to be Brazil's third-most populous city after São Paulo and Rio de Janeiro.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "9597841:3297:4257",
+          "title": "Oliveira, Minas Gerais",
+          "url": "https://en.wikipedia.org/wiki/Oliveira%2C%20Minas%20Gerais",
+          "text": "It is the 80º most populous city of the state and 289º most populous city amos the Southeast of Brazil.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "k": 5,
+      "method": "concatenate",
+      "answer": "So Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:0:983",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brasília is estimated to be Brazil's third-most populous city after São Paulo and Rio de Janeiro.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "9597841:3297:4257",
+          "title": "Oliveira, Minas Gerais",
+          "url": "https://en.wikipedia.org/wiki/Oliveira%2C%20Minas%20Gerais",
+          "text": "It is the 80º most populous city of the state and 289º most populous city amos the Southeast of Brazil.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "3633:11088:12059",
+          "title": "Politics of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Politics%20of%20Brazil",
+          "text": "Several Brazilian municipalities have over 1,000,000 inhabitants, with São Paulo, at more than 9,000,000, being the most populous.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "10912758:683:1527",
+          "title": "List of Brazilian federative units by gross regional product",
+          "url": "https://en.wikipedia.org/wiki/List%20of%20Brazilian%20federative%20units%20by%20gross%20regional%20product",
+          "text": "São Paulo is the richest and most populous state in Brazil, ranking 16th and 27th worldwide, respectively; Rio de Janeiro is the second richest and the third most populous state, ranking 65th and 59th worldwide; Minas Gerais is the third richest and the second most populous state, ranking 80th and 55th worldwide.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "k": 5,
+      "method": "generate_from_evidence",
+      "answer": "So Paulo",
+      "context": [
+        {
+          "passage_id": "3383:0:1032",
+          "title": "Brazil",
+          "url": "https://en.wikipedia.org/wiki/Brazil",
+          "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "4752:0:983",
+          "title": "Brasília",
+          "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "text": "Brasília is estimated to be Brazil's third-most populous city after São Paulo and Rio de Janeiro.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "9597841:3297:4257",
+          "title": "Oliveira, Minas Gerais",
+          "url": "https://en.wikipedia.org/wiki/Oliveira%2C%20Minas%20Gerais",
+          "text": "It is the 80º most populous city of the state and 289º most populous city amos the Southeast of Brazil.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "3633:11088:12059",
+          "title": "Politics of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Politics%20of%20Brazil",
+          "text": "Several Brazilian municipalities have over 1,000,000 inhabitants, with São Paulo, at more than 9,000,000, being the most populous.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "10912758:683:1527",
+          "title": "List of Brazilian federative units by gross regional product",
+          "url": "https://en.wikipedia.org/wiki/List%20of%20Brazilian%20federative%20units%20by%20gross%20regional%20product",
+          "text": "São Paulo is the richest and most populous state in Brazil, ranking 16th and 27th worldwide, respectively; Rio de Janeiro is the second richest and the third most populous state, ranking 65th and 59th worldwide; Minas Gerais is the third richest and the second most populous state, ranking 80th and 55th worldwide.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "k": 1,
+      "method": "concatenate",
+      "answer": "Alfred Russel Wallace",
+      "context": [
+        {
+          "passage_id": "8145410:0:1227",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "k": 1,
+      "method": "generate_from_evidence",
+      "answer": "Alfred Russel Wallace",
+      "context": [
+        {
+          "passage_id": "8145410:0:1227",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "k": 3,
+      "method": "concatenate",
+      "answer": "Alfred Russel Wallace",
+      "context": [
+        {
+          "passage_id": "8145410:0:1227",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "15755186:3110:4219",
+          "title": "1860 Oxford evolution debate",
+          "url": "https://en.wikipedia.org/wiki/1860%20Oxford%20evolution%20debate",
+          "text": "Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "8447322:6930:7987",
+          "title": "Evolution as fact and theory",
+          "url": "https://en.wikipedia.org/wiki/Evolution%20as%20fact%20and%20theory",
+          "text": "However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "k": 3,
+      "method": "generate_from_evidence",
+      "answer": "Alfred Russel Wallace",
+      "context": [
+        {
+          "passage_id": "8145410:0:1227",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "15755186:3110:4219",
+          "title": "1860 Oxford evolution debate",
+          "url": "https://en.wikipedia.org/wiki/1860%20Oxford%20evolution%20debate",
+          "text": "Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "8447322:6930:7987",
+          "title": "Evolution as fact and theory",
+          "url": "https://en.wikipedia.org/wiki/Evolution%20as%20fact%20and%20theory",
+          "text": "However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "k": 5,
+      "method": "concatenate",
+      "answer": "Alfred Russel Wallace",
+      "context": [
+        {
+          "passage_id": "8145410:0:1227",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "15755186:3110:4219",
+          "title": "1860 Oxford evolution debate",
+          "url": "https://en.wikipedia.org/wiki/1860%20Oxford%20evolution%20debate",
+          "text": "Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "8447322:6930:7987",
+          "title": "Evolution as fact and theory",
+          "url": "https://en.wikipedia.org/wiki/Evolution%20as%20fact%20and%20theory",
+          "text": "However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "8145410:1996:3114",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "Darwin published his theory of evolution with compelling evidence in his 1859 book On the Origin of Species.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "15419957:0:767",
+          "title": "The Theory of Evolution",
+          "url": "https://en.wikipedia.org/wiki/The%20Theory%20of%20Evolution",
+          "text": "The Theory of Evolution is a book by English evolutionary biologist and geneticist John Maynard Smith, originally published in 1958 in time for 150th anniversary of the birth of Charles Darwin and the centenary of the publication of The Origin of Species the following year.",
+          "context_truncated": false
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "k": 5,
+      "method": "generate_from_evidence",
+      "answer": "Alfred Russel Wallace",
+      "context": [
+        {
+          "passage_id": "8145410:0:1227",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "15755186:3110:4219",
+          "title": "1860 Oxford evolution debate",
+          "url": "https://en.wikipedia.org/wiki/1860%20Oxford%20evolution%20debate",
+          "text": "Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "8447322:6930:7987",
+          "title": "Evolution as fact and theory",
+          "url": "https://en.wikipedia.org/wiki/Evolution%20as%20fact%20and%20theory",
+          "text": "However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "8145410:1996:3114",
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+          "text": "Darwin published his theory of evolution with compelling evidence in his 1859 book On the Origin of Species.",
+          "context_truncated": false
+        },
+        {
+          "passage_id": "15419957:0:767",
+          "title": "The Theory of Evolution",
+          "url": "https://en.wikipedia.org/wiki/The%20Theory%20of%20Evolution",
+          "text": "The Theory of Evolution is a book by English evolutionary biologist and geneticist John Maynard Smith, originally published in 1958 in time for 150th anniversary of the birth of Charles Darwin and the centenary of the publication of The Origin of Species the following year.",
+          "context_truncated": false
+        }
+      ]
+    }
+  ],
+  "style_tests": [
+    {
+      "id": "Q031",
+      "style": "concise",
+      "answer": "Alfred Russel Wallace",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Context: Charles Darwin: In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.\n\n1860 Oxford evolution debate: Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.\n\nEvolution as fact and theory: However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.\nQuestion: With whom did Darwin jointly publish his theory of evolution?\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "8145410:0:1227",
+              "title": "Charles Darwin",
+              "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+              "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "15755186:3110:4219",
+              "title": "1860 Oxford evolution debate",
+              "url": "https://en.wikipedia.org/wiki/1860%20Oxford%20evolution%20debate",
+              "text": "Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "8447322:6930:7987",
+              "title": "Evolution as fact and theory",
+              "url": "https://en.wikipedia.org/wiki/Evolution%20as%20fact%20and%20theory",
+              "text": "However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "Alfred Russel Wallace",
+          "input_tokens": 191,
+          "output_tokens": 5,
+          "generation_seconds": 0.099035624996759
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "style": "explanation",
+      "answer": "Alfred Russel Wallace, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Write a short explanation answering \"With whom did Darwin jointly publish his theory of evolution?\" using only this evidence. If it does not answer the question, say unknown.\nCharles Darwin: In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.\n\n1860 Oxford evolution debate: Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.\n\nEvolution as fact and theory: However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "8145410:0:1227",
+              "title": "Charles Darwin",
+              "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+              "text": "In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "15755186:3110:4219",
+              "title": "1860 Oxford evolution debate",
+              "url": "https://en.wikipedia.org/wiki/1860%20Oxford%20evolution%20debate",
+              "text": "Thomas Huxley, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "8447322:6930:7987",
+              "title": "Evolution as fact and theory",
+              "url": "https://en.wikipedia.org/wiki/Evolution%20as%20fact%20and%20theory",
+              "text": "However, both Darwin and Alfred Russel Wallace, the co-founders of the theory, and all subsequent biologists depend primarily on observations of living organisms; Darwin concentrated largely on the breeding of domesticated animals whereas Wallace started from the biogeographical distribution of species in the Amazon and Malay Archipelago.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "Alfred Russel Wallace, one of the small group with whom Darwin had shared his theory before publication, emerged as the main public champion of evolution.",
+          "input_tokens": 209,
+          "output_tokens": 30,
+          "generation_seconds": 0.5402299170382321
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "style": "concise",
+      "answer": "Brasilia",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Context: Brazil: Its capital is Brasília, and its most populous city is São Paulo.\n\nCapitals of Brazil: The current capital of Brazil, since its construction in 1960, is Brasilia.\n\nBrasília: Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.\nQuestion: What is Brazil's capital?\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "3383:0:1032",
+              "title": "Brazil",
+              "url": "https://en.wikipedia.org/wiki/Brazil",
+              "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "13458361:0:1057",
+              "title": "Capitals of Brazil",
+              "url": "https://en.wikipedia.org/wiki/Capitals%20of%20Brazil",
+              "text": "The current capital of Brazil, since its construction in 1960, is Brasilia.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "4752:1692:2713",
+              "title": "Brasília",
+              "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+              "text": "Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "Brasilia",
+          "input_tokens": 97,
+          "output_tokens": 4,
+          "generation_seconds": 0.07905683299759403
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "style": "explanation",
+      "answer": "Brazil is the capital of Brazil, and its most populous city is So Paulo.",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Write a short explanation answering \"What is Brazil's capital?\" using only this evidence. If it does not answer the question, say unknown.\nBrazil: Its capital is Brasília, and its most populous city is São Paulo.\n\nCapitals of Brazil: The current capital of Brazil, since its construction in 1960, is Brasilia.\n\nBrasília: Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "3383:0:1032",
+              "title": "Brazil",
+              "url": "https://en.wikipedia.org/wiki/Brazil",
+              "text": "Its capital is Brasília, and its most populous city is São Paulo.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "13458361:0:1057",
+              "title": "Capitals of Brazil",
+              "url": "https://en.wikipedia.org/wiki/Capitals%20of%20Brazil",
+              "text": "The current capital of Brazil, since its construction in 1960, is Brasilia.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "4752:1692:2713",
+              "title": "Brasília",
+              "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+              "text": "Brazil's first capital was Salvador; in 1763 Rio de Janeiro became Brazil's capital and remained so until 1960.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "Brazil is the capital of Brazil, and its most populous city is So Paulo.",
+          "input_tokens": 115,
+          "output_tokens": 21,
+          "generation_seconds": 0.2615399999776855
+        }
+      ]
+    },
+    {
+      "id": "Q055",
+      "style": "concise",
+      "answer": "calculus",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Context: Calculus: Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.\n\nBranches of science: Mathematics, in the broadest sense, is just a synonym of formal science; but traditionally mathematics means more specifically the coalition of four areas: arithmetic, algebra, geometry, and analysis, which are, to some degree, the study of quantity, structure, space, and change respectively.\n\nContinuity thesis: The first steps in understanding motion, and continuous variation in general, occurred in the 14th century with the work of the scientists of the Merton School, at Oxford in the 1330s and 1340s.\nQuestion: Which branch of mathematics studies continuous change?\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "5176:0:1109",
+              "title": "Calculus",
+              "url": "https://en.wikipedia.org/wiki/Calculus",
+              "text": "Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "11983318:2731:3972",
+              "title": "Branches of science",
+              "url": "https://en.wikipedia.org/wiki/Branches%20of%20science",
+              "text": "Mathematics, in the broadest sense, is just a synonym of formal science; but traditionally mathematics means more specifically the coalition of four areas: arithmetic, algebra, geometry, and analysis, which are, to some degree, the study of quantity, structure, space, and change respectively.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "8852981:3575:4646",
+              "title": "Continuity thesis",
+              "url": "https://en.wikipedia.org/wiki/Continuity%20thesis",
+              "text": "The first steps in understanding motion, and continuous variation in general, occurred in the 14th century with the work of the scientists of the Merton School, at Oxford in the 1330s and 1340s.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "calculus",
+          "input_tokens": 175,
+          "output_tokens": 3,
+          "generation_seconds": 0.07637095800600946
+        }
+      ]
+    },
+    {
+      "id": "Q055",
+      "style": "explanation",
+      "answer": "The first steps in understanding motion, and continuous variation in general, occurred in the 14th century with the work of the scientists of the Merton School, at Oxford in the 1330s and 1340s.",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Write a short explanation answering \"Which branch of mathematics studies continuous change?\" using only this evidence. If it does not answer the question, say unknown.\nCalculus: Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.\n\nBranches of science: Mathematics, in the broadest sense, is just a synonym of formal science; but traditionally mathematics means more specifically the coalition of four areas: arithmetic, algebra, geometry, and analysis, which are, to some degree, the study of quantity, structure, space, and change respectively.\n\nContinuity thesis: The first steps in understanding motion, and continuous variation in general, occurred in the 14th century with the work of the scientists of the Merton School, at Oxford in the 1330s and 1340s.\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "5176:0:1109",
+              "title": "Calculus",
+              "url": "https://en.wikipedia.org/wiki/Calculus",
+              "text": "Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "11983318:2731:3972",
+              "title": "Branches of science",
+              "url": "https://en.wikipedia.org/wiki/Branches%20of%20science",
+              "text": "Mathematics, in the broadest sense, is just a synonym of formal science; but traditionally mathematics means more specifically the coalition of four areas: arithmetic, algebra, geometry, and analysis, which are, to some degree, the study of quantity, structure, space, and change respectively.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "8852981:3575:4646",
+              "title": "Continuity thesis",
+              "url": "https://en.wikipedia.org/wiki/Continuity%20thesis",
+              "text": "The first steps in understanding motion, and continuous variation in general, occurred in the 14th century with the work of the scientists of the Merton School, at Oxford in the 1330s and 1340s.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "The first steps in understanding motion, and continuous variation in general, occurred in the 14th century with the work of the scientists of the Merton School, at Oxford in the 1330s and 1340s.",
+          "input_tokens": 195,
+          "output_tokens": 44,
+          "generation_seconds": 0.5760474590351805
+        }
+      ]
+    },
+    {
+      "id": "Q137",
+      "style": "concise",
+      "answer": "The Rolling Bridge",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Context: Bridge: A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath.\n\nThe Rolling Bridge: behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.\n\nThe Rolling Bridge: The Rolling Bridge could theoretically allow the passage of boats, but the small basin behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.\nQuestion: Does a bridge normally block the way underneath it?\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "3397:0:1049",
+              "title": "Bridge",
+              "url": "https://en.wikipedia.org/wiki/Bridge",
+              "text": "A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "6632245:979:2035",
+              "title": "The Rolling Bridge",
+              "url": "https://en.wikipedia.org/wiki/The%20Rolling%20Bridge",
+              "text": "behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "6632245:0:1142",
+              "title": "The Rolling Bridge",
+              "url": "https://en.wikipedia.org/wiki/The%20Rolling%20Bridge",
+              "text": "The Rolling Bridge could theoretically allow the passage of boats, but the small basin behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "The Rolling Bridge",
+          "input_tokens": 155,
+          "output_tokens": 5,
+          "generation_seconds": 0.08167220803443342
+        }
+      ]
+    },
+    {
+      "id": "Q137",
+      "style": "explanation",
+      "answer": "The small basin behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.",
+      "trace": [
+        {
+          "stage": "answer",
+          "prompt": "Write a short explanation answering \"Does a bridge normally block the way underneath it?\" using only this evidence. If it does not answer the question, say unknown.\nBridge: A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath.\n\nThe Rolling Bridge: behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.\n\nThe Rolling Bridge: The Rolling Bridge could theoretically allow the passage of boats, but the small basin behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.\nAnswer:",
+          "visible_evidence": [
+            {
+              "passage_id": "3397:0:1049",
+              "title": "Bridge",
+              "url": "https://en.wikipedia.org/wiki/Bridge",
+              "text": "A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "6632245:979:2035",
+              "title": "The Rolling Bridge",
+              "url": "https://en.wikipedia.org/wiki/The%20Rolling%20Bridge",
+              "text": "behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.",
+              "context_truncated": false
+            },
+            {
+              "passage_id": "6632245:0:1142",
+              "title": "The Rolling Bridge",
+              "url": "https://en.wikipedia.org/wiki/The%20Rolling%20Bridge",
+              "text": "The Rolling Bridge could theoretically allow the passage of boats, but the small basin behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.",
+              "context_truncated": false
+            }
+          ],
+          "packing": {
+            "requested": 3,
+            "included": 3,
+            "omitted_passage_ids": [],
+            "truncated_passage_ids": [],
+            "budget": 512
+          },
+          "text": "The small basin behind the bridge is not open to canal traffic – it is currently occupied by a fountain, and blocked by a steel barrier at surface level to prevent boats entering.",
+          "input_tokens": 175,
+          "output_tokens": 40,
+          "generation_seconds": 0.5879724160186015
+        }
+      ]
+    }
+  ],
+  "ui_pass": true
+}

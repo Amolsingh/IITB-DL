@@ -1,0 +1,5 @@
+{
+  "delivered_notebook_sha256": "21178443802431075399d87740509bf022ee7da13341d6df1b396f99f4d34c58",
+  "inference_code_identical_to_tested": true,
+  "differences": "Documentation and UI only: prose option removed from widget after failed style experiments."
+}

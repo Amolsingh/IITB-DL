@@ -1,0 +1,2583 @@
+{
+  "sample_description": "Two questions per editorial domain; 32 questions, rotating mode order; application cache bypassed, OS/database caches uncontrolled.",
+  "results": [
+    {
+      "id": "Q001",
+      "question": "In which part of Europe is France primarily located?",
+      "domain": "Geography and places",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "France",
+        "France",
+        "Outline of France",
+        "Belgium",
+        "Alps"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 14.614999992772937,
+        "ann_ms": 289.312750013778,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 3.8118750089779496,
+        "total_ms": 307.74354201275855,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q001",
+      "question": "In which part of Europe is France primarily located?",
+      "domain": "Geography and places",
+      "mode": "bm25",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "The Passing of the Great Race",
+        "Canadian Forces Base Lahr",
+        "Christianity in Europe",
+        "LGBT rights in France",
+        "The Scots Kirk, Paris"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1618.1323750060983,
+        "fusion_fetch_ms": 12.593125022249296,
+        "total_ms": 1630.8263749815524,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q001",
+      "question": "In which part of Europe is France primarily located?",
+      "domain": "Geography and places",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "France",
+        "Outline of France",
+        "Continental Europe",
+        "Central Europe",
+        "The Passing of the Great Race"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.81945898476988,
+        "ann_ms": 7.220041996333748,
+        "bm25_ms": 771.8016660073772,
+        "fusion_fetch_ms": 0.843374989926815,
+        "total_ms": 772.8611250058748,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q012",
+      "question": "Which ocean separates Europe and Africa from the Americas?",
+      "domain": "Geography and places",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Atlantic Ocean",
+        "Valais Ocean",
+        "Boundaries between the continents",
+        "Geological history of Earth",
+        "Colonial empire"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 357.1244160120841,
+        "fusion_fetch_ms": 11.724250012775883,
+        "total_ms": 368.9250840106979,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q012",
+      "question": "Which ocean separates Europe and Africa from the Americas?",
+      "domain": "Geography and places",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Atlantic Ocean",
+        "Boundaries between the continents",
+        "Geological history of Earth",
+        "Valais Ocean",
+        "Outline of oceanography"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.36433399328962,
+        "ann_ms": 186.34995800675824,
+        "bm25_ms": 346.4074580115266,
+        "fusion_fetch_ms": 3.7814999814145267,
+        "total_ms": 350.3264579921961,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q012",
+      "question": "Which ocean separates Europe and Africa from the Americas?",
+      "domain": "Geography and places",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Atlantic Ocean",
+        "Atlantic Ocean",
+        "Boundaries between the continents",
+        "Outline of oceanography",
+        "Boundaries between the continents"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.12691600387916,
+        "ann_ms": 2.1814589854329824,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.447375001385808,
+        "total_ms": 11.757208005292341,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q013",
+      "question": "Which two coalitions fought in World War I?",
+      "domain": "History",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "World War I",
+        "France\u2013United Kingdom relations",
+        "Outline of World War I",
+        "World War I",
+        "5th Infantry Division \"Cosseria\""
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.854333999101073,
+        "ann_ms": 258.42716699116863,
+        "bm25_ms": 1386.7980409995653,
+        "fusion_fetch_ms": 19.4708330091089,
+        "total_ms": 1406.5152080147527,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q013",
+      "question": "Which two coalitions fought in World War I?",
+      "domain": "History",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "World War I",
+        "Modern era",
+        "Outline of World War I",
+        "World War I",
+        "List of Medal of Honor recipients for World War I"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.526624995283782,
+        "ann_ms": 2.5482919882051647,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3905420016963035,
+        "total_ms": 11.467459000414237,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q013",
+      "question": "Which two coalitions fought in World War I?",
+      "domain": "History",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "5th Infantry Division \"Cosseria\"",
+        "World War I",
+        "III Corps (German Empire)",
+        "German occupation of Estonia during World War II",
+        "France\u2013United Kingdom relations"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1345.1055829937104,
+        "fusion_fetch_ms": 0.6056250131223351,
+        "total_ms": 1345.8045830193441,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q021",
+      "question": "In which year did the American Civil War end?",
+      "domain": "History",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "American Civil War",
+        "American Civil War",
+        "Outline of the American Civil War",
+        "Georgia in the American Civil War",
+        "American Revolutionary War"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 11.540666979271919,
+        "ann_ms": 216.5907500020694,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 3.003916994202882,
+        "total_ms": 231.1375839926768,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q021",
+      "question": "In which year did the American Civil War end?",
+      "domain": "History",
+      "mode": "bm25",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "St. Louis in the American Civil War",
+        "North Carolina in the American Civil War",
+        "List of American Civil War Medal of Honor recipients",
+        "Camp Joe Holt",
+        "Military history of African Americans in the American Civil War"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1516.41962499707,
+        "fusion_fetch_ms": 11.59187502344139,
+        "total_ms": 1528.1264160003047,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q021",
+      "question": "In which year did the American Civil War end?",
+      "domain": "History",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "American Civil War",
+        "American Civil War",
+        "Missouri in the American Civil War",
+        "St. Louis in the American Civil War",
+        "North Carolina in the American Civil War"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.590957993874326,
+        "ann_ms": 2.253084006952122,
+        "bm25_ms": 1484.710290998919,
+        "fusion_fetch_ms": 0.722083990694955,
+        "total_ms": 1485.6737919908483,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "domain": "People and biographies",
+      "mode": "bm25",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "List of U.S. counties named after presidents of the United States",
+        "The Law that Never Was",
+        "Constitution of Oklahoma",
+        "History of foreign relations of the People's Republic of China",
+        "Taft v. Bowers"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 967.9627919977065,
+        "fusion_fetch_ms": 13.475292013026774,
+        "total_ms": 981.5344160015229,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "domain": "People and biographies",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Abraham Lincoln (captain)",
+        "Presidency of Woodrow Wilson",
+        "Abraham Lincoln",
+        "List of U.S. counties named after presidents of the United States",
+        "Bill Clinton"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.519209019141272,
+        "ann_ms": 258.09062499320135,
+        "bm25_ms": 994.979000010062,
+        "fusion_fetch_ms": 13.771917001577094,
+        "total_ms": 1008.9076670119539,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "domain": "People and biographies",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Abraham Lincoln",
+        "Bill Clinton",
+        "Presidency of Benjamin Harrison",
+        "Gerald Ford",
+        "Andrew Johnson"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.82283300254494,
+        "ann_ms": 3.0037919932510704,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3537090087775141,
+        "total_ms": 13.181832997361198,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q036",
+      "question": "Which poet was Ada Lovelace's father?",
+      "domain": "People and biographies",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Ada Lovelace",
+        "Ada Byron Milbanke, 14th Baroness Wentworth",
+        "Ada Lovelace",
+        "Tamerlane (poem)",
+        "Baron Lovelace"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.071916010929272,
+        "ann_ms": 381.9137079990469,
+        "bm25_ms": 2723.8282499893103,
+        "fusion_fetch_ms": 8.915082988096401,
+        "total_ms": 2732.9932079883292,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q036",
+      "question": "Which poet was Ada Lovelace's father?",
+      "domain": "People and biographies",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Ada Lovelace",
+        "Ada Byron Milbanke, 14th Baroness Wentworth",
+        "Ada Lovelace",
+        "Rose Hartwick Thorpe",
+        "Tamerlane (poem)"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.234665980329737,
+        "ann_ms": 3.021042008185759,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.32637501135468483,
+        "total_ms": 12.583583011291921,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q036",
+      "question": "Which poet was Ada Lovelace's father?",
+      "domain": "People and biographies",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Ada Lovelace",
+        "Ada Lovelace",
+        "Ada Byron Milbanke, 14th Baroness Wentworth",
+        "Baron Wentworth",
+        "Elizabeth Medora Leigh"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1832.35125002102,
+        "fusion_fetch_ms": 0.48925000010058284,
+        "total_ms": 1832.9992499784566,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q037",
+      "question": "Which particles in an atom distinguish one chemical element from another?",
+      "domain": "Science",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Atom",
+        "Atom",
+        "Chemistry",
+        "Chemical element",
+        "Chemistry"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.94224999542348,
+        "ann_ms": 170.6722500093747,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 1.4364999951794744,
+        "total_ms": 183.05320799117908,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q037",
+      "question": "Which particles in an atom distinguish one chemical element from another?",
+      "domain": "Science",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Chemical element",
+        "Atomic theory",
+        "Chemical element",
+        "Atom",
+        "Atomism"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 2398.5725000093225,
+        "fusion_fetch_ms": 14.172832976328209,
+        "total_ms": 2412.843709025765,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q037",
+      "question": "Which particles in an atom distinguish one chemical element from another?",
+      "domain": "Science",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Atom",
+        "Chemical element",
+        "Chemical element",
+        "Atomism",
+        "Atomic theory"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.640625019324943,
+        "ann_ms": 1.9232920021750033,
+        "bm25_ms": 2344.111416983651,
+        "fusion_fetch_ms": 0.6009170028846711,
+        "total_ms": 2344.9676670134068,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q042",
+      "question": "What object has gravity so strong that even light cannot escape?",
+      "domain": "Science",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Black hole",
+        "Outline of black holes",
+        "Outline of black holes",
+        "Black holes in fiction",
+        "Dalibor Vesely"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1272.4501249904279,
+        "fusion_fetch_ms": 14.24999997834675,
+        "total_ms": 1286.8948329996783,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q042",
+      "question": "What object has gravity so strong that even light cannot escape?",
+      "domain": "Science",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Black hole",
+        "Black holes in fiction",
+        "Outline of black holes",
+        "Retarded position",
+        "Black hole"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.430124995764345,
+        "ann_ms": 188.43758400180377,
+        "bm25_ms": 1184.5040839980356,
+        "fusion_fetch_ms": 8.407415996771306,
+        "total_ms": 1193.0789579928387,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q042",
+      "question": "What object has gravity so strong that even light cannot escape?",
+      "domain": "Science",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Black hole",
+        "Black holes in fiction",
+        "Black hole",
+        "Gravitational wave",
+        "Outline of black holes"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.637084014480934,
+        "ann_ms": 2.5718329998198897,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3829999768640846,
+        "total_ms": 11.593833973165601,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q043",
+      "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+      "domain": "Computing and technology",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "Logical machine",
+        "Computer",
+        "Computer program",
+        "Central processing unit",
+        "Computer"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.154875016771257,
+        "ann_ms": 187.67987500177696,
+        "bm25_ms": 893.9367499842774,
+        "fusion_fetch_ms": 16.05899998685345,
+        "total_ms": 910.2283749962226,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q043",
+      "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+      "domain": "Computing and technology",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "Logical machine",
+        "Computer",
+        "Automated theorem proving",
+        "Counter machine",
+        "Algorithm"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.113000007346272,
+        "ann_ms": 2.0430829899851233,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.35524999839253724,
+        "total_ms": 11.512707977090031,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q043",
+      "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+      "domain": "Computing and technology",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "Logical machine",
+        "Computer",
+        "Central processing unit",
+        "Computer program",
+        "Central processing unit"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 879.9792090139817,
+        "fusion_fetch_ms": 0.5464169953484088,
+        "total_ms": 880.6234170042444,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q054",
+      "question": "Which code is directly executed by a computer's central processing unit?",
+      "domain": "Computing and technology",
+      "mode": "vector",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "Central processing unit",
+        "Central processing unit",
+        "Computer program",
+        "CDC 6000 series",
+        "Centralized computing"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.92020798730664,
+        "ann_ms": 151.86199999880046,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 1.8793329945765436,
+        "total_ms": 163.66479199496098,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q054",
+      "mode": "bm25",
+      "domain": "Computing and technology",
+      "question": "Which code is directly executed by a computer's central processing unit?",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "timings": {
+        "total_ms": 3001.241999998456
+      },
+      "warnings": [],
+      "error": "BM25 exceeded its time budget. Use more specific terms or Hybrid mode."
+    },
+    {
+      "id": "Q054",
+      "question": "Which code is directly executed by a computer's central processing unit?",
+      "domain": "Computing and technology",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Computer program",
+        "Central processing unit",
+        "Software",
+        "Central processing unit",
+        "Computer programming"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.215332985855639,
+        "ann_ms": 2.589375013485551,
+        "bm25_ms": 2509.7713329887483,
+        "fusion_fetch_ms": 8.639832987682894,
+        "total_ms": 2518.643291987246,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q055",
+      "question": "Which branch of mathematics studies continuous change?",
+      "domain": "Mathematics",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Calculus",
+        "Branches of science",
+        "Howard Jerome Keisler",
+        "Calculus",
+        "Information theory and measure theory"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 624.9945830204524,
+        "fusion_fetch_ms": 12.30587501777336,
+        "total_ms": 637.3802500020247,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q055",
+      "question": "Which branch of mathematics studies continuous change?",
+      "domain": "Mathematics",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Calculus",
+        "Branches of science",
+        "Combinatorics",
+        "Topological dynamics",
+        "Analysis"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.992708994308487,
+        "ann_ms": 263.5068749950733,
+        "bm25_ms": 601.4370829798281,
+        "fusion_fetch_ms": 9.767000010469928,
+        "total_ms": 611.3803329935763,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q055",
+      "question": "Which branch of mathematics studies continuous change?",
+      "domain": "Mathematics",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Calculus",
+        "Outline of calculus",
+        "Continuity thesis",
+        "Analysis",
+        "Mathematical sociology"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.066625003470108,
+        "ann_ms": 2.3415000177919865,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.360500009264797,
+        "total_ms": 11.77087498945184,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q060",
+      "question": "Which two civilizations used elementary arithmetic operations around 2000 BC?",
+      "domain": "Mathematics",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Arithmetic",
+        "Arithmetic",
+        "Algebraic operation",
+        "Elementary operations",
+        "The Story of 1"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.022416012361646,
+        "ann_ms": 250.57158299023286,
+        "bm25_ms": 2670.971167011885,
+        "fusion_fetch_ms": 17.705500009469688,
+        "total_ms": 2688.8737919798587,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q060",
+      "question": "Which two civilizations used elementary arithmetic operations around 2000 BC?",
+      "domain": "Mathematics",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Arithmetic",
+        "Arithmetic",
+        "The Story of 1",
+        "Ancient Egypt",
+        "Algorithm"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.459207998588681,
+        "ann_ms": 2.302417007740587,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.36283297231420875,
+        "total_ms": 12.126540997996926,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q060",
+      "question": "Which two civilizations used elementary arithmetic operations around 2000 BC?",
+      "domain": "Mathematics",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Arithmetic",
+        "Algebraic operation",
+        "Elementary operations",
+        "Computer program",
+        "Outline of arithmetic"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1871.6549999953713,
+        "fusion_fetch_ms": 0.5772080039605498,
+        "total_ms": 1872.3276669916231,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q061",
+      "question": "Antibiotics are primarily active against which microorganisms?",
+      "domain": "Medicine and health",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Antibiotic",
+        "Antibiotic",
+        "Medical microbiology",
+        "Antimicrobial resistance",
+        "Medical microbiology"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 11.566291010240093,
+        "ann_ms": 149.76104101515375,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 3.3762080129235983,
+        "total_ms": 164.70558301080018,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q061",
+      "question": "Antibiotics are primarily active against which microorganisms?",
+      "domain": "Medicine and health",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "Antibiotic",
+        "Antibiotic",
+        "Gemifloxacin",
+        "Efflux (microbiology)",
+        "Dalbavancin"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 434.65804200968705,
+        "fusion_fetch_ms": 11.288250010693446,
+        "total_ms": 446.05679099913687,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q061",
+      "question": "Antibiotics are primarily active against which microorganisms?",
+      "domain": "Medicine and health",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Antibiotic",
+        "Antibiotic",
+        "Medical microbiology",
+        "Gemifloxacin",
+        "Antimicrobial resistance"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.40183300897479,
+        "ann_ms": 1.8339160014875233,
+        "bm25_ms": 414.81895800097845,
+        "fusion_fetch_ms": 1.0532079904805869,
+        "total_ms": 416.08379199169576,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q072",
+      "question": "Which class of anti-inflammatory drugs includes aspirin?",
+      "domain": "Medicine and health",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Aspirin",
+        "Aspirin",
+        "Carbasalate calcium",
+        "Mechanism of action",
+        "History of aspirin"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 765.14762500301,
+        "fusion_fetch_ms": 10.292833991115913,
+        "total_ms": 775.534415995935,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q072",
+      "question": "Which class of anti-inflammatory drugs includes aspirin?",
+      "domain": "Medicine and health",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Aspirin",
+        "Mechanism of action",
+        "Analgesic",
+        "Analgesic nephropathy",
+        "Aspirin"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.267375007970259,
+        "ann_ms": 171.6527920216322,
+        "bm25_ms": 948.2094580016565,
+        "fusion_fetch_ms": 2.413250011159107,
+        "total_ms": 950.799125013873,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q072",
+      "question": "Which class of anti-inflammatory drugs includes aspirin?",
+      "domain": "Medicine and health",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Aspirin",
+        "Analgesic",
+        "History of aspirin",
+        "Oxicam",
+        "Aspirin"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.650499996496364,
+        "ann_ms": 1.9506660173647106,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3217079793103039,
+        "total_ms": 11.92470800015144,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q073",
+      "question": "What taxonomic class do birds constitute?",
+      "domain": "Biology and nature",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bird",
+        "Chordate",
+        "Bird",
+        "Taxonomic rank",
+        "Lafresnaye's woodcreeper"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.288125002058223,
+        "ann_ms": 250.78766600927338,
+        "bm25_ms": 723.0804589926265,
+        "fusion_fetch_ms": 15.303749998565763,
+        "total_ms": 738.579541008221,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q073",
+      "question": "What taxonomic class do birds constitute?",
+      "domain": "Biology and nature",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bird",
+        "Bird",
+        "Library of Congress Classification:Class Q -- Science",
+        "Library of Congress Classification:Class S -- Agriculture",
+        "Chestnut-flanked sparrowhawk"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.373042004881427,
+        "ann_ms": 2.2999169887043536,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3322080010548234,
+        "total_ms": 12.006375007331371,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q073",
+      "question": "What taxonomic class do birds constitute?",
+      "domain": "Biology and nature",
+      "mode": "bm25",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "Bucerotiformes",
+        "Chordate",
+        "List of fossil bird genera",
+        "Legion (taxonomy)",
+        "List of birds of Iowa"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 314.8028329887893,
+        "fusion_fetch_ms": 0.5080830014776438,
+        "total_ms": 315.4017500055488,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q081",
+      "question": "Which atmospheric element do bacteria help fix in nutrient cycles?",
+      "domain": "Biology and nature",
+      "mode": "vector",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "Microbial metabolism",
+        "Rhizobacteria",
+        "Bioaerosol",
+        "Single-cell protein",
+        "Microbial loop"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.184999991906807,
+        "ann_ms": 136.0091250098776,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 3.5534590133465827,
+        "total_ms": 149.7500840050634,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q081",
+      "question": "Which atmospheric element do bacteria help fix in nutrient cycles?",
+      "domain": "Biology and nature",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bacteria",
+        "Bioaerosol",
+        "Lake ecosystem",
+        "Symbiotic bacteria",
+        "Rhizobacteria"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 278.7021250114776,
+        "fusion_fetch_ms": 6.8029999965801835,
+        "total_ms": 285.5941249872558,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q081",
+      "question": "Which atmospheric element do bacteria help fix in nutrient cycles?",
+      "domain": "Biology and nature",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bioaerosol",
+        "Lake ecosystem",
+        "Beneficial weed",
+        "Microbial metabolism",
+        "Bacteria"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.241083025699481,
+        "ann_ms": 1.8800840189214796,
+        "bm25_ms": 257.37583299633116,
+        "fusion_fetch_ms": 0.6920000014360994,
+        "total_ms": 258.2118750142399,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q082",
+      "question": "What establishes the fundamental legal basis of a polity?",
+      "domain": "Politics and government",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Constitution",
+        "Constitutional Court of Georgia",
+        "Austrian Academy of Sciences",
+        "State continuity of the Baltic states",
+        "Fundamental rights in India"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 359.7030839882791,
+        "fusion_fetch_ms": 13.330374989891425,
+        "total_ms": 373.1262919900473,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q082",
+      "question": "What establishes the fundamental legal basis of a polity?",
+      "domain": "Politics and government",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Constitution",
+        "Ecclesiastical polity",
+        "Constitutional Court of Georgia",
+        "Constitutional law",
+        "Austrian Academy of Sciences"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.94604200241156,
+        "ann_ms": 266.5536249987781,
+        "bm25_ms": 348.98179199080914,
+        "fusion_fetch_ms": 6.74091701512225,
+        "total_ms": 355.90970897465013,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q082",
+      "question": "What establishes the fundamental legal basis of a polity?",
+      "domain": "Politics and government",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Constitution",
+        "Ecclesiastical polity",
+        "Constitutional law",
+        "Book of Order",
+        "Constitutional law"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.860999998636544,
+        "ann_ms": 2.376832999289036,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3801669809035957,
+        "total_ms": 12.619499990250915,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q087",
+      "question": "Which institutions does anarchism typically seek to abolish alongside capitalism?",
+      "domain": "Politics and government",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Anarchism",
+        "Anarcho-capitalism",
+        "Anarcho-capitalism",
+        "Anarchism",
+        "Issues in anarchism"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.76470798579976,
+        "ann_ms": 119.61150000570342,
+        "bm25_ms": 359.0626249788329,
+        "fusion_fetch_ms": 6.754000001819804,
+        "total_ms": 366.02245800895616,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q087",
+      "question": "Which institutions does anarchism typically seek to abolish alongside capitalism?",
+      "domain": "Politics and government",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Anarcho-capitalism",
+        "Anarcho-capitalism",
+        "Anarchism",
+        "Anarchism",
+        "Issues in anarchism"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.776541992323473,
+        "ann_ms": 1.7864579858724028,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.31874998239800334,
+        "total_ms": 11.88325000111945,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q087",
+      "question": "Which institutions does anarchism typically seek to abolish alongside capitalism?",
+      "domain": "Politics and government",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Anarchism",
+        "Anarcho-capitalism",
+        "Postcolonial anarchism",
+        "Anarcho-capitalism",
+        "Issues in anarchism"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 325.3475840028841,
+        "fusion_fetch_ms": 0.5147909978404641,
+        "total_ms": 325.9392080071848,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q088",
+      "question": "Which economic system is based on private ownership of the means of production?",
+      "domain": "Business and economics",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Capitalism",
+        "Capitalism",
+        "Economic law",
+        "Economic law",
+        "Economic ideology"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.66974999755621,
+        "ann_ms": 141.33204199606553,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 4.152584006078541,
+        "total_ms": 155.15654199407436,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q088",
+      "question": "Which economic system is based on private ownership of the means of production?",
+      "domain": "Business and economics",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Property rights (economics)",
+        "Economic law",
+        "Capitalism",
+        "Economic law",
+        "Property income"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 895.8149590180255,
+        "fusion_fetch_ms": 11.867541004903615,
+        "total_ms": 907.7964169846382,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q088",
+      "question": "Which economic system is based on private ownership of the means of production?",
+      "domain": "Business and economics",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Capitalism",
+        "Economic law",
+        "Capitalism",
+        "Economic law",
+        "Economic ideology"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.716333996038884,
+        "ann_ms": 2.0881249802187085,
+        "bm25_ms": 865.8000420255121,
+        "fusion_fetch_ms": 0.8098749967757612,
+        "total_ms": 866.8020830082241,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q096",
+      "question": "Which Enlightenment movement was Adam Smith a key figure in?",
+      "domain": "Business and economics",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Adam Smith",
+        "Adam Smith College",
+        "Adam Smith College",
+        "Adam Smith",
+        "James Meek (minister)"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 297.6584159769118,
+        "fusion_fetch_ms": 9.5348340109922,
+        "total_ms": 307.2874999779742,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q096",
+      "question": "Which Enlightenment movement was Adam Smith a key figure in?",
+      "domain": "Business and economics",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Adam Smith",
+        "Adam Smith",
+        "Adam Smith College",
+        "Adam Smith College",
+        "Adam and Company"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.450208017369732,
+        "ann_ms": 365.3214579971973,
+        "bm25_ms": 279.0464999852702,
+        "fusion_fetch_ms": 4.326249996665865,
+        "total_ms": 379.11854198318906,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q096",
+      "question": "Which Enlightenment movement was Adam Smith a key figure in?",
+      "domain": "Business and economics",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Adam Smith",
+        "William Smith (abolitionist)",
+        "Adam Smith",
+        "Giovanni Arrighi",
+        "The Goose-Step (book)"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.085791000165045,
+        "ann_ms": 2.887250011553988,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.33725000685080886,
+        "total_ms": 13.311999995494261,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q097",
+      "question": "How many players are most commonly on each basketball team on court?",
+      "domain": "Sports",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Basketball",
+        "Variations of basketball",
+        "Too many men",
+        "Basketball",
+        "Six-on-six basketball"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.446541003650054,
+        "ann_ms": 218.48720900015905,
+        "bm25_ms": 2135.2357499999925,
+        "fusion_fetch_ms": 19.543791975593194,
+        "total_ms": 2154.9851660092827,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q097",
+      "question": "How many players are most commonly on each basketball team on court?",
+      "domain": "Sports",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "Basketball",
+        "List of NBA players who have spent their entire career with one franchise",
+        "List of NBA All-Stars",
+        "Basketball",
+        "All-NBA Team"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.32183301099576,
+        "ann_ms": 2.1417080133687705,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.34704201971180737,
+        "total_ms": 10.812167020048946,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q097",
+      "question": "How many players are most commonly on each basketball team on court?",
+      "domain": "Sports",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Basketball",
+        "Basketball",
+        "Too many men",
+        "Variations of basketball",
+        "All-Pro Basketball"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1403.142833005404,
+        "fusion_fetch_ms": 0.5649169906973839,
+        "total_ms": 1403.8474170083646,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q105",
+      "question": "Where are formal badminton games played?",
+      "domain": "Sports",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Badminton",
+        "Badminton at the Asian Games",
+        "Badminton England",
+        "Badminton at the SEA Games",
+        "Badminton"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.142583982087672,
+        "ann_ms": 260.74741600314155,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 4.132583999307826,
+        "total_ms": 275.02529200864956,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q105",
+      "question": "Where are formal badminton games played?",
+      "domain": "Sports",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Badminton",
+        "Badminton",
+        "Badminton at the 2007 Pan American Games",
+        "Rajiv Ouseph",
+        "Gillian Gilks"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 610.1116250210907,
+        "fusion_fetch_ms": 12.755208008456975,
+        "total_ms": 622.9536250175443,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q105",
+      "question": "Where are formal badminton games played?",
+      "domain": "Sports",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Badminton",
+        "Badminton",
+        "Scoring system development of badminton",
+        "Badminton at the African Games",
+        "Former Singapore Badminton Hall"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.251833020243794,
+        "ann_ms": 2.3995419905986637,
+        "bm25_ms": 589.5767910114955,
+        "fusion_fetch_ms": 0.7392499828711152,
+        "total_ms": 590.5324170016684,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q106",
+      "question": "What are the Academy Awards commonly called?",
+      "domain": "Arts and entertainment",
+      "mode": "bm25",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "80th Academy Awards",
+        "79th Academy Awards",
+        "81st Academy Awards",
+        "51st Academy Awards",
+        "Frances Bardsley Academy for Girls"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 571.4614170137793,
+        "fusion_fetch_ms": 12.589207995915785,
+        "total_ms": 584.149583010003,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q106",
+      "question": "What are the Academy Awards commonly called?",
+      "domain": "Arts and entertainment",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "Academy Awards",
+        "Academy Awards",
+        "80th Academy Awards",
+        "79th Academy Awards",
+        "Film award"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.993041992653161,
+        "ann_ms": 172.78095800429583,
+        "bm25_ms": 561.5342919772957,
+        "fusion_fetch_ms": 7.082249998347834,
+        "total_ms": 568.7800000014249,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q106",
+      "question": "What are the Academy Awards commonly called?",
+      "domain": "Arts and entertainment",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Academy Awards",
+        "Film award",
+        "Academy Awards",
+        "Academy (disambiguation)",
+        "1956 Academy Awards"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.483582991175354,
+        "ann_ms": 2.141500008292496,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3002499870490283,
+        "total_ms": 10.927249997621402,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q111",
+      "question": "Which city inspired Gershwin's An American in Paris?",
+      "domain": "Arts and entertainment",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "An American in Paris",
+        "An American in Paris",
+        "Rhapsody in Blue (film)",
+        "Jukebox musical",
+        "Arthur Gershwin"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.732791979331523,
+        "ann_ms": 313.3420840022154,
+        "bm25_ms": 2342.4834590114187,
+        "fusion_fetch_ms": 13.131041981978342,
+        "total_ms": 2355.7759589748457,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q111",
+      "question": "Which city inspired Gershwin's An American in Paris?",
+      "domain": "Arts and entertainment",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "An American in Paris",
+        "An American in Paris",
+        "Arthur Gershwin",
+        "Rhapsody in Blue (film)",
+        "Jukebox musical"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.856166008627042,
+        "ann_ms": 2.769832994090393,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3655829932540655,
+        "total_ms": 11.993667023489252,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q111",
+      "question": "Which city inspired Gershwin's An American in Paris?",
+      "domain": "Arts and entertainment",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "An American in Paris",
+        "An American in Paris",
+        "List of compositions by George Gershwin",
+        "Wayne Marshall (classical musician)",
+        "Jukebox musical"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 2478.208166983677,
+        "fusion_fetch_ms": 0.5162079760339111,
+        "total_ms": 2478.8647079840302,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q112",
+      "question": "Whose life and teachings form the basis of Christianity?",
+      "domain": "Religion and philosophy",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Christianity",
+        "Anglican doctrine",
+        "God in Christianity",
+        "Incarnation (Christianity)",
+        "Role of Christianity in civilization"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.31854099710472,
+        "ann_ms": 229.58616699906997,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 3.9686670061200857,
+        "total_ms": 243.87629199190997,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q112",
+      "question": "Whose life and teachings form the basis of Christianity?",
+      "domain": "Religion and philosophy",
+      "mode": "bm25",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "KNWS-FM",
+        "Martin Luther",
+        "Jesus Christians",
+        "Role of Christianity in civilization",
+        "Martin Luther"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1106.5579169953708,
+        "fusion_fetch_ms": 13.142625015461817,
+        "total_ms": 1119.8584999947343,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q112",
+      "question": "Whose life and teachings form the basis of Christianity?",
+      "domain": "Religion and philosophy",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Role of Christianity in civilization",
+        "Catholic theology",
+        "Christianity",
+        "KNWS-FM",
+        "Anglican doctrine"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.431457991013303,
+        "ann_ms": 2.3242919996846467,
+        "bm25_ms": 652.666500012856,
+        "fusion_fetch_ms": 0.8749999979045242,
+        "total_ms": 653.6916670156643,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q126",
+      "question": "In which year did Ayn Rand move to the United States?",
+      "domain": "Religion and philosophy",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Rand Paul",
+        "Ayn Rand",
+        "Ayn Rand",
+        "Jeff Britting",
+        "The Passion of Ayn Rand (film)"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1763.8290000031702,
+        "fusion_fetch_ms": 7.616624992806464,
+        "total_ms": 1771.586999995634,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q126",
+      "question": "In which year did Ayn Rand move to the United States?",
+      "domain": "Religion and philosophy",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Ayn Rand",
+        "Ayn Rand",
+        "Rand Paul",
+        "Philosophy: Who Needs It",
+        "The Passion of Ayn Rand (film)"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.474541013129056,
+        "ann_ms": 342.6310829818249,
+        "bm25_ms": 1598.509625007864,
+        "fusion_fetch_ms": 6.90370801021345,
+        "total_ms": 1605.5900829960592,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q126",
+      "question": "In which year did Ayn Rand move to the United States?",
+      "domain": "Religion and philosophy",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Ayn Rand",
+        "Ayn Rand",
+        "Rand Paul",
+        "Rand Paul",
+        "Rose Rand"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.520124974893406,
+        "ann_ms": 3.0373750196304172,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.35079100052826107,
+        "total_ms": 11.909875000128523,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q127",
+      "question": "In which city is Brown University located?",
+      "domain": "Education",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Aberdeen, South Dakota",
+        "Brown Mackie College",
+        "George Warren Brown School of Social Work",
+        "Brown University",
+        "List of Brown University statues"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.631167002022266,
+        "ann_ms": 356.1302910093218,
+        "bm25_ms": 1012.6500840124208,
+        "fusion_fetch_ms": 16.118874977109954,
+        "total_ms": 1028.9974999905098,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q127",
+      "question": "In which city is Brown University located?",
+      "domain": "Education",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Brown University",
+        "Brown Bears football",
+        "Cambridge, Massachusetts",
+        "Brown University",
+        "Brown Mackie College"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.920124993892387,
+        "ann_ms": 2.681124984519556,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.36750000435858965,
+        "total_ms": 11.970541992923245,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q127",
+      "question": "In which city is Brown University located?",
+      "domain": "Education",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "List of Brown University statues",
+        "Meltdown (Steve Taylor album)",
+        "List of DC Universe locations",
+        "Brown University",
+        "List of for-profit universities and colleges"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1152.5854579813313,
+        "fusion_fetch_ms": 0.6759579991921782,
+        "total_ms": 1153.36812500027,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q135",
+      "question": "What metaphorical structure is used to represent an academic genealogy?",
+      "domain": "Education",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Academic genealogy",
+        "Anthroponymy",
+        "Metaphoric criticism",
+        "Metaphor in philosophy",
+        "Academic genealogy"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.877333999611437,
+        "ann_ms": 298.29087501275353,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 5.622083001071587,
+        "total_ms": 313.793417008128,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q135",
+      "question": "What metaphorical structure is used to represent an academic genealogy?",
+      "domain": "Education",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Jonathan Haidt",
+        "Academic genealogy",
+        "Academic genealogy",
+        "Charles Faulkner (author)",
+        "Metaphoric criticism"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1286.0084999992978,
+        "fusion_fetch_ms": 12.86195800639689,
+        "total_ms": 1298.9667500078212,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q135",
+      "question": "What metaphorical structure is used to represent an academic genealogy?",
+      "domain": "Education",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Academic genealogy",
+        "Academic genealogy",
+        "Structural endogamy",
+        "Metaphoric criticism",
+        "Geni.com"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.754832990234718,
+        "ann_ms": 2.695167000638321,
+        "bm25_ms": 1027.71804202348,
+        "fusion_fetch_ms": 0.818375003291294,
+        "total_ms": 1028.6847090173978,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q136",
+      "question": "What structure provides passage over a physical obstacle?",
+      "domain": "Transport and infrastructure",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bridge",
+        "Obstacle course",
+        "Obstacle course",
+        "Air traffic obstacle",
+        "Rural health"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 738.1214579800144,
+        "fusion_fetch_ms": 11.692666012095287,
+        "total_ms": 749.9046250013635,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q136",
+      "question": "What structure provides passage over a physical obstacle?",
+      "domain": "Transport and infrastructure",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bridge",
+        "Horse jumping obstacles",
+        "Obstacle course",
+        "Suicide barrier",
+        "Obstacle course"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.542334009893239,
+        "ann_ms": 303.9607079990674,
+        "bm25_ms": 709.2252919974271,
+        "fusion_fetch_ms": 6.6150839847978204,
+        "total_ms": 715.9938330005389,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q136",
+      "question": "What structure provides passage over a physical obstacle?",
+      "domain": "Transport and infrastructure",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Bridge",
+        "Suicide barrier",
+        "Horse jumping obstacles",
+        "Air draft",
+        "Skirt guard"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.258249978302047,
+        "ann_ms": 2.7242910000495613,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3566250088624656,
+        "total_ms": 12.34079198911786,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q141",
+      "question": "How many wheels does a bicycle have?",
+      "domain": "Transport and infrastructure",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "List of bicycle types",
+        "Bicycle",
+        "Bicycle",
+        "List of bicycle types",
+        "Portable bicycle"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.850374986650422,
+        "ann_ms": 178.43837500549853,
+        "bm25_ms": 981.9894579995889,
+        "fusion_fetch_ms": 10.45308299944736,
+        "total_ms": 992.6391249755397,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q141",
+      "question": "How many wheels does a bicycle have?",
+      "domain": "Transport and infrastructure",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "List of bicycle types",
+        "Bicycle",
+        "Bicycle",
+        "Bicycle tire",
+        "Cross-country cycling"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.78845899226144,
+        "ann_ms": 2.0295830036047846,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.3194579912815243,
+        "total_ms": 12.138916994445026,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q141",
+      "question": "How many wheels does a bicycle have?",
+      "domain": "Transport and infrastructure",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": false,
+      "titles": [
+        "List of bicycle types",
+        "Wire wheel",
+        "List of bicycle types",
+        "Bicycle",
+        "Bicycle"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1115.0412500137463,
+        "fusion_fetch_ms": 0.5547910113818944,
+        "total_ms": 1115.7407500140835,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q142",
+      "question": "What discipline is the scientific study of humanity?",
+      "domain": "Society and culture",
+      "mode": "vector",
+      "article_hit": false,
+      "expected_passage_hit": false,
+      "titles": [
+        "Human science",
+        "Academic discipline",
+        "Science fiction studies",
+        "Outline of science",
+        "Academic discipline"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.189791995799169,
+        "ann_ms": 203.38216601521708,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 4.06700000166893,
+        "total_ms": 217.64187500230037,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q142",
+      "question": "What discipline is the scientific study of humanity?",
+      "domain": "Society and culture",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Outline of biology",
+        "Kinanthropometry",
+        "Outline of community",
+        "Anthropology",
+        "Branches of science"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 317.5544169789646,
+        "fusion_fetch_ms": 6.8819580192212015,
+        "total_ms": 324.57866601180285,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q142",
+      "question": "What discipline is the scientific study of humanity?",
+      "domain": "Society and culture",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Academic discipline",
+        "Anthropology",
+        "Outline of biology",
+        "Branches of science",
+        "Outline of anthropology"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.985541993752122,
+        "ann_ms": 2.3007089912425727,
+        "bm25_ms": 304.1034589987248,
+        "fusion_fetch_ms": 0.7817090081516653,
+        "total_ms": 305.0572919892147,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q150",
+      "question": "Approximately how many people speak a variety of Chinese as their first language?",
+      "domain": "Society and culture",
+      "mode": "bm25",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Chinese language",
+        "Chinese language",
+        "Singaporean Mandarin",
+        "Saisiyat language",
+        "Languages of Singapore"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 2526.106040982995,
+        "fusion_fetch_ms": 11.77762501174584,
+        "total_ms": 2537.9851250036154,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q150",
+      "question": "Approximately how many people speak a variety of Chinese as their first language?",
+      "domain": "Society and culture",
+      "mode": "hybrid",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Chinese language",
+        "Chinese language",
+        "China",
+        "Chinese as a foreign language",
+        "Singaporean Mandarin"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.131208003964275,
+        "ann_ms": 198.55787500273436,
+        "bm25_ms": 2225.7386660203338,
+        "fusion_fetch_ms": 6.671167007880285,
+        "total_ms": 2232.6333750097547,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": [],
+      "error": null
+    },
+    {
+      "id": "Q150",
+      "question": "Approximately how many people speak a variety of Chinese as their first language?",
+      "domain": "Society and culture",
+      "mode": "vector",
+      "article_hit": true,
+      "expected_passage_hit": true,
+      "titles": [
+        "Chinese language",
+        "China",
+        "Chinese as a foreign language",
+        "Chinese language",
+        "China"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.462708996376023,
+        "ann_ms": 2.100290992530063,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 0.4341249878052622,
+        "total_ms": 10.998832993209362,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": [],
+      "error": null
+    }
+  ]
+}

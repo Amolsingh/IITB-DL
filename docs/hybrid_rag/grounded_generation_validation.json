@@ -1,0 +1,3382 @@
+[
+  {
+    "id": "Q001",
+    "question": "In which part of Europe is France primarily located?",
+    "expected": [
+      "Western Europe"
+    ],
+    "before": "Western Europe",
+    "answer": "Western Europe.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5867:4071:5079"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7261620410135947
+  },
+  {
+    "id": "Q002",
+    "question": "What is the official name of France?",
+    "expected": [
+      "French Republic"
+    ],
+    "before": "France",
+    "answer": "France is officially the French Republic.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5843419:3676:4664"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7776171669829637
+  },
+  {
+    "id": "Q003",
+    "question": "Which country borders metropolitan France to the northeast?",
+    "expected": [
+      "Germany"
+    ],
+    "before": "United Kingdom",
+    "answer": "France.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "3343:0:967"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6574537500273436
+  },
+  {
+    "id": "Q004",
+    "question": "What is Brazil's capital?",
+    "expected": [
+      "Bras\u00edlia"
+    ],
+    "before": "Brasilia",
+    "answer": "Brasilia.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7762916:0:854"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6260620839893818
+  },
+  {
+    "id": "Q005",
+    "question": "Which language is official in Brazil?",
+    "expected": [
+      "Portuguese"
+    ],
+    "before": "Portuguese",
+    "answer": "Portuguese.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5272547:10036:11139",
+        "3383:64210:65280"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6291539999656379
+  },
+  {
+    "id": "Q006",
+    "question": "What is Brazil's most populous city?",
+    "expected": [
+      "S\u00e3o Paulo"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Salto Grande.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "10912758:683:1527"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6823492919793352
+  },
+  {
+    "id": "Q007",
+    "question": "What is Australia's official name?",
+    "expected": [
+      "Commonwealth of Australia"
+    ],
+    "before": "Commonwealth of Australia",
+    "answer": "Commonwealth of Australia.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4689264:3734:4842"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6442081670393236
+  },
+  {
+    "id": "Q008",
+    "question": "Which island state is named in Australia's geographical definition?",
+    "expected": [
+      "Tasmania"
+    ],
+    "before": "South Australia",
+    "answer": "Tasmania.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "12544844:0:902",
+        "7722108:26893:27984"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7039705000352114
+  },
+  {
+    "id": "Q009",
+    "question": "Which country is the largest by area in Oceania?",
+    "expected": [
+      "Australia"
+    ],
+    "before": "Australia",
+    "answer": "Australia.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "11898248:0:915"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6318920000339858
+  },
+  {
+    "id": "Q010",
+    "question": "Which ocean is the world's second largest?",
+    "expected": [
+      "Atlantic Ocean"
+    ],
+    "before": "Atlantic",
+    "answer": "Atlantic Ocean.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5042916:0:1132",
+        "5334607:0:972"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.5636280420003459
+  },
+  {
+    "id": "Q011",
+    "question": "Approximately what percentage of Earth's surface does the Atlantic cover?",
+    "expected": [
+      "17%"
+    ],
+    "before": "17%",
+    "answer": "17%",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "8782181:530:1241"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.769730250001885
+  },
+  {
+    "id": "Q012",
+    "question": "Which ocean separates Europe and Africa from the Americas?",
+    "expected": [
+      "Atlantic Ocean"
+    ],
+    "before": "Atlantic",
+    "answer": "Atlantic Ocean.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "13973661:1714:2864",
+        "5405878:0:876"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6578204999677837
+  },
+  {
+    "id": "Q013",
+    "question": "Which two coalitions fought in World War I?",
+    "expected": [
+      "Allied Powers and the Central Powers"
+    ],
+    "before": "Allied Powers and the Central Powers",
+    "answer": "Allied Powers and the Central Powers.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "14471456:0:997",
+        "14471456:2902:4005"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7650545409996994
+  },
+  {
+    "id": "Q014",
+    "question": "What is another name for World War I?",
+    "expected": [
+      "First World War"
+    ],
+    "before": "First World War",
+    "answer": "WWI.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "6061564:0:978"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6924815830425359
+  },
+  {
+    "id": "Q015",
+    "question": "Approximately how many soldiers died in World War I?",
+    "expected": [
+      "9 million"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "9 million. 23 million.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "4764461:69690:70669",
+        "7485346:0:1038"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7372737500118092
+  },
+  {
+    "id": "Q016",
+    "question": "In which river valley was Ancient Egypt situated?",
+    "expected": [
+      "Nile Valley"
+    ],
+    "before": "Nile Valley",
+    "answer": "Nile Valley.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9031507:0:1059"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6399233749834821
+  },
+  {
+    "id": "Q017",
+    "question": "In which region of Africa was Ancient Egypt located?",
+    "expected": [
+      "Northeast Africa"
+    ],
+    "before": "Northeast",
+    "answer": "North Africa.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7888526:10928:11898"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6555284580099396
+  },
+  {
+    "id": "Q018",
+    "question": "Who is traditionally associated with unifying Upper and Lower Egypt?",
+    "expected": [
+      "Menes"
+    ],
+    "before": "Middle Egypt",
+    "answer": "Narmer.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "12360450:0:950",
+        "5392262:3867:4793"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.61780104204081
+  },
+  {
+    "id": "Q019",
+    "question": "What was the northern side in the American Civil War called?",
+    "expected": [
+      "Union"
+    ],
+    "before": "Santa B\u00e1rbara d'Oeste Americana",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "863:0:1068"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6874711670097895
+  },
+  {
+    "id": "Q020",
+    "question": "In which year did the American Civil War begin?",
+    "expected": [
+      "1861"
+    ],
+    "before": "1861",
+    "answer": "1865.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1009:861:1817",
+        "863:53613:54726"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6321327919722535
+  },
+  {
+    "id": "Q021",
+    "question": "In which year did the American Civil War end?",
+    "expected": [
+      "1865"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "1866.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "863:78267:79321",
+        "14990389:0:1042"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.646348542009946
+  },
+  {
+    "id": "Q022",
+    "question": "Who was the sixteenth president of the United States?",
+    "expected": [
+      "Abraham Lincoln"
+    ],
+    "before": "Abraham Lincoln",
+    "answer": "Abraham Lincoln.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "307:0:1046"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7594019999960437
+  },
+  {
+    "id": "Q023",
+    "question": "Which president led the Union during the American Civil War?",
+    "expected": [
+      "Lincoln"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Abraham Lincoln.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "863:905:1947",
+        "307:0:1046"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6522363339900039
+  },
+  {
+    "id": "Q024",
+    "question": "In which year was Abraham Lincoln assassinated?",
+    "expected": [
+      "1865"
+    ],
+    "before": "1998",
+    "answer": "1865.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "10890860:79998:80957",
+        "4924254:30270:31098"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6631411669659428
+  },
+  {
+    "id": "Q025",
+    "question": "Which scientist is best known for developing the theory of relativity?",
+    "expected": [
+      "Einstein"
+    ],
+    "before": "Albert Einstein",
+    "answer": "Albert Einstein.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "12738235:0:1018"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7545472499914467
+  },
+  {
+    "id": "Q026",
+    "question": "What kind of physicist was Albert Einstein?",
+    "expected": [
+      "theoretical physicist"
+    ],
+    "before": "theoretical physicist",
+    "answer": "Einstein was a German-born theoretical physicist.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "12738235:0:1018",
+        "736:948:2046"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8160245409817435
+  },
+  {
+    "id": "Q027",
+    "question": "In which year was Albert Einstein born?",
+    "expected": [
+      "1879"
+    ],
+    "before": "1910",
+    "answer": "1879",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "736:9558:10426",
+        "7089643:0:1051"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.5893746669753455
+  },
+  {
+    "id": "Q028",
+    "question": "Who founded the Peripatetic school of philosophy?",
+    "expected": [
+      "Aristotle"
+    ],
+    "before": "Plato's student, Aristotle",
+    "answer": "Aristotle.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "13704154:5613:6592",
+        "10649725:612:1520"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6734566250233911
+  },
+  {
+    "id": "Q029",
+    "question": "In which city was Aristotle's Lyceum located?",
+    "expected": [
+      "Athens"
+    ],
+    "before": "Athens",
+    "answer": "Athens.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "13517898:17284:18184",
+        "308:5076:6045"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6678253749851137
+  },
+  {
+    "id": "Q030",
+    "question": "Was Aristotle an Ancient Greek philosopher?",
+    "expected": [
+      "Ancient Greek philosopher"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "He was born in the city of Stagira.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "13585757:0:621",
+        "4831143:12052:13037"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7247431249707006
+  },
+  {
+    "id": "Q031",
+    "question": "With whom did Darwin jointly publish his theory of evolution?",
+    "expected": [
+      "Alfred Russel Wallace"
+    ],
+    "before": "John Maynard Smith",
+    "answer": "John Maynard Smith.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "8145410:0:1227"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7163675839547068
+  },
+  {
+    "id": "Q032",
+    "question": "Which branch of biology is Charles Darwin widely associated with?",
+    "expected": [
+      "evolutionary biology"
+    ],
+    "before": "evolutionary biology",
+    "answer": "Evolutionary biology.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "8145410:28702:29727",
+        "12327097:973:2004"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7261283749830909
+  },
+  {
+    "id": "Q033",
+    "question": "What common origin did Darwin propose for all species of life?",
+    "expected": [
+      "common ancestor"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "ancestor.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5259:788:1913",
+        "8383637:3247:4236"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.688104624976404
+  },
+  {
+    "id": "Q034",
+    "question": "Which proposed computer did Ada Lovelace work on?",
+    "expected": [
+      "Analytical Engine"
+    ],
+    "before": "Analytical Engine",
+    "answer": "Analytical Engine.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "974:1722:2665"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6703680829959922
+  },
+  {
+    "id": "Q035",
+    "question": "Who designed the proposed computer associated with Ada Lovelace?",
+    "expected": [
+      "Charles Babbage"
+    ],
+    "before": "Jean Ichbiah",
+    "answer": "Charles Babbage.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1242:898:1802",
+        "974:22170:23186"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6583928749896586
+  },
+  {
+    "id": "Q036",
+    "question": "Which poet was Ada Lovelace's father?",
+    "expected": [
+      "Lord Byron"
+    ],
+    "before": "Ralph Milbanke",
+    "answer": "Ada Byron.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "974:8728:9726",
+        "12815971:0:1044"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.5886222089757212
+  },
+  {
+    "id": "Q037",
+    "question": "Which particles in an atom distinguish one chemical element from another?",
+    "expected": [
+      "protons"
+    ],
+    "before": "protons",
+    "answer": "Protons and neutrons.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5659:0:1104",
+        "902:20695:21686"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7265280000283383
+  },
+  {
+    "id": "Q038",
+    "question": "An atom with 11 protons belongs to which element?",
+    "expected": [
+      "sodium"
+    ],
+    "before": "sodium",
+    "answer": "atoms.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5659:6834:7917",
+        "5659:0:1104"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6360755420173518
+  },
+  {
+    "id": "Q039",
+    "question": "An atom with 29 protons belongs to which element?",
+    "expected": [
+      "copper"
+    ],
+    "before": "copper",
+    "answer": "atoms.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5659:12015:12964",
+        "902:24301:25238"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6278642500401475
+  },
+  {
+    "id": "Q040",
+    "question": "What is the boundary of no escape around a black hole called?",
+    "expected": [
+      "event horizon"
+    ],
+    "before": "event horizon",
+    "answer": "The event horizon.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "14464469:0:1120",
+        "4035:28231:29223"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6263885000371374
+  },
+  {
+    "id": "Q041",
+    "question": "Which theory predicts that a compact mass can form a black hole?",
+    "expected": [
+      "general relativity"
+    ],
+    "before": "theory of general relativity",
+    "answer": "General relativity.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "14464469:0:1120",
+        "4035:28231:29223"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6778953329776414
+  },
+  {
+    "id": "Q042",
+    "question": "What object has gravity so strong that even light cannot escape?",
+    "expected": [
+      "black hole"
+    ],
+    "before": "Black holes",
+    "answer": "Black holes.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "14464469:8140:9240"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7464302919688635
+  },
+  {
+    "id": "Q043",
+    "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+    "expected": [
+      "computer"
+    ],
+    "before": "logical abacus",
+    "answer": "Arithmetic logic unit.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "7878457:0:1190",
+        "5989279:0:1034"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7200804579770193
+  },
+  {
+    "id": "Q044",
+    "question": "What are the sets of operations executed by digital computers called?",
+    "expected": [
+      "programs"
+    ],
+    "before": "programs",
+    "answer": "[1]",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7878457:35370:36413"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7248852090560831
+  },
+  {
+    "id": "Q045",
+    "question": "What is described as the main software of a computer system?",
+    "expected": [
+      "operating system"
+    ],
+    "before": "software",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7878457:0:1190"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6610075000207871
+  },
+  {
+    "id": "Q046",
+    "question": "What does AI stand for?",
+    "expected": [
+      "Artificial intelligence"
+    ],
+    "before": "Alice in Wonderland",
+    "answer": "AIW.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "2846:0:934"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6485814590123482
+  },
+  {
+    "id": "Q047",
+    "question": "In which field are intelligent machines studied and developed?",
+    "expected": [
+      "computer science"
+    ],
+    "before": "computer science",
+    "answer": "Artificial intelligence.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "1164:38356:39492"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7255479170125909
+  },
+  {
+    "id": "Q048",
+    "question": "What is intelligence exhibited by machines or software called?",
+    "expected": [
+      "Artificial intelligence"
+    ],
+    "before": "Artificial intelligence",
+    "answer": "Artificial intelligence.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "1164:0:1007"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.654992834024597
+  },
+  {
+    "id": "Q049",
+    "question": "What is a finite sequence of rigorous instructions for solving a problem called?",
+    "expected": [
+      "algorithm"
+    ],
+    "before": "algorithm",
+    "answer": "Algorithm.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "12979890:0:1103",
+        "775:69697:70494"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7305428750114515
+  },
+  {
+    "id": "Q050",
+    "question": "What can algorithms use to divert execution through different routes?",
+    "expected": [
+      "conditionals"
+    ],
+    "before": "routing algorithm",
+    "answer": "Conditionals.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "14660112:35055:36138",
+        "10164709:5838:6968"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7320081249927171
+  },
+  {
+    "id": "Q051",
+    "question": "What term describes algorithms deducing valid inferences?",
+    "expected": [
+      "automated reasoning"
+    ],
+    "before": "automated reasoning",
+    "answer": "Algorithm.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1164:13381:14491",
+        "9292749:0:1144"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.70792083296692
+  },
+  {
+    "id": "Q052",
+    "question": "What is another name for computer programming?",
+    "expected": [
+      "coding"
+    ],
+    "before": "compiler",
+    "answer": "Computer programming.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7878457:50180:51319"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.635456999996677
+  },
+  {
+    "id": "Q053",
+    "question": "What are the instruction sequences written by programmers called?",
+    "expected": [
+      "programs"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Computer programming or coding is the composition of sequences of instructions.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "775:17838:18749",
+        "5783:13752:14895"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8568087500170805
+  },
+  {
+    "id": "Q054",
+    "question": "Which code is directly executed by a computer's central processing unit?",
+    "expected": [
+      "machine code"
+    ],
+    "before": "a central processing unit (CPU)",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5311:0:1341"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6480179160134867
+  },
+  {
+    "id": "Q055",
+    "question": "Which branch of mathematics studies continuous change?",
+    "expected": [
+      "Calculus"
+    ],
+    "before": "calculus",
+    "answer": "Calculus.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "16379713:0:1017",
+        "5642731:0:1289"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6683761659660377
+  },
+  {
+    "id": "Q056",
+    "question": "Which branch of calculus concerns instantaneous rates of change?",
+    "expected": [
+      "differential calculus"
+    ],
+    "before": "the former",
+    "answer": "The former",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "7025924:1087:2280",
+        "5176:27475:28452"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7014172499766573
+  },
+  {
+    "id": "Q057",
+    "question": "Which branch of calculus concerns accumulation and areas under curves?",
+    "expected": [
+      "integral calculus"
+    ],
+    "before": "the latter",
+    "answer": "The latter concerns instantaneous rates of change, and the slopes of curves.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5176:13050:14261"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.9469199589802884
+  },
+  {
+    "id": "Q058",
+    "question": "Who formalized arithmetic with axioms in the nineteenth century?",
+    "expected": [
+      "Giuseppe Peano"
+    ],
+    "before": "Giuseppe Peano",
+    "answer": "Giuseppe Peano.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "775:55634:56510",
+        "13050911:858:1715"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7173116670455784
+  },
+  {
+    "id": "Q059",
+    "question": "What ancient bone is discussed as possible evidence of early arithmetic?",
+    "expected": [
+      "Ishango bone"
+    ],
+    "before": "Ishango bone",
+    "answer": "Ishango bone.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "3118:0:1072",
+        "5508956:3407:4341"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7057453750167042
+  },
+  {
+    "id": "Q060",
+    "question": "Which two civilizations used elementary arithmetic operations around 2000 BC?",
+    "expected": [
+      "Egyptians and Babylonians"
+    ],
+    "before": "Egyptians and Babylonians",
+    "answer": "Egyptians and Babylonians.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "3118:1773:2836"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8841932500363328
+  },
+  {
+    "id": "Q061",
+    "question": "Antibiotics are primarily active against which microorganisms?",
+    "expected": [
+      "bacteria"
+    ],
+    "before": "bacteria",
+    "answer": "Streptococcus pneumoniae.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "1912:2389:3283"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.9363563749939203
+  },
+  {
+    "id": "Q062",
+    "question": "Are antibiotics effective against viruses?",
+    "expected": [
+      "not effective against viruses"
+    ],
+    "before": "not",
+    "answer": "Antibiotics are not effective.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "1805:525:1470"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7315576669643633
+  },
+  {
+    "id": "Q063",
+    "question": "Besides killing bacteria, what can antibiotics inhibit?",
+    "expected": [
+      "growth"
+    ],
+    "before": "growth",
+    "answer": "growth of bacteria",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9028799:43180:44187"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6905730420257896
+  },
+  {
+    "id": "Q064",
+    "question": "Which fluid delivers oxygen and nutrients to cells?",
+    "expected": [
+      "Blood"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Blood Blood",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "16689223:896:1944"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7313307919539511
+  },
+  {
+    "id": "Q065",
+    "question": "What liquid are blood cells suspended in?",
+    "expected": [
+      "blood plasma"
+    ],
+    "before": "blood plasma",
+    "answer": "Blood plasma.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "14434367:2268:3327",
+        "7186483:660:1624"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6694777500233613
+  },
+  {
+    "id": "Q066",
+    "question": "Approximately what percentage of blood fluid is plasma?",
+    "expected": [
+      "55%"
+    ],
+    "before": "55%",
+    "answer": "55%.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4412410:0:883"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6755013329675421
+  },
+  {
+    "id": "Q067",
+    "question": "What field studies the structure of organisms and their parts?",
+    "expected": [
+      "Anatomy"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Anatomy.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "6880764:0:932",
+        "14471564:4389:5609"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6619397909962572
+  },
+  {
+    "id": "Q068",
+    "question": "Anatomy is a branch of which science?",
+    "expected": [
+      "biology"
+    ],
+    "before": "biology",
+    "answer": "Anatomy",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "674:2552:3557",
+        "10427297:0:993"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.5953244169941172
+  },
+  {
+    "id": "Q069",
+    "question": "What field studies the functions of organisms and their parts alongside anatomy?",
+    "expected": [
+      "Physiology"
+    ],
+    "before": "anatomy",
+    "answer": "Physiology.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "674:1724:2702",
+        "14471564:4389:5609"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6834559160051867
+  },
+  {
+    "id": "Q070",
+    "question": "What is the chemical name commonly abbreviated ASA?",
+    "expected": [
+      "acetylsalicylic acid"
+    ],
+    "before": "Asa",
+    "answer": "[1] ASA.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "10336825:0:816"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6177547500119545
+  },
+  {
+    "id": "Q071",
+    "question": "Which medication is abbreviated ASA?",
+    "expected": [
+      "Aspirin"
+    ],
+    "before": "AMA",
+    "answer": "Acetylsalicylic acid",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1525:0:906",
+        "7393379:2827:3856"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7145021670148708
+  },
+  {
+    "id": "Q072",
+    "question": "Which class of anti-inflammatory drugs includes aspirin?",
+    "expected": [
+      "nonsteroidal anti-inflammatory drug"
+    ],
+    "before": "nonsteroidal",
+    "answer": "NSAIDs.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "4518610:5168:6101",
+        "2246:1606:2503"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6699727499508299
+  },
+  {
+    "id": "Q073",
+    "question": "What taxonomic class do birds constitute?",
+    "expected": [
+      "Aves"
+    ],
+    "before": "Aves",
+    "answer": "Asteriornis.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "3410:0:1028",
+        "4577602:1462:2337"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7157160000060685
+  },
+  {
+    "id": "Q074",
+    "question": "What structures cover birds' bodies?",
+    "expected": [
+      "feathers"
+    ],
+    "before": "air sacs",
+    "answer": "air sacs.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4402954:2229:3240"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7545842920080759
+  },
+  {
+    "id": "Q075",
+    "question": "How many chambers does a bird's heart have?",
+    "expected": [
+      "four-chambered",
+      "four",
+      "4"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Four.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "6040372:52831:53798"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7465942080016248
+  },
+  {
+    "id": "Q076",
+    "question": "What is the basic structural and functional unit of life?",
+    "expected": [
+      "cell"
+    ],
+    "before": "cell",
+    "answer": "Cell",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "11983318:13223:14196"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7248990840162151
+  },
+  {
+    "id": "Q077",
+    "question": "What surrounds the cytoplasm of a cell?",
+    "expected": [
+      "membrane"
+    ],
+    "before": "plasma membrane",
+    "answer": "The cell membrane.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4230:12814:13827"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7236974170082249
+  },
+  {
+    "id": "Q078",
+    "question": "What does the Latin word underlying the term cell mean?",
+    "expected": [
+      "small room"
+    ],
+    "before": "small room",
+    "answer": "Small room.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "14464979:876:1911"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6887514169793576
+  },
+  {
+    "id": "Q079",
+    "question": "What is the study of bacteria called?",
+    "expected": [
+      "bacteriology"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "bacteriology.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9028799:32291:33415"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7282668749685399
+  },
+  {
+    "id": "Q080",
+    "question": "Bacteria belong to a large domain of what kind of microorganisms?",
+    "expected": [
+      "prokaryotic"
+    ],
+    "before": "prokaryotic",
+    "answer": "Prokaryotic microorganisms.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "9127632:38196:39144",
+        "9028799:32291:33415"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7602669999469072
+  },
+  {
+    "id": "Q081",
+    "question": "Which atmospheric element do bacteria help fix in nutrient cycles?",
+    "expected": [
+      "nitrogen"
+    ],
+    "before": "nitrogen",
+    "answer": "nitrogen.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "11529548:0:979",
+        "5330368:32814:33865"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6833961659576744
+  },
+  {
+    "id": "Q082",
+    "question": "What establishes the fundamental legal basis of a polity?",
+    "expected": [
+      "constitution"
+    ],
+    "before": "constitution",
+    "answer": "A constitution.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5286236:771:1821",
+        "5585381:0:1023"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6668827080284245
+  },
+  {
+    "id": "Q083",
+    "question": "What is a constitution written in a single comprehensive document called?",
+    "expected": [
+      "codified constitution"
+    ],
+    "before": "charter",
+    "answer": "codified constitution.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "6472763:969:2179"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6675139589933679
+  },
+  {
+    "id": "Q084",
+    "question": "What does a constitution commonly determine about an entity?",
+    "expected": [
+      "how that entity is to be governed"
+    ],
+    "before": "how that entity is to be governed",
+    "answer": "How that entity is to be governed.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "6472763:0:1130"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7618205409962684
+  },
+  {
+    "id": "Q085",
+    "question": "Which political philosophy advocates stateless societies and voluntary association?",
+    "expected": [
+      "Anarchism"
+    ],
+    "before": "Anarcho-capitalism",
+    "answer": "Anarchism.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5773736:0:1096"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.706726250005886
+  },
+  {
+    "id": "Q086",
+    "question": "What kind of societies does anarchism propose in place of the state?",
+    "expected": [
+      "stateless societies"
+    ],
+    "before": "stateless societies",
+    "answer": "stateless societies and voluntary free associations",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5773736:0:1096",
+        "1023:0:1067"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6782163749448955
+  },
+  {
+    "id": "Q087",
+    "question": "Which institutions does anarchism typically seek to abolish alongside capitalism?",
+    "expected": [
+      "nation-states"
+    ],
+    "before": "nation-states",
+    "answer": "nation-states, and capitalism.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1023:0:1067",
+        "1023:8401:9265"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7219089170102961
+  },
+  {
+    "id": "Q088",
+    "question": "Which economic system is based on private ownership of the means of production?",
+    "expected": [
+      "Capitalism"
+    ],
+    "before": "Capitalism",
+    "answer": "Capitalism.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5416:19934:21113"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7200424170005135
+  },
+  {
+    "id": "Q089",
+    "question": "For what purpose are the means of production operated under capitalism?",
+    "expected": [
+      "profit"
+    ],
+    "before": "capitalism as an economic system and mode of production",
+    "answer": "Capitalism.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "8937649:83912:85117"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7262194590293802
+  },
+  {
+    "id": "Q090",
+    "question": "What type of markets are a central characteristic of capitalism?",
+    "expected": [
+      "competitive markets"
+    ],
+    "before": "competitive markets",
+    "answer": "Capitalism.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5416:35901:37055"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.9990997500135563
+  },
+  {
+    "id": "Q091",
+    "question": "Which institution manages a country's currency and monetary policy?",
+    "expected": [
+      "central bank"
+    ],
+    "before": "Central bank",
+    "answer": "[1]",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9513775:0:1052"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6930830409983173
+  },
+  {
+    "id": "Q092",
+    "question": "What is another name for a central bank besides reserve bank?",
+    "expected": [
+      "monetary authority"
+    ],
+    "before": "Central Reserve Bank of El Salvador",
+    "answer": "Reserve Bank.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9513515:0:895"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6783534580026753
+  },
+  {
+    "id": "Q093",
+    "question": "On increasing what does a central bank possess a monopoly?",
+    "expected": [
+      "monetary base"
+    ],
+    "before": "monetary base",
+    "answer": "The monetary base.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9508900:0:1173"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7218244170071557
+  },
+  {
+    "id": "Q094",
+    "question": "Who wrote The Wealth of Nations?",
+    "expected": [
+      "Adam Smith"
+    ],
+    "before": "Adam Smith",
+    "answer": "Adam Smith.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1814:11688:12744",
+        "7881361:24139:25138"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7341815000399947
+  },
+  {
+    "id": "Q095",
+    "question": "In which year was The Wealth of Nations published?",
+    "expected": [
+      "1776"
+    ],
+    "before": "1976",
+    "answer": "1776.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "1814:30342:31354",
+        "7881361:24139:25138"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6397598329931498
+  },
+  {
+    "id": "Q096",
+    "question": "Which Enlightenment movement was Adam Smith a key figure in?",
+    "expected": [
+      "Scottish Enlightenment"
+    ],
+    "before": "Scottish Enlightenment",
+    "answer": "Scottish Enlightenment",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "4116361:2687:3823",
+        "1814:939:2056"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.697139541967772
+  },
+  {
+    "id": "Q097",
+    "question": "How many players are most commonly on each basketball team on court?",
+    "expected": [
+      "five",
+      "5"
+    ],
+    "before": "five",
+    "answer": "[1]",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "10248979:0:960"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6669807080179453
+  },
+  {
+    "id": "Q098",
+    "question": "How many points is an ordinary basketball field goal worth?",
+    "expected": [
+      "two",
+      "2"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "[2]",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "3921:0:959"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7070870409952477
+  },
+  {
+    "id": "Q099",
+    "question": "What must a basketball be shot through to score?",
+    "expected": [
+      "hoop"
+    ],
+    "before": "the opponents' basket",
+    "answer": "The ball must be shot through the basket.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5070155:9206:10127",
+        "3921:0:959"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7197472919942811
+  },
+  {
+    "id": "Q100",
+    "question": "How many players take part in chess?",
+    "expected": [
+      "two",
+      "2"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "22 players from approximately 10 provinces.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5134:0:1023",
+        "8285744:5616:6506"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6989308340125717
+  },
+  {
+    "id": "Q101",
+    "question": "What is the objective of chess?",
+    "expected": [
+      "checkmate"
+    ],
+    "before": "checkmate the opponent's king",
+    "answer": "Checkmate the opponent's king.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "15669955:852:1941",
+        "5134:30353:31331"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7394703750032932
+  },
+  {
+    "id": "Q102",
+    "question": "What are the two players in chess called?",
+    "expected": [
+      "White and Black"
+    ],
+    "before": "White and Black",
+    "answer": "White and Black.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5134:2678:3603",
+        "12584037:0:1050"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6412539170123637
+  },
+  {
+    "id": "Q103",
+    "question": "Which sport uses a shuttlecock and racquets?",
+    "expected": [
+      "Badminton"
+    ],
+    "before": "Badminton",
+    "answer": "Badminton.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "3956:829:1822"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.605981333006639
+  },
+  {
+    "id": "Q104",
+    "question": "How many players per side are there in badminton doubles?",
+    "expected": [
+      "two",
+      "2"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Two players per side.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "6117089:0:1001",
+        "3956:9332:10334"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6517871670075692
+  },
+  {
+    "id": "Q105",
+    "question": "Where are formal badminton games played?",
+    "expected": [
+      "rectangular indoor court"
+    ],
+    "before": "rectangular indoor court",
+    "answer": "On a rectangular indoor court.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 3,
+      "omitted_passage_ids": [],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6455369999748655
+  },
+  {
+    "id": "Q106",
+    "question": "What are the Academy Awards commonly called?",
+    "expected": [
+      "Oscars"
+    ],
+    "before": "Oscars",
+    "answer": "[1]",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4292687:0:825"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.5778904579929076
+  },
+  {
+    "id": "Q107",
+    "question": "Which industry do the Academy Awards recognize?",
+    "expected": [
+      "film industry"
+    ],
+    "before": "film",
+    "answer": "Film industry.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "4369279:4154:5340",
+        "16560356:9812:10944"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6223137080087326
+  },
+  {
+    "id": "Q108",
+    "question": "Which organization presents the Oscars?",
+    "expected": [
+      "Academy of Motion Picture Arts and Sciences"
+    ],
+    "before": "ABC",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4369569:0:827"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6649187500006519
+  },
+  {
+    "id": "Q109",
+    "question": "Who composed An American in Paris?",
+    "expected": [
+      "George Gershwin"
+    ],
+    "before": "George Gershwin",
+    "answer": "George Gershwin.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "309:4825:5526"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7133692500065081
+  },
+  {
+    "id": "Q110",
+    "question": "In which year was An American in Paris first performed?",
+    "expected": [
+      "1928"
+    ],
+    "before": "1928",
+    "answer": "1928.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "309:8079:9018"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7193128340295516
+  },
+  {
+    "id": "Q111",
+    "question": "Which city inspired Gershwin's An American in Paris?",
+    "expected": [
+      "Paris"
+    ],
+    "before": "London",
+    "answer": "New York.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "309:6263:7374"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6287852910463698
+  },
+  {
+    "id": "Q112",
+    "question": "Whose life and teachings form the basis of Christianity?",
+    "expected": [
+      "Jesus of Nazareth"
+    ],
+    "before": "Jesus of Nazareth",
+    "answer": "Jesus of Nazareth.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "4461978:21165:22040",
+        "6018478:6595:7578"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7289884999627247
+  },
+  {
+    "id": "Q113",
+    "question": "What are adherents of Christianity called?",
+    "expected": [
+      "Christians"
+    ],
+    "before": "Christians",
+    "answer": "Christians.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "1214:0:1218"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6885077910264954
+  },
+  {
+    "id": "Q114",
+    "question": "According to the snapshot, approximately how many followers does Christianity have?",
+    "expected": [
+      "2.4"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "2.4 billion followers.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7809444:27224:28179"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7113571660011075
+  },
+  {
+    "id": "Q115",
+    "question": "Which scripture is central to Islam?",
+    "expected": [
+      "Quran"
+    ],
+    "before": "The Quran",
+    "answer": "Qurn.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "16237682:942:1796",
+        "6037917:3936:4745"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7231608750298619
+  },
+  {
+    "id": "Q116",
+    "question": "What are followers of Islam called?",
+    "expected": [
+      "Muslims"
+    ],
+    "before": "Rashidun",
+    "answer": "Muslims.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "8734632:10568:11544"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7158248329651542
+  },
+  {
+    "id": "Q117",
+    "question": "Who is named as the founder of Islam in the article?",
+    "expected": [
+      "Muhammad"
+    ],
+    "before": "Mohamad Jawad Chirri",
+    "answer": "Ariffin Mohammed.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "6013204:5105:6110",
+        "7891630:0:941"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6655615829513408
+  },
+  {
+    "id": "Q118",
+    "question": "In which ancient civilization did Confucianism originate?",
+    "expected": [
+      "China"
+    ],
+    "before": "China",
+    "answer": "Confucius.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4752195:11852:12763"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7889034579857253
+  },
+  {
+    "id": "Q119",
+    "question": "Whose teachings underpin Confucianism?",
+    "expected": [
+      "Confucius"
+    ],
+    "before": "Confucius",
+    "answer": "Confucius Kong Fuzi.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "7391958:52832:53663"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8118049579788931
+  },
+  {
+    "id": "Q120",
+    "question": "What alternative name for Confucianism begins with Ru?",
+    "expected": [
+      "Ruism"
+    ],
+    "before": "Ruism",
+    "answer": "Confucius.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5820:5483:6237",
+        "5823:0:963"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6833745829644613
+  },
+  {
+    "id": "Q121",
+    "question": "What is concern for others' well-being without selfishness called?",
+    "expected": [
+      "Altruism"
+    ],
+    "before": "Altruism",
+    "answer": "Altruism.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "8770941:0:975",
+        "7748323:7320:8273"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8496558749466203
+  },
+  {
+    "id": "Q122",
+    "question": "Which French philosopher popularized the word altruism?",
+    "expected": [
+      "Auguste Comte"
+    ],
+    "before": "Auguste Comte",
+    "answer": "Auguste Comte.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "336:1655:2714",
+        "7752580:2358:3246"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7971656669978984
+  },
+  {
+    "id": "Q123",
+    "question": "What word is given as a synonym of altruism?",
+    "expected": [
+      "selflessness"
+    ],
+    "before": "selflessness",
+    "answer": "Altruism.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "336:26519:27429",
+        "7752580:2358:3246"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7083669159910642
+  },
+  {
+    "id": "Q124",
+    "question": "Which philosophy did Ayn Rand develop?",
+    "expected": [
+      "Objectivism"
+    ],
+    "before": "Objectivism",
+    "answer": "Objectivism.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "339:20221:21313",
+        "5694046:32140:33135"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6433046250022016
+  },
+  {
+    "id": "Q125",
+    "question": "What pen name did Alice O'Connor use?",
+    "expected": [
+      "Ayn Rand"
+    ],
+    "before": "James Tiptree Jr.",
+    "answer": "Ayn Rand.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "12251578:4528:5139"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.694989791023545
+  },
+  {
+    "id": "Q126",
+    "question": "In which year did Ayn Rand move to the United States?",
+    "expected": [
+      "1926"
+    ],
+    "before": "1968",
+    "answer": "1926.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "339:3442:4439",
+        "11914121:1658:2657"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7381738750264049
+  },
+  {
+    "id": "Q127",
+    "question": "In which city is Brown University located?",
+    "expected": [
+      "Providence"
+    ],
+    "before": "St. Louis",
+    "answer": "Rhode Island.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "12995025:2428:3443"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6596181660424918
+  },
+  {
+    "id": "Q128",
+    "question": "In which US state is Brown University located?",
+    "expected": [
+      "Rhode Island"
+    ],
+    "before": "Rhode Island",
+    "answer": "Rhode Island.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4157:1564:2563"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7306187080102973
+  },
+  {
+    "id": "Q129",
+    "question": "In which year was Brown University founded?",
+    "expected": [
+      "1764"
+    ],
+    "before": "1891",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "4157:21465:22462"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6155622079968452
+  },
+  {
+    "id": "Q130",
+    "question": "A college can be a constituent part of what larger institution?",
+    "expected": [
+      "university"
+    ],
+    "before": "College",
+    "answer": "College college. [2]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5689:0:1195"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7978671250166371
+  },
+  {
+    "id": "Q131",
+    "question": "What type of institution is a college?",
+    "expected": [
+      "educational institution"
+    ],
+    "before": "Community college",
+    "answer": "A college.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "14860263:0:1138",
+        "5696:0:1053"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6879909159615636
+  },
+  {
+    "id": "Q132",
+    "question": "What type of training can a vocational college offer?",
+    "expected": [
+      "vocational education"
+    ],
+    "before": "technical",
+    "answer": "[2]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "11967286:856:2055"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7757429169723764
+  },
+  {
+    "id": "Q133",
+    "question": "What does an academic genealogy organize?",
+    "expected": [
+      "scientists and scholars"
+    ],
+    "before": "individuals",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "10957687:0:1165"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 1.0564781670109369
+  },
+  {
+    "id": "Q134",
+    "question": "Which relationship links people in an academic genealogy?",
+    "expected": [
+      "mentoring relationships"
+    ],
+    "before": "(1).",
+    "answer": "[1]",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5574257:787:1857"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6479249999974854
+  },
+  {
+    "id": "Q135",
+    "question": "What metaphorical structure is used to represent an academic genealogy?",
+    "expected": [
+      "family tree"
+    ],
+    "before": "a family tree",
+    "answer": "[1]",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "9863308:0:912"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6727012919727713
+  },
+  {
+    "id": "Q136",
+    "question": "What structure provides passage over a physical obstacle?",
+    "expected": [
+      "bridge"
+    ],
+    "before": "Bridge",
+    "answer": "[1]",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "5133982:8654:9816"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6683711669757031
+  },
+  {
+    "id": "Q137",
+    "question": "Does a bridge normally block the way underneath it?",
+    "expected": [
+      "without blocking"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "A bridge is a structure built to span a physical obstacle without blocking the way underneath.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "6632245:979:2035",
+        "6550048:1791:2846"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8990177919622511
+  },
+  {
+    "id": "Q138",
+    "question": "Name a natural depression that a bridge can span.",
+    "expected": [
+      "valley"
+    ],
+    "before": "a physical obstacle",
+    "answer": "Curvature. The length of the bridge.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "3397:0:1049",
+        "10272934:846:1881"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7635029999655671
+  },
+  {
+    "id": "Q139",
+    "question": "What is a person riding a bicycle called?",
+    "expected": [
+      "cyclist"
+    ],
+    "before": "rollers",
+    "answer": "A bicycle.",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "6502679:0:997"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6305465000332333
+  },
+  {
+    "id": "Q140",
+    "question": "In which century were bicycles introduced in Europe?",
+    "expected": [
+      "19th century"
+    ],
+    "before": "19th",
+    "answer": "19th century.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "9719835:2767:3732",
+        "3973:6335:7340"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.645046541991178
+  },
+  {
+    "id": "Q141",
+    "question": "How many wheels does a bicycle have?",
+    "expected": [
+      "two",
+      "2"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "[2]",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "3973:9069:10124"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6528498330153525
+  },
+  {
+    "id": "Q142",
+    "question": "What discipline is the scientific study of humanity?",
+    "expected": [
+      "Anthropology"
+    ],
+    "before": "Anthropology",
+    "answer": "Human science.",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "569:0:1207",
+        "14463958:0:1063"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.586890125006903
+  },
+  {
+    "id": "Q143",
+    "question": "Which branch of anthropology studies patterns of behavior?",
+    "expected": [
+      "Social anthropology"
+    ],
+    "before": "Social",
+    "answer": "Social anthropology.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "9145213:25979:27229",
+        "6600557:8319:9626"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7242865409934893
+  },
+  {
+    "id": "Q144",
+    "question": "Which branch studies cultural meaning, norms and values?",
+    "expected": [
+      "cultural anthropology"
+    ],
+    "before": "Cultural Institutions Studies",
+    "answer": "Cultural anthropology.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "11359053:2:1174",
+        "4095924:1766:2937"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7621430000290275
+  },
+  {
+    "id": "Q145",
+    "question": "To which language family branch does Arabic belong?",
+    "expected": [
+      "Semitic"
+    ],
+    "before": "Afroasiatic",
+    "answer": "Afroasiatic language",
+    "before_alias_match": false,
+    "alias_match": false,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "8531404:0:1211",
+        "599:0:902"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6579795000143349
+  },
+  {
+    "id": "Q146",
+    "question": "Which peninsula did the people originally called Arabs inhabit?",
+    "expected": [
+      "Arabian Peninsula"
+    ],
+    "before": "Arabian Peninsula",
+    "answer": "Mesopotamia",
+    "before_alias_match": true,
+    "alias_match": false,
+    "answer_in_context": false,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "4070049:0:895",
+        "2185:0:863"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6742466670111753
+  },
+  {
+    "id": "Q147",
+    "question": "Which language is named after the Arabs?",
+    "expected": [
+      "Arabic"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "Arabic Arabic.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "2185:6227:7111"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.8212391670094803
+  },
+  {
+    "id": "Q148",
+    "question": "Chinese languages form which branch of the Sino-Tibetan family?",
+    "expected": [
+      "Sinitic"
+    ],
+    "before": "Sinitic",
+    "answer": "Sinitic branch.",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "5405:76703:77583",
+        "14421651:0:883"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.6438322910107672
+  },
+  {
+    "id": "Q149",
+    "question": "Which ethnic majority primarily speaks Chinese?",
+    "expected": [
+      "Han Chinese"
+    ],
+    "before": "Han Chinese",
+    "answer": "Han Chinese majority",
+    "before_alias_match": true,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 2,
+      "omitted_passage_ids": [
+        "6097255:0:784"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.7317790830275044
+  },
+  {
+    "id": "Q150",
+    "question": "Approximately how many people speak a variety of Chinese as their first language?",
+    "expected": [
+      "1.3 billion"
+    ],
+    "before": "I don't know based on the provided evidence.",
+    "answer": "1.3 billion people.",
+    "before_alias_match": false,
+    "alias_match": true,
+    "answer_in_context": true,
+    "packing": {
+      "requested": 3,
+      "included": 1,
+      "omitted_passage_ids": [
+        "7596654:0:1114",
+        "5751:35636:36745"
+      ],
+      "truncated_passage_ids": [],
+      "budget": 512
+    },
+    "seconds_without_retrieval": 0.786661708028987
+  }
+]

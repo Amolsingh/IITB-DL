@@ -1,0 +1,670 @@
+{
+  "retrieval": [
+    {
+      "id": "Q001",
+      "question": "In which part of Europe is France primarily located?",
+      "mode": "vector",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "France",
+        "France",
+        "Outline of France",
+        "Belgium",
+        "Alps"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 183.21524999919347,
+        "ann_ms": 357.5495000113733,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 4.5874159841332585,
+        "total_ms": 545.3547499782871,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q001",
+      "question": "In which part of Europe is France primarily located?",
+      "mode": "bm25",
+      "article_hit": false,
+      "passage_hit": false,
+      "titles": [
+        "The Passing of the Great Race",
+        "Canadian Forces Base Lahr",
+        "Christianity in Europe",
+        "LGBT rights in France",
+        "The Scots Kirk, Paris"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 2106.27541699796,
+        "fusion_fetch_ms": 16.119541018269956,
+        "total_ms": 2122.4888340220787,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q001",
+      "question": "In which part of Europe is France primarily located?",
+      "mode": "hybrid",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "France",
+        "Outline of France",
+        "Continental Europe",
+        "Central Europe",
+        "The Passing of the Great Race"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.602374997688457,
+        "ann_ms": 2.573375008068979,
+        "bm25_ms": 761.8791249988135,
+        "fusion_fetch_ms": 0.7797919970471412,
+        "total_ms": 762.8262499929406,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q010",
+      "question": "Which ocean is the world's second largest?",
+      "mode": "vector",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Atlantic Ocean",
+        "Superocean",
+        "Ocean world",
+        "Seven Second Summits",
+        "Atlantic Ocean"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.154625004157424,
+        "ann_ms": 286.64920799201354,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 4.5838340010959655,
+        "total_ms": 300.3895829897374,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q010",
+      "question": "Which ocean is the world's second largest?",
+      "mode": "bm25",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Geography of Canada",
+        "Atlantic Ocean",
+        "Geography of Canada",
+        "Canada",
+        "Canada"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 2296.3984170055483,
+        "fusion_fetch_ms": 13.052666006842628,
+        "total_ms": 2309.6577080141287,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q010",
+      "question": "Which ocean is the world's second largest?",
+      "mode": "hybrid",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Atlantic Ocean",
+        "Geography of Antarctica",
+        "Geography of Canada",
+        "Superocean",
+        "Geography of Canada"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 7.353166991379112,
+        "ann_ms": 3.252666996559128,
+        "bm25_ms": 2147.8288329963107,
+        "fusion_fetch_ms": 1.1062500125262886,
+        "total_ms": 2149.1633749974426,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "mode": "vector",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Abraham Lincoln",
+        "Bill Clinton",
+        "Presidency of Benjamin Harrison",
+        "Gerald Ford",
+        "Andrew Johnson"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.082499997224659,
+        "ann_ms": 319.40966699039564,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 5.570291978074238,
+        "total_ms": 335.0651660002768,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "mode": "bm25",
+      "article_hit": false,
+      "passage_hit": false,
+      "titles": [
+        "List of U.S. counties named after presidents of the United States",
+        "The Law that Never Was",
+        "Constitution of Oklahoma",
+        "History of foreign relations of the People's Republic of China",
+        "Taft v. Bowers"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 957.8481669886969,
+        "fusion_fetch_ms": 17.273959005251527,
+        "total_ms": 975.2136250026524,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "mode": "hybrid",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Abraham Lincoln (captain)",
+        "Presidency of Woodrow Wilson",
+        "Abraham Lincoln",
+        "List of U.S. counties named after presidents of the United States",
+        "Bill Clinton"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.382500003790483,
+        "ann_ms": 2.7018339897040278,
+        "bm25_ms": 928.5785839892924,
+        "fusion_fetch_ms": 0.828541989903897,
+        "total_ms": 929.6844170021359,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q043",
+      "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+      "mode": "vector",
+      "article_hit": true,
+      "passage_hit": false,
+      "titles": [
+        "Logical machine",
+        "Computer",
+        "Automated theorem proving",
+        "Counter machine",
+        "Algorithm"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.938250004779547,
+        "ann_ms": 213.67641602410004,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 4.507416015258059,
+        "total_ms": 228.12549999798648,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q043",
+      "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+      "mode": "bm25",
+      "article_hit": true,
+      "passage_hit": false,
+      "titles": [
+        "Logical machine",
+        "Computer",
+        "Central processing unit",
+        "Computer program",
+        "Central processing unit"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 921.8542919843458,
+        "fusion_fetch_ms": 14.26216700929217,
+        "total_ms": 936.2622920016292,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q043",
+      "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+      "mode": "hybrid",
+      "article_hit": true,
+      "passage_hit": false,
+      "titles": [
+        "Logical machine",
+        "Computer",
+        "Computer program",
+        "Central processing unit",
+        "Computer"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 9.54766699578613,
+        "ann_ms": 2.276290993904695,
+        "bm25_ms": 1095.8598750003148,
+        "fusion_fetch_ms": 0.8995829848572612,
+        "total_ms": 1096.936582995113,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q094",
+      "question": "Who wrote The Wealth of Nations?",
+      "mode": "vector",
+      "article_hit": true,
+      "passage_hit": false,
+      "titles": [
+        "History of economic thought",
+        "Adam Smith",
+        "Andrew Carnegie",
+        "History of economic thought",
+        "Georg Friedrich Sartorius"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.182124991435558,
+        "ann_ms": 318.32754201604985,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 5.002250021789223,
+        "total_ms": 331.5137500176206,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q094",
+      "question": "Who wrote The Wealth of Nations?",
+      "mode": "bm25",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Andrew Carnegie",
+        "Christopher Magee (politician)",
+        "Adam Smith",
+        "International rankings of Thailand",
+        "Wealth inequality in the United States"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 1077.1540419955272,
+        "fusion_fetch_ms": 13.79208400612697,
+        "total_ms": 1091.0357920220122,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q094",
+      "question": "Who wrote The Wealth of Nations?",
+      "mode": "hybrid",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "History of competition law",
+        "Adam Smith",
+        "History of economic thought",
+        "Andrew Carnegie",
+        "Adam Smith"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 7.969666999997571,
+        "ann_ms": 2.941999991890043,
+        "bm25_ms": 481.228666001698,
+        "fusion_fetch_ms": 0.770957994973287,
+        "total_ms": 482.20087500521913,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q106",
+      "question": "What are the Academy Awards commonly called?",
+      "mode": "vector",
+      "article_hit": true,
+      "passage_hit": true,
+      "titles": [
+        "Academy Awards",
+        "Film award",
+        "Academy Awards",
+        "Academy (disambiguation)",
+        "1956 Academy Awards"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.866040996508673,
+        "ann_ms": 190.49795798491687,
+        "bm25_ms": 0.0,
+        "fusion_fetch_ms": 1.7972089990507811,
+        "total_ms": 201.16412499919534,
+        "vector_candidates": 50,
+        "bm25_candidates": 0
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q106",
+      "question": "What are the Academy Awards commonly called?",
+      "mode": "bm25",
+      "article_hit": false,
+      "passage_hit": false,
+      "titles": [
+        "80th Academy Awards",
+        "79th Academy Awards",
+        "81st Academy Awards",
+        "51st Academy Awards",
+        "Frances Bardsley Academy for Girls"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 0.0,
+        "ann_ms": 0.0,
+        "bm25_ms": 571.125624992419,
+        "fusion_fetch_ms": 10.489042004337534,
+        "total_ms": 581.6928750136867,
+        "vector_candidates": 0,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    },
+    {
+      "id": "Q106",
+      "question": "What are the Academy Awards commonly called?",
+      "mode": "hybrid",
+      "article_hit": true,
+      "passage_hit": false,
+      "titles": [
+        "Academy Awards",
+        "Academy Awards",
+        "80th Academy Awards",
+        "79th Academy Awards",
+        "Film award"
+      ],
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.008458011317998,
+        "ann_ms": 1.891166000859812,
+        "bm25_ms": 563.4024169994518,
+        "fusion_fetch_ms": 0.7007500098552555,
+        "total_ms": 564.2542919958942,
+        "vector_candidates": 50,
+        "bm25_candidates": 50
+      },
+      "warnings": []
+    }
+  ],
+  "answers": [
+    {
+      "id": "Q004",
+      "question": "What is Brazil's capital?",
+      "method": "concatenate",
+      "answer": "Brasilia",
+      "expected": [
+        "Bras\u00edlia"
+      ],
+      "abstained": false,
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.982041996205226,
+        "ann_ms": 192.98679201165214,
+        "bm25_ms": 2104.495624982519,
+        "fusion_fetch_ms": 84.3265830189921,
+        "total_ms": 2189.046542014694,
+        "vector_candidates": 50,
+        "bm25_candidates": 50,
+        "context_selection_ms": 0.8312080171890557,
+        "answer_ms": 491.50204099714756,
+        "end_to_end_ms": 2681.4152089937124
+      }
+    },
+    {
+      "id": "Q004",
+      "question": "What is Brazil's capital?",
+      "method": "generate_from_evidence",
+      "answer": "Brasilia",
+      "expected": [
+        "Bras\u00edlia"
+      ],
+      "abstained": false,
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.346082991920412,
+        "ann_ms": 2.6856659969780594,
+        "bm25_ms": 2466.8432910111733,
+        "fusion_fetch_ms": 0.7979999936651438,
+        "total_ms": 2467.8142500051763,
+        "vector_candidates": 50,
+        "bm25_candidates": 50,
+        "context_selection_ms": 0.8228750084526837,
+        "answer_ms": 145.72387500084005,
+        "end_to_end_ms": 2614.392959018005
+      }
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "method": "concatenate",
+      "answer": "Abraham Lincoln",
+      "expected": [
+        "Abraham Lincoln"
+      ],
+      "abstained": false,
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 8.886541007086635,
+        "ann_ms": 253.79579199943691,
+        "bm25_ms": 977.4675829976331,
+        "fusion_fetch_ms": 17.849459021817893,
+        "total_ms": 995.4657499911264,
+        "vector_candidates": 50,
+        "bm25_candidates": 50,
+        "context_selection_ms": 1.0794169793371111,
+        "answer_ms": 94.33745799469762,
+        "end_to_end_ms": 1090.9126670158003
+      }
+    },
+    {
+      "id": "Q022",
+      "question": "Who was the sixteenth president of the United States?",
+      "method": "generate_from_evidence",
+      "answer": "Abraham Lincoln",
+      "expected": [
+        "Abraham Lincoln"
+      ],
+      "abstained": false,
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 10.232792003080249,
+        "ann_ms": 3.056291985558346,
+        "bm25_ms": 1157.589166017715,
+        "fusion_fetch_ms": 1.1675419809762388,
+        "total_ms": 1158.9508329925593,
+        "vector_candidates": 50,
+        "bm25_candidates": 50,
+        "context_selection_ms": 1.1085000005550683,
+        "answer_ms": 150.6841669906862,
+        "end_to_end_ms": 1310.7687910087407
+      }
+    },
+    {
+      "id": "Q094",
+      "question": "Who wrote The Wealth of Nations?",
+      "method": "concatenate",
+      "answer": "Adam Smith",
+      "expected": [
+        "Adam Smith"
+      ],
+      "abstained": false,
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 7.571291993372142,
+        "ann_ms": 269.9219160131179,
+        "bm25_ms": 511.8605839961674,
+        "fusion_fetch_ms": 16.775750002125278,
+        "total_ms": 528.9995829807594,
+        "vector_candidates": 50,
+        "bm25_candidates": 50,
+        "context_selection_ms": 0.4532500170171261,
+        "answer_ms": 98.73491700273007,
+        "end_to_end_ms": 628.2162920106202
+      }
+    },
+    {
+      "id": "Q094",
+      "question": "Who wrote The Wealth of Nations?",
+      "method": "generate_from_evidence",
+      "answer": "Adam Smith",
+      "expected": [
+        "Adam Smith"
+      ],
+      "abstained": false,
+      "timings": {
+        "cache_hit": false,
+        "query_embedding_ms": 12.696249992586672,
+        "ann_ms": 2.803125011269003,
+        "bm25_ms": 660.8695840113796,
+        "fusion_fetch_ms": 0.8870830060914159,
+        "total_ms": 662.1086669911165,
+        "vector_candidates": 50,
+        "bm25_candidates": 50,
+        "context_selection_ms": 0.4834580176975578,
+        "answer_ms": 157.57524999207817,
+        "end_to_end_ms": 820.2151250152383
+      }
+    }
+  ],
+  "index_plan": [
+    {
+      "Plan": {
+        "Node Type": "Limit",
+        "Parallel Aware": false,
+        "Async Capable": false,
+        "Startup Cost": 533.99,
+        "Total Cost": 715.43,
+        "Plan Rows": 50,
+        "Plan Width": 16,
+        "Actual Startup Time": 75.956,
+        "Actual Total Time": 78.849,
+        "Actual Rows": 40,
+        "Actual Loops": 1,
+        "Shared Hit Blocks": 342,
+        "Shared Read Blocks": 1050,
+        "Shared Dirtied Blocks": 0,
+        "Shared Written Blocks": 0,
+        "Local Hit Blocks": 0,
+        "Local Read Blocks": 0,
+        "Local Dirtied Blocks": 0,
+        "Local Written Blocks": 0,
+        "Temp Read Blocks": 0,
+        "Temp Written Blocks": 0,
+        "Plans": [
+          {
+            "Node Type": "Index Scan",
+            "Parent Relationship": "Outer",
+            "Parallel Aware": false,
+            "Async Capable": false,
+            "Scan Direction": "NoMovement",
+            "Index Name": "chunks_half_hnsw",
+            "Relation Name": "chunks",
+            "Alias": "chunks",
+            "Startup Cost": 533.99,
+            "Total Cost": 20551736.46,
+            "Plan Rows": 5663623,
+            "Plan Width": 16,
+            "Actual Startup Time": 75.955,
+            "Actual Total Time": 78.846,
+            "Actual Rows": 40,
+            "Actual Loops": 1,
+            "Order By": "(embedding <=> '[0.048980713,0.014427185,0.040618896,0.021499634,0.028915405,0.029037476,0.032562256,0.025848389,0.014389038,0.013053894,0.028747559,-0.11895752,-0.011703491,0.033081055,-0.0075035095,-0.02192688,-0.051452637,0.014572144,0.044921875,-0.029678345,0.029342651,0.0569458,-0.07110596,-0.021347046,-0.0034942627,0.022628784,0.009811401,0.005958557,-0.09851074,-0.11743164,0.021240234,-0.016555786,0.058929443,0.0017614365,-0.0423584,0.015930176,0.03982544,-0.05404663,0.07470703,-0.042236328,0.014968872,0.031143188,0.053344727,-0.036468506,-0.042022705,-0.052581787,0.051696777,0.06390381,-0.0028629303,0.0038013458,0.07702637,0.021774292,-0.0017614365,0.033111572,-0.05758667,-0.019958496,-0.0043029785,-0.010414124,0.049072266,0.015808105,0.06210327,-0.008270264,-0.17834473,0.00033283234,-0.024520874,0.0024414062,-0.030761719,-0.01701355,-0.029342651,-0.008346558,0.049560547,0.0064048767,0.06414795,0.04623413,0.13024902,0.08691406,0.043029785,0.015007019,0.02734375,0.047698975,-0.022705078,0.0052986145,-0.06329346,0.01852417,-0.052612305,5.8472157e-05,0.013267517,0.054595947,-0.0013980865,0.037506104,-0.037261963,0.004234314,0.02670288,0.056365967,-0.06616211,-0.07220459,-0.03866577,0.09539795,-0.04373169,0.26733398,-0.026611328,-0.007850647,0.023483276,-0.026992798,0.007865906,0.012451172,0.07006836,0.023101807,0.016906738,0.035888672,0.056854248,-0.04925537,0.057739258,0.0066337585,0.00012624264,-0.04083252,0.055145264,-0.011749268,-0.025314331,-0.016418457,-0.001950264,-0.037384033,-0.008453369,-0.017990112,0.0892334,-0.014450073,0.009346008,0.023483276,0.062438965,-0.021209717,-0.01108551,0.030715942,-0.05001831,0.06750488,-0.09136963,0.01096344,0.02330017,-0.055999756,-0.045959473,-0.10003662,-0.05697632,-0.035064697,0.012062073,-0.029708862,-0.09094238,0.025268555,-0.028686523,-0.00957489,-0.07684326,0.028381348,-0.05456543,0.028427124,0.030456543,0.070007324,-0.029129028,0.0057640076,0.08660889,-0.016296387,0.022033691,-0.03942871,-0.02822876,-0.058563232,-0.04763794,0.12609863,0.04043579,-0.111694336,-0.084106445,-0.009651184,-0.023483276,-0.00070858,-0.0154418945,0.0012083054,-0.0501709,0.04055786,0.07678223,-0.0385437,0.055603027,0.031173706,-0.033416748,-0.074035645,0.04336548,-0.06341553,-0.019058228,-0.055664062,-0.03173828,0.0013494492,-0.031433105,-0.044830322,0.018875122,-0.07141113,0.021224976,0.083618164,0.02885437,0.11431885,0.0016593933,0.021881104,0.014801025,-0.032073975,0.064208984,0.025787354,-0.014076233,0.06518555,0.00046563148,-0.09655762,-0.01096344,0.0067329407,-0.0035953522,0.06341553,-0.06365967,0.019378662,-0.028778076,0.07904053,0.0012817383,-0.09136963,-0.026626587,0.008178711,-0.016311646,0.012886047,-0.030639648,0.00044870377,0.04953003,-0.123046875,-0.025924683,-0.22131348,0.060516357,-0.1071167,-0.016143799,0.06298828,0.038879395,0.008529663,-0.009788513,0.026489258,0.00017273426,0.033966064,0.011962891,-0.020965576,0.11425781,-0.040863037,-0.012756348,-0.041992188,-0.017089844,0.029434204,-0.022964478,0.04043579,-0.011772156,-0.06896973,-0.04244995,0.039764404,-0.035736084,0.076538086,0.024475098,-0.004425049,-0.05255127,0.058380127,0.015487671,0.064819336,-0.08959961,0.011222839,-0.03125,0.08947754,0.036102295,-0.017456055,0.01852417,0.07635498,0.041931152,-0.05758667,0.036254883,0.018707275,0.0073432922,0.03933716,-0.02949524,-0.06512451,0.006095886,0.042236328,-0.017654419,-0.06945801,-0.00843811,0.037963867,0.04711914,-0.044189453,0.008125305,-0.057281494,0.012023926,0.020614624,-0.10430908,0.013916016,0.031951904,-0.06188965,0.011749268,-0.05255127,-0.0154418945,-0.005039215,-0.0014028549,0.06719971,0.107055664,-0.014549255,-0.076538086,0.026473999,-0.021606445,0.06512451,0.03074646,-0.023162842,0.061401367,0.000289917,-0.05810547,-0.013328552,-0.018875122,0.057250977,0.049346924,0.13049316,-0.057434082,0.025726318,-0.013633728,0.045654297,-0.053527832,-0.045715332,-0.014282227,-0.034698486,-0.05029297,-0.19763184,0.038970947,0.02456665,-0.005844116,-0.0010318756,0.005458832,0.0093688965,0.01979065,-0.0048561096,0.011886597,0.11541748,-0.018493652,0.03012085,-0.0052986145,-0.025146484,0.037353516,0.0060043335,0.01878357,0.05758667,0.060424805,-0.07330322,0.0014629364,0.04336548,-0.057861328,-0.034301758,0.013572693,-0.01335907,0.04626465,0.08673096,0.059692383,-0.0016670227,-0.02659607,0.10626221,-0.026855469,-0.048553467,0.030899048,-0.047210693,0.05859375,0.0014896393,-0.03439331,-0.06384277,0.020904541,0.032958984,-0.027832031,-0.027999878,-0.02671814,-0.025650024,0.038604736,-0.035461426,-0.015014648,0.005908966,-0.07702637,-0.010353088,-0.00077199936,0.057525635,-0.04257202,-0.00459671,-0.051818848,0.004749298,-0.010116577,-0.034484863,-0.004432678,-0.012214661,-0.066345215,0.008201599]'::halfvec(384))",
+            "Shared Hit Blocks": 342,
+            "Shared Read Blocks": 1050,
+            "Shared Dirtied Blocks": 0,
+            "Shared Written Blocks": 0,
+            "Local Hit Blocks": 0,
+            "Local Read Blocks": 0,
+            "Local Dirtied Blocks": 0,
+            "Local Written Blocks": 0,
+            "Temp Read Blocks": 0,
+            "Temp Written Blocks": 0
+          }
+        ]
+      },
+      "Planning": {
+        "Shared Hit Blocks": 1,
+        "Shared Read Blocks": 0,
+        "Shared Dirtied Blocks": 0,
+        "Shared Written Blocks": 0,
+        "Local Hit Blocks": 0,
+        "Local Read Blocks": 0,
+        "Local Dirtied Blocks": 0,
+        "Local Written Blocks": 0,
+        "Temp Read Blocks": 0,
+        "Temp Written Blocks": 0
+      },
+      "Planning Time": 0.032,
+      "Triggers": [],
+      "Execution Time": 78.859
+    }
+  ],
+  "notebook_valid": true,
+  "all_cells_executed": true,
+  "ui_callback_passed": true
+}

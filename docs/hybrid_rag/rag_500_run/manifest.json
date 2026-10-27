@@ -1,0 +1,8 @@
+{
+  "notebook": "/Users/amolsingh/Documents/Codex/2026-10-23/build-a-small-offline-rag-index/outputs/offline_wikipedia_pgvector_rag.ipynb",
+  "notebook_sha256": "e8d901607d2001a271c570786fa96770a546162f95d23b1c0ec3c9ade4e8f464",
+  "questions_sha256": "a5bae9042e9bd1149330b6dab519f14159b35e9c1942c07e705ef14abb09d9c5",
+  "limit": 500,
+  "started": "2026-10-27T18:56:10",
+  "application_cache": false
+}

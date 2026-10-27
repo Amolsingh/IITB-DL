@@ -1,0 +1,2559 @@
+[
+  {
+    "id": "Q001",
+    "domain": "Geography and places",
+    "question": "In which part of Europe is France primarily located?",
+    "answers": [
+      "Western Europe"
+    ],
+    "article_id": "5843419",
+    "title": "France",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "shard": "train-00001-of-00041.parquet",
+    "passage_id": "5843419:0:1008",
+    "pg_id": 1307383,
+    "evidence_quote": "France (), officially the French Republic ( ), is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian oceans, giving it one of the largest discontiguous excl",
+    "evidence_sha256": "7d4118c81c292b7c5cb8a5218b8847d7b03d457773b1225ba5ad7e29d6994254",
+    "answerable": true
+  },
+  {
+    "id": "Q002",
+    "domain": "Geography and places",
+    "question": "What is the official name of France?",
+    "answers": [
+      "French Republic"
+    ],
+    "article_id": "5843419",
+    "title": "France",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "shard": "train-00001-of-00041.parquet",
+    "passage_id": "5843419:0:1008",
+    "pg_id": 1307383,
+    "evidence_quote": "France (), officially the French Republic ( ), is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian o",
+    "evidence_sha256": "7d4118c81c292b7c5cb8a5218b8847d7b03d457773b1225ba5ad7e29d6994254",
+    "answerable": true
+  },
+  {
+    "id": "Q003",
+    "domain": "Geography and places",
+    "question": "Which country borders metropolitan France to the northeast?",
+    "answers": [
+      "Germany"
+    ],
+    "article_id": "5843419",
+    "title": "France",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "shard": "train-00001-of-00041.parquet",
+    "passage_id": "5843419:0:1008",
+    "pg_id": 1307383,
+    "evidence_quote": "ic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the north east, Switzerland to the east, Italy and Monaco to the south east, Andorra and Spain to the south, and a maritime border with the United Kingdom t",
+    "evidence_sha256": "7d4118c81c292b7c5cb8a5218b8847d7b03d457773b1225ba5ad7e29d6994254",
+    "answerable": true
+  },
+  {
+    "id": "Q004",
+    "domain": "Geography and places",
+    "question": "What is Brazil's capital?",
+    "answers": [
+      "Brasília"
+    ],
+    "article_id": "3383",
+    "title": "Brazil",
+    "url": "https://en.wikipedia.org/wiki/Brazil",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3383:0:1032",
+    "pg_id": 39112,
+    "evidence_quote": ". Brazil is the world's fifth-largest country by area and the seventh most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the only country in the Amer",
+    "evidence_sha256": "8ffb79ac042fb2d7f0a69f1cfc1cd6180eb901ed3c1f1c8fb3b7bc4e1eb22ff3",
+    "answerable": true
+  },
+  {
+    "id": "Q005",
+    "domain": "Geography and places",
+    "question": "Which language is official in Brazil?",
+    "answers": [
+      "Portuguese"
+    ],
+    "article_id": "3383",
+    "title": "Brazil",
+    "url": "https://en.wikipedia.org/wiki/Brazil",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3383:0:1032",
+    "pg_id": 39112,
+    "evidence_quote": "Brazil (; ), officially the Federative Republic of Brazil (Portuguese: ), is the largest country in South America and in Latin America. Brazil is the world's fifth-largest country by area and the seventh most populous. Its capita",
+    "evidence_sha256": "8ffb79ac042fb2d7f0a69f1cfc1cd6180eb901ed3c1f1c8fb3b7bc4e1eb22ff3",
+    "answerable": true
+  },
+  {
+    "id": "Q006",
+    "domain": "Geography and places",
+    "question": "What is Brazil's most populous city?",
+    "answers": [
+      "São Paulo"
+    ],
+    "article_id": "3383",
+    "title": "Brazil",
+    "url": "https://en.wikipedia.org/wiki/Brazil",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3383:0:1032",
+    "pg_id": 39112,
+    "evidence_quote": "untry by area and the seventh most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the only country in the Americas to have Portuguese as an official la",
+    "evidence_sha256": "8ffb79ac042fb2d7f0a69f1cfc1cd6180eb901ed3c1f1c8fb3b7bc4e1eb22ff3",
+    "answerable": true
+  },
+  {
+    "id": "Q007",
+    "domain": "Geography and places",
+    "question": "What is Australia's official name?",
+    "answers": [
+      "Commonwealth of Australia"
+    ],
+    "article_id": "4689264",
+    "title": "Australia",
+    "url": "https://en.wikipedia.org/wiki/Australia",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4689264:0:1060",
+    "pg_id": 557247,
+    "evidence_quote": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. Australia is the largest cou",
+    "evidence_sha256": "70b1228e413599328dd3754aab8cd921402fe033ebd766ce6707276b0da997fc",
+    "answerable": true
+  },
+  {
+    "id": "Q008",
+    "domain": "Geography and places",
+    "question": "Which island state is named in Australia's geographical definition?",
+    "answers": [
+      "Tasmania"
+    ],
+    "article_id": "4689264",
+    "title": "Australia",
+    "url": "https://en.wikipedia.org/wiki/Australia",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4689264:0:1060",
+    "pg_id": 557247,
+    "evidence_quote": "ustralia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. Australia is the largest country by area in Oceania and the world's sixth-largest country. Australia is the oldest, flattest, an",
+    "evidence_sha256": "70b1228e413599328dd3754aab8cd921402fe033ebd766ce6707276b0da997fc",
+    "answerable": true
+  },
+  {
+    "id": "Q009",
+    "domain": "Geography and places",
+    "question": "Which country is the largest by area in Oceania?",
+    "answers": [
+      "Australia"
+    ],
+    "article_id": "4689264",
+    "title": "Australia",
+    "url": "https://en.wikipedia.org/wiki/Australia",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4689264:0:1060",
+    "pg_id": 557247,
+    "evidence_quote": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous sma",
+    "evidence_sha256": "70b1228e413599328dd3754aab8cd921402fe033ebd766ce6707276b0da997fc",
+    "answerable": true
+  },
+  {
+    "id": "Q010",
+    "domain": "Geography and places",
+    "question": "Which ocean is the world's second largest?",
+    "answers": [
+      "Atlantic Ocean"
+    ],
+    "article_id": "698",
+    "title": "Atlantic Ocean",
+    "url": "https://en.wikipedia.org/wiki/Atlantic%20Ocean",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "698:0:1030",
+    "pg_id": 2975,
+    "evidence_quote": "The Atlantic Ocean is the second-largest of the world's five oceans, with an area of about . It covers approximately 17% of Earth's surface and about 24% of its water surface are",
+    "evidence_sha256": "1d9629d29af80b0472c613d6e2e846733ec310510b985e85d4a94b7f0c32486c",
+    "answerable": true
+  },
+  {
+    "id": "Q011",
+    "domain": "Geography and places",
+    "question": "Approximately what percentage of Earth's surface does the Atlantic cover?",
+    "answers": [
+      "17%"
+    ],
+    "article_id": "698",
+    "title": "Atlantic Ocean",
+    "url": "https://en.wikipedia.org/wiki/Atlantic%20Ocean",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "698:0:1030",
+    "pg_id": 2975,
+    "evidence_quote": "n is the second-largest of the world's five oceans, with an area of about . It covers approximately 17% of Earth's surface and about 24% of its water surface area. It is known to separate the \"Old World\" of Africa, Europe, and Asia from the \"New World\" of the Ame",
+    "evidence_sha256": "1d9629d29af80b0472c613d6e2e846733ec310510b985e85d4a94b7f0c32486c",
+    "answerable": true
+  },
+  {
+    "id": "Q012",
+    "domain": "Geography and places",
+    "question": "Which ocean separates Europe and Africa from the Americas?",
+    "answers": [
+      "Atlantic Ocean"
+    ],
+    "article_id": "698",
+    "title": "Atlantic Ocean",
+    "url": "https://en.wikipedia.org/wiki/Atlantic%20Ocean",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "698:0:1030",
+    "pg_id": 2975,
+    "evidence_quote": "The Atlantic Ocean is the second-largest of the world's five oceans, with an area of about . It covers approximately 17% of Earth's surface and about 24% of its water surface are",
+    "evidence_sha256": "1d9629d29af80b0472c613d6e2e846733ec310510b985e85d4a94b7f0c32486c",
+    "answerable": true
+  },
+  {
+    "id": "Q013",
+    "domain": "History",
+    "question": "Which two coalitions fought in World War I?",
+    "answers": [
+      "Allied Powers and the Central Powers"
+    ],
+    "article_id": "4764461",
+    "title": "World War I",
+    "url": "https://en.wikipedia.org/wiki/World%20War%20I",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4764461:0:1036",
+    "pg_id": 608204,
+    "evidence_quote": " (WWI), also known as the First World War, was a global conflict fought between two coalitions, the Allied Powers and the Central Powers. Fighting took place throughout Europe, the Middle East, Africa, the Pacific, and parts of Asia. One of the deadliest wars in history, it resulted in an estima",
+    "evidence_sha256": "e749794bb497ba92e7f37a66d4fc28e06f01940cd260d042a29ff9ebdc896b99",
+    "answerable": true
+  },
+  {
+    "id": "Q014",
+    "domain": "History",
+    "question": "What is another name for World War I?",
+    "answers": [
+      "First World War"
+    ],
+    "article_id": "4764461",
+    "title": "World War I",
+    "url": "https://en.wikipedia.org/wiki/World%20War%20I",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4764461:0:1036",
+    "pg_id": 608204,
+    "evidence_quote": "World War I (WWI), also known as the First World War, was a global conflict fought between two coalitions, the Allied Powers and the Central Powers. Fighting took place throughout Europe, the Middle East, Africa,",
+    "evidence_sha256": "e749794bb497ba92e7f37a66d4fc28e06f01940cd260d042a29ff9ebdc896b99",
+    "answerable": true
+  },
+  {
+    "id": "Q015",
+    "domain": "History",
+    "question": "Approximately how many soldiers died in World War I?",
+    "answers": [
+      "9 million"
+    ],
+    "article_id": "4764461",
+    "title": "World War I",
+    "url": "https://en.wikipedia.org/wiki/World%20War%20I",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4764461:0:1036",
+    "pg_id": 608204,
+    "evidence_quote": ", the Pacific, and parts of Asia. One of the deadliest wars in history, it resulted in an estimated 9 million soldiers dead and 23 million wounded, plus another 5 million civilian deaths from various causes. Millions more died as a result of genocide, and the war was a",
+    "evidence_sha256": "e749794bb497ba92e7f37a66d4fc28e06f01940cd260d042a29ff9ebdc896b99",
+    "answerable": true
+  },
+  {
+    "id": "Q016",
+    "domain": "History",
+    "question": "In which river valley was Ancient Egypt situated?",
+    "answers": [
+      "Nile Valley"
+    ],
+    "article_id": "874",
+    "title": "Ancient Egypt",
+    "url": "https://en.wikipedia.org/wiki/Ancient%20Egypt",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "874:0:975",
+    "pg_id": 6126,
+    "evidence_quote": "Ancient Egypt was a civilization in Northeast Africa situated in the Nile Valley. Ancient Egyptian civilization followed prehistoric Egypt and coalesced around 3100BC (according to conventional Egyptian chronology) with the political unific",
+    "evidence_sha256": "932ad26cf6755104b445e62b82ca24789ef1d9930a344f44d54d3fad46874862",
+    "answerable": true
+  },
+  {
+    "id": "Q017",
+    "domain": "History",
+    "question": "In which region of Africa was Ancient Egypt located?",
+    "answers": [
+      "Northeast Africa"
+    ],
+    "article_id": "874",
+    "title": "Ancient Egypt",
+    "url": "https://en.wikipedia.org/wiki/Ancient%20Egypt",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "874:0:975",
+    "pg_id": 6126,
+    "evidence_quote": "Ancient Egypt was a civilization in Northeast Africa situated in the Nile Valley. Ancient Egyptian civilization followed prehistoric Egypt and coalesced around 3100BC (according to conventional Egyptian chronolog",
+    "evidence_sha256": "932ad26cf6755104b445e62b82ca24789ef1d9930a344f44d54d3fad46874862",
+    "answerable": true
+  },
+  {
+    "id": "Q018",
+    "domain": "History",
+    "question": "Who is traditionally associated with unifying Upper and Lower Egypt?",
+    "answers": [
+      "Menes"
+    ],
+    "article_id": "874",
+    "title": "Ancient Egypt",
+    "url": "https://en.wikipedia.org/wiki/Ancient%20Egypt",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "874:0:975",
+    "pg_id": 6126,
+    "evidence_quote": " to conventional Egyptian chronology) with the political unification of Upper and Lower Egypt under Menes (often identified with Narmer). The history of ancient Egypt occurred as a series of stable kingdoms, separated by periods of relative instability known as Int",
+    "evidence_sha256": "932ad26cf6755104b445e62b82ca24789ef1d9930a344f44d54d3fad46874862",
+    "answerable": true
+  },
+  {
+    "id": "Q019",
+    "domain": "History",
+    "question": "What was the northern side in the American Civil War called?",
+    "answers": [
+      "Union"
+    ],
+    "article_id": "863",
+    "title": "American Civil War",
+    "url": "https://en.wikipedia.org/wiki/American%20Civil%20War",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "863:0:1068",
+    "pg_id": 5785,
+    "evidence_quote": "2, 1861 – May 26, 1865; also known by other names) was a civil war in the United States between the Union (\"the North\") and the Confederacy (\"the South\"), formed by states that had seceded from the Union. The cause of the war was the dispute over whether slavery wo",
+    "evidence_sha256": "319f6c9c375f7b83f2e5e624565c7307b77fa7e52870d5d6910e65582a86acf4",
+    "answerable": true
+  },
+  {
+    "id": "Q020",
+    "domain": "History",
+    "question": "In which year did the American Civil War begin?",
+    "answers": [
+      "1861"
+    ],
+    "article_id": "863",
+    "title": "American Civil War",
+    "url": "https://en.wikipedia.org/wiki/American%20Civil%20War",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "863:0:1068",
+    "pg_id": 5785,
+    "evidence_quote": "The American Civil War (April 12, 1861 – May 26, 1865; also known by other names) was a civil war in the United States between the Union (\"the North\") and the Confederacy (\"the South\"), formed by st",
+    "evidence_sha256": "319f6c9c375f7b83f2e5e624565c7307b77fa7e52870d5d6910e65582a86acf4",
+    "answerable": true
+  },
+  {
+    "id": "Q021",
+    "domain": "History",
+    "question": "In which year did the American Civil War end?",
+    "answers": [
+      "1865"
+    ],
+    "article_id": "863",
+    "title": "American Civil War",
+    "url": "https://en.wikipedia.org/wiki/American%20Civil%20War",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "863:0:1068",
+    "pg_id": 5785,
+    "evidence_quote": "The American Civil War (April 12, 1861 – May 26, 1865; also known by other names) was a civil war in the United States between the Union (\"the North\") and the Confederacy (\"the South\"), formed by states that had s",
+    "evidence_sha256": "319f6c9c375f7b83f2e5e624565c7307b77fa7e52870d5d6910e65582a86acf4",
+    "answerable": true
+  },
+  {
+    "id": "Q022",
+    "domain": "People and biographies",
+    "question": "Who was the sixteenth president of the United States?",
+    "answers": [
+      "Abraham Lincoln"
+    ],
+    "article_id": "307",
+    "title": "Abraham Lincoln",
+    "url": "https://en.wikipedia.org/wiki/Abraham%20Lincoln",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "307:0:1046",
+    "pg_id": 255,
+    "evidence_quote": "Abraham Lincoln ( ; February 12, 1809 – April 15, 1865) was an American lawyer, politician, and statesman who served as the 16th president of the United States from 1861 until",
+    "evidence_sha256": "5303c7aecf49f491e76935e6af1513f86a950e45efe125046b7a5a11a8b4e3ac",
+    "answerable": true
+  },
+  {
+    "id": "Q023",
+    "domain": "People and biographies",
+    "question": "Which president led the Union during the American Civil War?",
+    "answers": [
+      "Lincoln"
+    ],
+    "article_id": "307",
+    "title": "Abraham Lincoln",
+    "url": "https://en.wikipedia.org/wiki/Abraham%20Lincoln",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "307:0:1046",
+    "pg_id": 255,
+    "evidence_quote": "Abraham Lincoln ( ; February 12, 1809 – April 15, 1865) was an American lawyer, politician, and statesman who served as the 16th president of the United States from 1861 until",
+    "evidence_sha256": "5303c7aecf49f491e76935e6af1513f86a950e45efe125046b7a5a11a8b4e3ac",
+    "answerable": true
+  },
+  {
+    "id": "Q024",
+    "domain": "People and biographies",
+    "question": "In which year was Abraham Lincoln assassinated?",
+    "answers": [
+      "1865"
+    ],
+    "article_id": "307",
+    "title": "Abraham Lincoln",
+    "url": "https://en.wikipedia.org/wiki/Abraham%20Lincoln",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "307:0:1046",
+    "pg_id": 255,
+    "evidence_quote": "Abraham Lincoln ( ; February 12, 1809 – April 15, 1865) was an American lawyer, politician, and statesman who served as the 16th president of the United States from 1861 until his assassination in 1865. Lincoln led",
+    "evidence_sha256": "5303c7aecf49f491e76935e6af1513f86a950e45efe125046b7a5a11a8b4e3ac",
+    "answerable": true
+  },
+  {
+    "id": "Q025",
+    "domain": "People and biographies",
+    "question": "Which scientist is best known for developing the theory of relativity?",
+    "answers": [
+      "Einstein"
+    ],
+    "article_id": "736",
+    "title": "Albert Einstein",
+    "url": "https://en.wikipedia.org/wiki/Albert%20Einstein",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "736:0:1144",
+    "pg_id": 3470,
+    "evidence_quote": "Albert Einstein ( ; ; 14 March 1879 – 18 April 1955) was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of al",
+    "evidence_sha256": "b2866d6d14c1cddf4d1921b221321ce9c4445f92937b4d7e9fe1c55b16902786",
+    "answerable": true
+  },
+  {
+    "id": "Q026",
+    "domain": "People and biographies",
+    "question": "What kind of physicist was Albert Einstein?",
+    "answers": [
+      "theoretical physicist"
+    ],
+    "article_id": "736",
+    "title": "Albert Einstein",
+    "url": "https://en.wikipedia.org/wiki/Albert%20Einstein",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "736:0:1144",
+    "pg_id": 3470,
+    "evidence_quote": "Albert Einstein ( ; ; 14 March 1879 – 18 April 1955) was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. Best known for developing the theory of relativity, Einstein also mad",
+    "evidence_sha256": "b2866d6d14c1cddf4d1921b221321ce9c4445f92937b4d7e9fe1c55b16902786",
+    "answerable": true
+  },
+  {
+    "id": "Q027",
+    "domain": "People and biographies",
+    "question": "In which year was Albert Einstein born?",
+    "answers": [
+      "1879"
+    ],
+    "article_id": "736",
+    "title": "Albert Einstein",
+    "url": "https://en.wikipedia.org/wiki/Albert%20Einstein",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "736:0:1144",
+    "pg_id": 3470,
+    "evidence_quote": "Albert Einstein ( ; ; 14 March 1879 – 18 April 1955) was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. Best known f",
+    "evidence_sha256": "b2866d6d14c1cddf4d1921b221321ce9c4445f92937b4d7e9fe1c55b16902786",
+    "answerable": true
+  },
+  {
+    "id": "Q028",
+    "domain": "People and biographies",
+    "question": "Who founded the Peripatetic school of philosophy?",
+    "answers": [
+      "Aristotle"
+    ],
+    "article_id": "308",
+    "title": "Aristotle",
+    "url": "https://en.wikipedia.org/wiki/Aristotle",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "308:0:893",
+    "pg_id": 359,
+    "evidence_quote": "Aristotle (;  Aristotélēs, ; 384–322 BC) was an Ancient Greek philosopher and polymath. His writings cover a broad range of subjects spanning the natural sciences, philo",
+    "evidence_sha256": "349f3fefce78d2172a202e566f168d662c40cbfae6e909174be70f1ed5b104d3",
+    "answerable": true
+  },
+  {
+    "id": "Q029",
+    "domain": "People and biographies",
+    "question": "In which city was Aristotle's Lyceum located?",
+    "answers": [
+      "Athens"
+    ],
+    "article_id": "308",
+    "title": "Aristotle",
+    "url": "https://en.wikipedia.org/wiki/Aristotle",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "308:0:893",
+    "pg_id": 359,
+    "evidence_quote": "s, psychology and the arts. As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set the groundwork for the development of modern science.\n\nLittle is known about Aristotle's li",
+    "evidence_sha256": "349f3fefce78d2172a202e566f168d662c40cbfae6e909174be70f1ed5b104d3",
+    "answerable": true
+  },
+  {
+    "id": "Q030",
+    "domain": "People and biographies",
+    "question": "Was Aristotle an Ancient Greek philosopher?",
+    "answers": [
+      "Ancient Greek philosopher"
+    ],
+    "article_id": "308",
+    "title": "Aristotle",
+    "url": "https://en.wikipedia.org/wiki/Aristotle",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "308:0:893",
+    "pg_id": 359,
+    "evidence_quote": "Aristotle (;  Aristotélēs, ; 384–322 BC) was an Ancient Greek philosopher and polymath. His writings cover a broad range of subjects spanning the natural sciences, philosophy, linguistics, economics, politics, psychology and the arts",
+    "evidence_sha256": "349f3fefce78d2172a202e566f168d662c40cbfae6e909174be70f1ed5b104d3",
+    "answerable": true
+  },
+  {
+    "id": "Q031",
+    "domain": "People and biographies",
+    "question": "With whom did Darwin jointly publish his theory of evolution?",
+    "answers": [
+      "Alfred Russel Wallace"
+    ],
+    "article_id": "8145410",
+    "title": "Charles Darwin",
+    "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+    "shard": "train-00003-of-00041.parquet",
+    "passage_id": "8145410:0:1227",
+    "pg_id": 2472573,
+    "evidence_quote": "now generally accepted and considered a fundamental concept in science. In a joint publication with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for ex",
+    "evidence_sha256": "caf2d6374347c5453b63894e2c2af4a19d6e2ff94b5c7386c2443ee08865d56a",
+    "answerable": true
+  },
+  {
+    "id": "Q032",
+    "domain": "People and biographies",
+    "question": "Which branch of biology is Charles Darwin widely associated with?",
+    "answers": [
+      "evolutionary biology"
+    ],
+    "article_id": "8145410",
+    "title": "Charles Darwin",
+    "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+    "shard": "train-00003-of-00041.parquet",
+    "passage_id": "8145410:0:1227",
+    "pg_id": 2472573,
+    "evidence_quote": "il 1882) was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental concept in science. In a",
+    "evidence_sha256": "caf2d6374347c5453b63894e2c2af4a19d6e2ff94b5c7386c2443ee08865d56a",
+    "answerable": true
+  },
+  {
+    "id": "Q033",
+    "domain": "People and biographies",
+    "question": "What common origin did Darwin propose for all species of life?",
+    "answers": [
+      "common ancestor"
+    ],
+    "article_id": "8145410",
+    "title": "Charles Darwin",
+    "url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+    "shard": "train-00003-of-00041.parquet",
+    "passage_id": "8145410:0:1227",
+    "pg_id": 2472573,
+    "evidence_quote": "ntributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental concept in science. In a joint publication with Alfred Russel Wallace, he introduced his scientific theo",
+    "evidence_sha256": "caf2d6374347c5453b63894e2c2af4a19d6e2ff94b5c7386c2443ee08865d56a",
+    "answerable": true
+  },
+  {
+    "id": "Q034",
+    "domain": "People and biographies",
+    "question": "Which proposed computer did Ada Lovelace work on?",
+    "answers": [
+      "Analytical Engine"
+    ],
+    "article_id": "974",
+    "title": "Ada Lovelace",
+    "url": "https://en.wikipedia.org/wiki/Ada%20Lovelace",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "974:0:1050",
+    "pg_id": 7444,
+    "evidence_quote": ", chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation.\n\nAda Byron was the only legitimate child of poet Lord Byron and refo",
+    "evidence_sha256": "3b21b78ea1b51e4030fbc21e8eeb7725760fea14f4866e557dde55cfd47705b0",
+    "answerable": true
+  },
+  {
+    "id": "Q035",
+    "domain": "People and biographies",
+    "question": "Who designed the proposed computer associated with Ada Lovelace?",
+    "answers": [
+      "Charles Babbage"
+    ],
+    "article_id": "974",
+    "title": "Ada Lovelace",
+    "url": "https://en.wikipedia.org/wiki/Ada%20Lovelace",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "974:0:1050",
+    "pg_id": 7444,
+    "evidence_quote": "ber 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation",
+    "evidence_sha256": "3b21b78ea1b51e4030fbc21e8eeb7725760fea14f4866e557dde55cfd47705b0",
+    "answerable": true
+  },
+  {
+    "id": "Q036",
+    "domain": "People and biographies",
+    "question": "Which poet was Ada Lovelace's father?",
+    "answers": [
+      "Lord Byron"
+    ],
+    "article_id": "974",
+    "title": "Ada Lovelace",
+    "url": "https://en.wikipedia.org/wiki/Ada%20Lovelace",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "974:0:1050",
+    "pg_id": 7444,
+    "evidence_quote": " machine had applications beyond pure calculation.\n\nAda Byron was the only legitimate child of poet Lord Byron and reformer Lady Byron. All Lovelace's half-siblings, Lord Byron's other children, were born out of wedlock to other women. Byron separated from his wife a mo",
+    "evidence_sha256": "3b21b78ea1b51e4030fbc21e8eeb7725760fea14f4866e557dde55cfd47705b0",
+    "answerable": true
+  },
+  {
+    "id": "Q037",
+    "domain": "Science",
+    "question": "Which particles in an atom distinguish one chemical element from another?",
+    "answers": [
+      "protons"
+    ],
+    "article_id": "902",
+    "title": "Atom",
+    "url": "https://en.wikipedia.org/wiki/Atom",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "902:0:1047",
+    "pg_id": 6775,
+    "evidence_quote": "An atom is a particle that consists of a nucleus of protons and neutrons surrounded by an electromagnetically-bound cloud of electrons. The atom is the basic particle of the chemical elements, and the chemical elements ",
+    "evidence_sha256": "ee21c5be67b04b1b264c142fc85f21c79fc80288fa52a0199d0563ae4a8d921a",
+    "answerable": true
+  },
+  {
+    "id": "Q038",
+    "domain": "Science",
+    "question": "An atom with 11 protons belongs to which element?",
+    "answers": [
+      "sodium"
+    ],
+    "article_id": "902",
+    "title": "Atom",
+    "url": "https://en.wikipedia.org/wiki/Atom",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "902:0:1047",
+    "pg_id": 6775,
+    "evidence_quote": "by the number of protons that are in their atoms. For example, any atom that contains 11 protons is sodium, and any atom that contains 29 protons is copper. The number of neutrons defines the isotope of the element.\n\nAtoms are extremely small, typically around 100 p",
+    "evidence_sha256": "ee21c5be67b04b1b264c142fc85f21c79fc80288fa52a0199d0563ae4a8d921a",
+    "answerable": true
+  },
+  {
+    "id": "Q039",
+    "domain": "Science",
+    "question": "An atom with 29 protons belongs to which element?",
+    "answers": [
+      "copper"
+    ],
+    "article_id": "902",
+    "title": "Atom",
+    "url": "https://en.wikipedia.org/wiki/Atom",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "902:0:1047",
+    "pg_id": 6775,
+    "evidence_quote": " For example, any atom that contains 11 protons is sodium, and any atom that contains 29 protons is copper. The number of neutrons defines the isotope of the element.\n\nAtoms are extremely small, typically around 100 picometers across. A human hair is about a million",
+    "evidence_sha256": "ee21c5be67b04b1b264c142fc85f21c79fc80288fa52a0199d0563ae4a8d921a",
+    "answerable": true
+  },
+  {
+    "id": "Q040",
+    "domain": "Science",
+    "question": "What is the boundary of no escape around a black hole called?",
+    "answers": [
+      "event horizon"
+    ],
+    "article_id": "4650",
+    "title": "Black hole",
+    "url": "https://en.wikipedia.org/wiki/Black%20hole",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4650:0:1062",
+    "pg_id": 57345,
+    "evidence_quote": "tly compact mass can deform spacetime to form a black hole. The boundary of no escape is called the event horizon. Although it has a great effect on the fate and circumstances of an object crossing it, it has no locally detectable features according to general relativity. ",
+    "evidence_sha256": "39695c336649be72761512c45d215edd021977a144b44ef6a4089287d1b8c832",
+    "answerable": true
+  },
+  {
+    "id": "Q041",
+    "domain": "Science",
+    "question": "Which theory predicts that a compact mass can form a black hole?",
+    "answers": [
+      "general relativity"
+    ],
+    "article_id": "4650",
+    "title": "Black hole",
+    "url": "https://en.wikipedia.org/wiki/Black%20hole",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4650:0:1062",
+    "pg_id": 57345,
+    "evidence_quote": "ing, including light and other electromagnetic waves, has enough energy to escape it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of no escape is called the event horizon. Although it has a g",
+    "evidence_sha256": "39695c336649be72761512c45d215edd021977a144b44ef6a4089287d1b8c832",
+    "answerable": true
+  },
+  {
+    "id": "Q042",
+    "domain": "Science",
+    "question": "What object has gravity so strong that even light cannot escape?",
+    "answers": [
+      "black hole"
+    ],
+    "article_id": "4650",
+    "title": "Black hole",
+    "url": "https://en.wikipedia.org/wiki/Black%20hole",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4650:0:1062",
+    "pg_id": 57345,
+    "evidence_quote": "A black hole is a region of spacetime where gravity is so strong that nothing, including light and other electromagnetic waves, has enough energy to escape it. The theory o",
+    "evidence_sha256": "39695c336649be72761512c45d215edd021977a144b44ef6a4089287d1b8c832",
+    "answerable": true
+  },
+  {
+    "id": "Q043",
+    "domain": "Computing and technology",
+    "question": "What is a machine that automatically performs programmed arithmetic or logical operations called?",
+    "answers": [
+      "computer"
+    ],
+    "article_id": "7878457",
+    "title": "Computer",
+    "url": "https://en.wikipedia.org/wiki/Computer",
+    "shard": "train-00002-of-00041.parquet",
+    "passage_id": "7878457:0:1190",
+    "pg_id": 2350727,
+    "evidence_quote": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern digital electronic computers",
+    "evidence_sha256": "25d4b295134085bb204ab1431228c6e709390d459cfa24e7dc34d879ba94c632",
+    "answerable": true
+  },
+  {
+    "id": "Q044",
+    "domain": "Computing and technology",
+    "question": "What are the sets of operations executed by digital computers called?",
+    "answers": [
+      "programs"
+    ],
+    "article_id": "7878457",
+    "title": "Computer",
+    "url": "https://en.wikipedia.org/wiki/Computer",
+    "shard": "train-00002-of-00041.parquet",
+    "passage_id": "7878457:0:1190",
+    "pg_id": 2350727,
+    "evidence_quote": " automatically. Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a nominally complete computer that includes the hardware, operating sys",
+    "evidence_sha256": "25d4b295134085bb204ab1431228c6e709390d459cfa24e7dc34d879ba94c632",
+    "answerable": true
+  },
+  {
+    "id": "Q045",
+    "domain": "Computing and technology",
+    "question": "What is described as the main software of a computer system?",
+    "answers": [
+      "operating system"
+    ],
+    "article_id": "7878457",
+    "title": "Computer",
+    "url": "https://en.wikipedia.org/wiki/Computer",
+    "shard": "train-00002-of-00041.parquet",
+    "passage_id": "7878457:0:1190",
+    "pg_id": 2350727,
+    "evidence_quote": "wide range of tasks. A computer system is a nominally complete computer that includes the hardware, operating system (main software), and peripheral equipment needed and used for full operation. This term may also refer to a group of computers that are linked and function tog",
+    "evidence_sha256": "25d4b295134085bb204ab1431228c6e709390d459cfa24e7dc34d879ba94c632",
+    "answerable": true
+  },
+  {
+    "id": "Q046",
+    "domain": "Computing and technology",
+    "question": "What does AI stand for?",
+    "answers": [
+      "Artificial intelligence"
+    ],
+    "article_id": "1164",
+    "title": "Artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial%20intelligence",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1164:0:1007",
+    "pg_id": 10034,
+    "evidence_quote": "Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of humans or animals. It is also the field of study in computer science that d",
+    "evidence_sha256": "3af8adb350bcbc852ccc76608d83fe6f92b80a3c9a340017ff54888a34d2c5bf",
+    "answerable": true
+  },
+  {
+    "id": "Q047",
+    "domain": "Computing and technology",
+    "question": "In which field are intelligent machines studied and developed?",
+    "answers": [
+      "computer science"
+    ],
+    "article_id": "1164",
+    "title": "Artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial%20intelligence",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1164:0:1007",
+    "pg_id": 10034,
+    "evidence_quote": " or software, as opposed to the intelligence of humans or animals. It is also the field of study in computer science that develops and studies intelligent machines. \"AI\" may also refer to the machines themselves.\n\nAI technology is widely used throughout industry, government a",
+    "evidence_sha256": "3af8adb350bcbc852ccc76608d83fe6f92b80a3c9a340017ff54888a34d2c5bf",
+    "answerable": true
+  },
+  {
+    "id": "Q048",
+    "domain": "Computing and technology",
+    "question": "What is intelligence exhibited by machines or software called?",
+    "answers": [
+      "Artificial intelligence"
+    ],
+    "article_id": "1164",
+    "title": "Artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial%20intelligence",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1164:0:1007",
+    "pg_id": 10034,
+    "evidence_quote": "Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of humans or animals. It is also the field of study in computer science that d",
+    "evidence_sha256": "3af8adb350bcbc852ccc76608d83fe6f92b80a3c9a340017ff54888a34d2c5bf",
+    "answerable": true
+  },
+  {
+    "id": "Q049",
+    "domain": "Computing and technology",
+    "question": "What is a finite sequence of rigorous instructions for solving a problem called?",
+    "answers": [
+      "algorithm"
+    ],
+    "article_id": "775",
+    "title": "Algorithm",
+    "url": "https://en.wikipedia.org/wiki/Algorithm",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "775:0:1066",
+    "pg_id": 4236,
+    "evidence_quote": "In mathematics and computer science, an algorithm () is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as spec",
+    "evidence_sha256": "7c7b77732727fd9e7d13f370a67be377f0a4c9eedddb88031858b58f313ef1f5",
+    "answerable": true
+  },
+  {
+    "id": "Q050",
+    "domain": "Computing and technology",
+    "question": "What can algorithms use to divert execution through different routes?",
+    "answers": [
+      "conditionals"
+    ],
+    "article_id": "775",
+    "title": "Algorithm",
+    "url": "https://en.wikipedia.org/wiki/Algorithm",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "775:0:1066",
+    "pg_id": 4236,
+    "evidence_quote": "as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning)",
+    "evidence_sha256": "7c7b77732727fd9e7d13f370a67be377f0a4c9eedddb88031858b58f313ef1f5",
+    "answerable": true
+  },
+  {
+    "id": "Q051",
+    "domain": "Computing and technology",
+    "question": "What term describes algorithms deducing valid inferences?",
+    "answers": [
+      "automated reasoning"
+    ],
+    "article_id": "775",
+    "title": "Algorithm",
+    "url": "https://en.wikipedia.org/wiki/Algorithm",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "775:0:1066",
+    "pg_id": 4236,
+    "evidence_quote": "rious routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning), achieving automation eventually. Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms ",
+    "evidence_sha256": "7c7b77732727fd9e7d13f370a67be377f0a4c9eedddb88031858b58f313ef1f5",
+    "answerable": true
+  },
+  {
+    "id": "Q052",
+    "domain": "Computing and technology",
+    "question": "What is another name for computer programming?",
+    "answers": [
+      "coding"
+    ],
+    "article_id": "5311",
+    "title": "Computer programming",
+    "url": "https://en.wikipedia.org/wiki/Computer%20programming",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5311:0:1341",
+    "pg_id": 66087,
+    "evidence_quote": "Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks. It involves designing and implementing algorithms",
+    "evidence_sha256": "406f668ad5c988750bc73f049e8813c8537580894bec772a6e9ebc6dcc62c56b",
+    "answerable": true
+  },
+  {
+    "id": "Q053",
+    "domain": "Computing and technology",
+    "question": "What are the instruction sequences written by programmers called?",
+    "answers": [
+      "programs"
+    ],
+    "article_id": "5311",
+    "title": "Computer programming",
+    "url": "https://en.wikipedia.org/wiki/Computer%20programming",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5311:0:1341",
+    "pg_id": 66087,
+    "evidence_quote": "Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks. It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in o",
+    "evidence_sha256": "406f668ad5c988750bc73f049e8813c8537580894bec772a6e9ebc6dcc62c56b",
+    "answerable": true
+  },
+  {
+    "id": "Q054",
+    "domain": "Computing and technology",
+    "question": "Which code is directly executed by a computer's central processing unit?",
+    "answers": [
+      "machine code"
+    ],
+    "article_id": "5311",
+    "title": "Computer programming",
+    "url": "https://en.wikipedia.org/wiki/Computer%20programming",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5311:0:1341",
+    "pg_id": 66087,
+    "evidence_quote": "ers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit. Proficient programming usually requires expertise in several different subjects, including knowledg",
+    "evidence_sha256": "406f668ad5c988750bc73f049e8813c8537580894bec772a6e9ebc6dcc62c56b",
+    "answerable": true
+  },
+  {
+    "id": "Q055",
+    "domain": "Mathematics",
+    "question": "Which branch of mathematics studies continuous change?",
+    "answers": [
+      "Calculus"
+    ],
+    "article_id": "5176",
+    "title": "Calculus",
+    "url": "https://en.wikipedia.org/wiki/Calculus",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5176:0:1109",
+    "pg_id": 63979,
+    "evidence_quote": "Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic ",
+    "evidence_sha256": "933d825410806aad8e45205f31273cdbc1d489866a3be01d53683e8b7d0f4428",
+    "answerable": true
+  },
+  {
+    "id": "Q056",
+    "domain": "Mathematics",
+    "question": "Which branch of calculus concerns instantaneous rates of change?",
+    "answers": [
+      "differential calculus"
+    ],
+    "article_id": "5176",
+    "title": "Calculus",
+    "url": "https://en.wikipedia.org/wiki/Calculus",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5176:0:1109",
+    "pg_id": 63979,
+    "evidence_quote": ", and algebra is the study of generalizations of arithmetic operations.\n\nIt has two major branches, differential calculus and integral calculus; the former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and a",
+    "evidence_sha256": "933d825410806aad8e45205f31273cdbc1d489866a3be01d53683e8b7d0f4428",
+    "answerable": true
+  },
+  {
+    "id": "Q057",
+    "domain": "Mathematics",
+    "question": "Which branch of calculus concerns accumulation and areas under curves?",
+    "answers": [
+      "integral calculus"
+    ],
+    "article_id": "5176",
+    "title": "Calculus",
+    "url": "https://en.wikipedia.org/wiki/Calculus",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5176:0:1109",
+    "pg_id": 63979,
+    "evidence_quote": " of generalizations of arithmetic operations.\n\nIt has two major branches, differential calculus and integral calculus; the former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and areas under or between ",
+    "evidence_sha256": "933d825410806aad8e45205f31273cdbc1d489866a3be01d53683e8b7d0f4428",
+    "answerable": true
+  },
+  {
+    "id": "Q058",
+    "domain": "Mathematics",
+    "question": "Who formalized arithmetic with axioms in the nineteenth century?",
+    "answers": [
+      "Giuseppe Peano"
+    ],
+    "article_id": "3118",
+    "title": "Arithmetic",
+    "url": "https://en.wikipedia.org/wiki/Arithmetic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3118:0:1072",
+    "pg_id": 36579,
+    "evidence_quote": "tion, division, exponentiation, and extraction of roots. In the 19th century, Italian mathematician Giuseppe Peano formalized arithmetic with his Peano axioms, which are highly important to the field of mathematical logic today.\n\nHistory\n\nThe prehistory of arithmetic is lim",
+    "evidence_sha256": "4fcd6b97fc80dbcf805de390105663a3783433a48b11268010eedff34ce52810",
+    "answerable": true
+  },
+  {
+    "id": "Q059",
+    "domain": "Mathematics",
+    "question": "What ancient bone is discussed as possible evidence of early arithmetic?",
+    "answers": [
+      "Ishango bone"
+    ],
+    "article_id": "3118",
+    "title": "Arithmetic",
+    "url": "https://en.wikipedia.org/wiki/Arithmetic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3118:0:1072",
+    "pg_id": 36579,
+    "evidence_quote": "er of artifacts that may indicate the conception of addition and subtraction; the best-known is the Ishango bone from central Africa, dating from somewhere between 20,000 and 18,000 BC, although its interpretation is disputed.\n\nThe earliest written records indicate the Eg",
+    "evidence_sha256": "4fcd6b97fc80dbcf805de390105663a3783433a48b11268010eedff34ce52810",
+    "answerable": true
+  },
+  {
+    "id": "Q060",
+    "domain": "Mathematics",
+    "question": "Which two civilizations used elementary arithmetic operations around 2000 BC?",
+    "answers": [
+      "Egyptians and Babylonians"
+    ],
+    "article_id": "3118",
+    "title": "Arithmetic",
+    "url": "https://en.wikipedia.org/wiki/Arithmetic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3118:0:1072",
+    "pg_id": 36579,
+    "evidence_quote": " and 18,000 BC, although its interpretation is disputed.\n\nThe earliest written records indicate the Egyptians and Babylonians used all the elementary arithmetic operations: addition, subtraction, multiplication, and division, as early as 2000 BC. These artifacts do not always reveal t",
+    "evidence_sha256": "4fcd6b97fc80dbcf805de390105663a3783433a48b11268010eedff34ce52810",
+    "answerable": true
+  },
+  {
+    "id": "Q061",
+    "domain": "Medicine and health",
+    "question": "Antibiotics are primarily active against which microorganisms?",
+    "answers": [
+      "bacteria"
+    ],
+    "article_id": "1805",
+    "title": "Antibiotic",
+    "url": "https://en.wikipedia.org/wiki/Antibiotic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1805:0:679",
+    "pg_id": 19004,
+    "evidence_quote": "An antibiotic is a type of antimicrobial substance active against bacteria. It is the most important type of antibacterial agent for fighting bacterial infections, and antibiotic medications are widely used in the treatment and preven",
+    "evidence_sha256": "d06ec6337f73ba5411266c82316e52671db8ccd33069c2c3394ba0217194237e",
+    "answerable": true
+  },
+  {
+    "id": "Q062",
+    "domain": "Medicine and health",
+    "question": "Are antibiotics effective against viruses?",
+    "answers": [
+      "not effective against viruses"
+    ],
+    "article_id": "1805",
+    "title": "Antibiotic",
+    "url": "https://en.wikipedia.org/wiki/Antibiotic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1805:0:679",
+    "pg_id": 19004,
+    "evidence_quote": "h of bacteria. A limited number of antibiotics also possess antiprotozoal activity. Antibiotics are not effective against viruses such as the common cold or influenza; drugs which inhibit growth of viruses are termed antiviral drugs or antivirals rather than antibiotics. They are also not",
+    "evidence_sha256": "d06ec6337f73ba5411266c82316e52671db8ccd33069c2c3394ba0217194237e",
+    "answerable": true
+  },
+  {
+    "id": "Q063",
+    "domain": "Medicine and health",
+    "question": "Besides killing bacteria, what can antibiotics inhibit?",
+    "answers": [
+      "growth"
+    ],
+    "article_id": "1805",
+    "title": "Antibiotic",
+    "url": "https://en.wikipedia.org/wiki/Antibiotic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1805:0:679",
+    "pg_id": 19004,
+    "evidence_quote": "widely used in the treatment and prevention of such infections. They may either kill or inhibit the growth of bacteria. A limited number of antibiotics also possess antiprotozoal activity. Antibiotics are not effective against viruses such as the common cold or infl",
+    "evidence_sha256": "d06ec6337f73ba5411266c82316e52671db8ccd33069c2c3394ba0217194237e",
+    "answerable": true
+  },
+  {
+    "id": "Q064",
+    "domain": "Medicine and health",
+    "question": "Which fluid delivers oxygen and nutrients to cells?",
+    "answers": [
+      "Blood"
+    ],
+    "article_id": "3997",
+    "title": "Blood",
+    "url": "https://en.wikipedia.org/wiki/Blood",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3997:0:1014",
+    "pg_id": 46363,
+    "evidence_quote": "Blood is a body fluid in the circulatory system of humans and other vertebrates that delivers necessary substances such as nutrients and oxygen to the cells, and tra",
+    "evidence_sha256": "385e4099bb164d9824eb97f5100315b6306b5751e95fde9e05db2beb58b2750f",
+    "answerable": true
+  },
+  {
+    "id": "Q065",
+    "domain": "Medicine and health",
+    "question": "What liquid are blood cells suspended in?",
+    "answers": [
+      "blood plasma"
+    ],
+    "article_id": "3997",
+    "title": "Blood",
+    "url": "https://en.wikipedia.org/wiki/Blood",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3997:0:1014",
+    "pg_id": 46363,
+    "evidence_quote": " the blood cells it carries, peripheral blood cells.\n\nBlood is composed of blood cells suspended in blood plasma. Plasma, which constitutes 55% of blood fluid, is mostly water (92% by volume), and contains proteins, glucose, mineral ions, hormones, carbon dioxide (plasma ",
+    "evidence_sha256": "385e4099bb164d9824eb97f5100315b6306b5751e95fde9e05db2beb58b2750f",
+    "answerable": true
+  },
+  {
+    "id": "Q066",
+    "domain": "Medicine and health",
+    "question": "Approximately what percentage of blood fluid is plasma?",
+    "answers": [
+      "55%"
+    ],
+    "article_id": "3997",
+    "title": "Blood",
+    "url": "https://en.wikipedia.org/wiki/Blood",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3997:0:1014",
+    "pg_id": 46363,
+    "evidence_quote": "blood cells.\n\nBlood is composed of blood cells suspended in blood plasma. Plasma, which constitutes 55% of blood fluid, is mostly water (92% by volume), and contains proteins, glucose, mineral ions, hormones, carbon dioxide (plasma being the main medium for excre",
+    "evidence_sha256": "385e4099bb164d9824eb97f5100315b6306b5751e95fde9e05db2beb58b2750f",
+    "answerable": true
+  },
+  {
+    "id": "Q067",
+    "domain": "Medicine and health",
+    "question": "What field studies the structure of organisms and their parts?",
+    "answers": [
+      "Anatomy"
+    ],
+    "article_id": "674",
+    "title": "Anatomy",
+    "url": "https://en.wikipedia.org/wiki/Anatomy",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "674:0:1149",
+    "pg_id": 2576,
+    "evidence_quote": "Anatomy () is the branch of biology concerned with the study of the structure of organisms and their parts. Anatomy is a branch of natural science that deals with the ",
+    "evidence_sha256": "f39b48315a0fb8fcbc727b63c9ae621fab17ab30bc13386c6e81aec195fb0c4d",
+    "answerable": true
+  },
+  {
+    "id": "Q068",
+    "domain": "Medicine and health",
+    "question": "Anatomy is a branch of which science?",
+    "answers": [
+      "biology"
+    ],
+    "article_id": "674",
+    "title": "Anatomy",
+    "url": "https://en.wikipedia.org/wiki/Anatomy",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "674:0:1149",
+    "pg_id": 2576,
+    "evidence_quote": "Anatomy () is the branch of biology concerned with the study of the structure of organisms and their parts. Anatomy is a branch of natural science that deals with the structural organization of l",
+    "evidence_sha256": "f39b48315a0fb8fcbc727b63c9ae621fab17ab30bc13386c6e81aec195fb0c4d",
+    "answerable": true
+  },
+  {
+    "id": "Q069",
+    "domain": "Medicine and health",
+    "question": "What field studies the functions of organisms and their parts alongside anatomy?",
+    "answers": [
+      "Physiology"
+    ],
+    "article_id": "674",
+    "title": "Anatomy",
+    "url": "https://en.wikipedia.org/wiki/Anatomy",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "674:0:1149",
+    "pg_id": 2576,
+    "evidence_quote": " processes by which anatomy is generated, both over immediate and long-term timescales. Anatomy and physiology, which study the structure and function of organisms and their parts respectively, make a natural pair of related disciplines, and are often studied together. ",
+    "evidence_sha256": "f39b48315a0fb8fcbc727b63c9ae621fab17ab30bc13386c6e81aec195fb0c4d",
+    "answerable": true
+  },
+  {
+    "id": "Q070",
+    "domain": "Medicine and health",
+    "question": "What is the chemical name commonly abbreviated ASA?",
+    "answers": [
+      "acetylsalicylic acid"
+    ],
+    "article_id": "1525",
+    "title": "Aspirin",
+    "url": "https://en.wikipedia.org/wiki/Aspirin",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1525:0:906",
+    "pg_id": 15089,
+    "evidence_quote": "Aspirin, also known as acetylsalicylic acid (ASA), is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, fever, and/or inflammation, and as an antithrombotic. Specific inflammatory condit",
+    "evidence_sha256": "a7c19702e941ad2bce5d57a09ae58ef8e7e20998d766994aa6e882014ad5d328",
+    "answerable": true
+  },
+  {
+    "id": "Q071",
+    "domain": "Medicine and health",
+    "question": "Which medication is abbreviated ASA?",
+    "answers": [
+      "Aspirin"
+    ],
+    "article_id": "1525",
+    "title": "Aspirin",
+    "url": "https://en.wikipedia.org/wiki/Aspirin",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1525:0:906",
+    "pg_id": 15089,
+    "evidence_quote": "Aspirin, also known as acetylsalicylic acid (ASA), is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, fever, and/or inflammation, and as an antithro",
+    "evidence_sha256": "a7c19702e941ad2bce5d57a09ae58ef8e7e20998d766994aa6e882014ad5d328",
+    "answerable": true
+  },
+  {
+    "id": "Q072",
+    "domain": "Medicine and health",
+    "question": "Which class of anti-inflammatory drugs includes aspirin?",
+    "answers": [
+      "nonsteroidal anti-inflammatory drug"
+    ],
+    "article_id": "1525",
+    "title": "Aspirin",
+    "url": "https://en.wikipedia.org/wiki/Aspirin",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1525:0:906",
+    "pg_id": 15089,
+    "evidence_quote": "Aspirin, also known as acetylsalicylic acid (ASA), is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, fever, and/or inflammation, and as an antithrombotic. Specific inflammatory conditions which aspirin is used to treat include Kawa",
+    "evidence_sha256": "a7c19702e941ad2bce5d57a09ae58ef8e7e20998d766994aa6e882014ad5d328",
+    "answerable": true
+  },
+  {
+    "id": "Q073",
+    "domain": "Biology and nature",
+    "question": "What taxonomic class do birds constitute?",
+    "answers": [
+      "Aves"
+    ],
+    "article_id": "3410",
+    "title": "Bird",
+    "url": "https://en.wikipedia.org/wiki/Bird",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3410:0:1028",
+    "pg_id": 39841,
+    "evidence_quote": "Birds are a group of warm-blooded vertebrates constituting the class Aves (), characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightwei",
+    "evidence_sha256": "c1da43cf26093a25cb3c250c6f11ee7ddbb72a3f001839c912b196fe89736c27",
+    "answerable": true
+  },
+  {
+    "id": "Q074",
+    "domain": "Biology and nature",
+    "question": "What structures cover birds' bodies?",
+    "answers": [
+      "feathers"
+    ],
+    "article_id": "3410",
+    "title": "Bird",
+    "url": "https://en.wikipedia.org/wiki/Bird",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3410:0:1028",
+    "pg_id": 39841,
+    "evidence_quote": "Birds are a group of warm-blooded vertebrates constituting the class Aves (), characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live world",
+    "evidence_sha256": "c1da43cf26093a25cb3c250c6f11ee7ddbb72a3f001839c912b196fe89736c27",
+    "answerable": true
+  },
+  {
+    "id": "Q075",
+    "domain": "Biology and nature",
+    "question": "How many chambers does a bird's heart have?",
+    "answers": [
+      "four-chambered",
+      "four",
+      "4"
+    ],
+    "article_id": "3410",
+    "title": "Bird",
+    "url": "https://en.wikipedia.org/wiki/Bird",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3410:0:1028",
+    "pg_id": 39841,
+    "evidence_quote": "rised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the  bee hummingbird to the  common ostrich. There are about ten thou",
+    "evidence_sha256": "c1da43cf26093a25cb3c250c6f11ee7ddbb72a3f001839c912b196fe89736c27",
+    "answerable": true
+  },
+  {
+    "id": "Q076",
+    "domain": "Biology and nature",
+    "question": "What is the basic structural and functional unit of life?",
+    "answers": [
+      "cell"
+    ],
+    "article_id": "4230",
+    "title": "Cell (biology)",
+    "url": "https://en.wikipedia.org/wiki/Cell%20%28biology%29",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4230:0:942",
+    "pg_id": 49602,
+    "evidence_quote": "The cell is the basic structural and functional unit of all forms of life. Every cell consists of cytoplasm enclosed within a membrane, and contains many macromolecules",
+    "evidence_sha256": "e78634cfb5dde0254335fdb376990ee48011953c172b39aef37fc50c01e31cb3",
+    "answerable": true
+  },
+  {
+    "id": "Q077",
+    "domain": "Biology and nature",
+    "question": "What surrounds the cytoplasm of a cell?",
+    "answers": [
+      "membrane"
+    ],
+    "article_id": "4230",
+    "title": "Cell (biology)",
+    "url": "https://en.wikipedia.org/wiki/Cell%20%28biology%29",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4230:0:942",
+    "pg_id": 49602,
+    "evidence_quote": "ctural and functional unit of all forms of life. Every cell consists of cytoplasm enclosed within a membrane, and contains many macromolecules such as proteins, DNA and RNA, as well as many small molecules of nutrients and metabolites. The term comes from the Latin wo",
+    "evidence_sha256": "e78634cfb5dde0254335fdb376990ee48011953c172b39aef37fc50c01e31cb3",
+    "answerable": true
+  },
+  {
+    "id": "Q078",
+    "domain": "Biology and nature",
+    "question": "What does the Latin word underlying the term cell mean?",
+    "answers": [
+      "small room"
+    ],
+    "article_id": "4230",
+    "title": "Cell (biology)",
+    "url": "https://en.wikipedia.org/wiki/Cell%20%28biology%29",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4230:0:942",
+    "pg_id": 49602,
+    "evidence_quote": " as many small molecules of nutrients and metabolites. The term comes from the Latin word  meaning 'small room'.\n\nCells can acquire specified function and carry out various tasks within the cell such as replication, DNA repair, protein synthesis, and motility. Cells are",
+    "evidence_sha256": "e78634cfb5dde0254335fdb376990ee48011953c172b39aef37fc50c01e31cb3",
+    "answerable": true
+  },
+  {
+    "id": "Q079",
+    "domain": "Biology and nature",
+    "question": "What is the study of bacteria called?",
+    "answers": [
+      "bacteriology"
+    ],
+    "article_id": "9028799",
+    "title": "Bacteria",
+    "url": "https://en.wikipedia.org/wiki/Bacteria",
+    "shard": "train-00003-of-00041.parquet",
+    "passage_id": "9028799:940:1878",
+    "pg_id": 2863463,
+    "evidence_quote": "nd there are many species that cannot be grown in the laboratory. The study of bacteria is known as bacteriology, a branch of microbiology.\n\nHumans and most other animals carry vast numbers (approximately 1013 to 1014) of bacteria. Most are in the gut, and there are many ",
+    "evidence_sha256": "f6ebc870fa5b68b41c79805a428967cf643712deff28b0e159a3fee993c27962",
+    "answerable": true
+  },
+  {
+    "id": "Q080",
+    "domain": "Biology and nature",
+    "question": "Bacteria belong to a large domain of what kind of microorganisms?",
+    "answers": [
+      "prokaryotic"
+    ],
+    "article_id": "9028799",
+    "title": "Bacteria",
+    "url": "https://en.wikipedia.org/wiki/Bacteria",
+    "shard": "train-00003-of-00041.parquet",
+    "passage_id": "9028799:0:1114",
+    "pg_id": 2863462,
+    "evidence_quote": "ly free-living organisms often consisting of one biological cell. They constitute a large domain of prokaryotic microorganisms. Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats. Ba",
+    "evidence_sha256": "cd7d94d3103872ed86afe11a6f59b06611f04af1f9bb8becdda9428be8c9af85",
+    "answerable": true
+  },
+  {
+    "id": "Q081",
+    "domain": "Biology and nature",
+    "question": "Which atmospheric element do bacteria help fix in nutrient cycles?",
+    "answers": [
+      "nitrogen"
+    ],
+    "article_id": "9028799",
+    "title": "Bacteria",
+    "url": "https://en.wikipedia.org/wiki/Bacteria",
+    "shard": "train-00003-of-00041.parquet",
+    "passage_id": "9028799:0:1114",
+    "pg_id": 2863462,
+    "evidence_quote": "a play a vital role in many stages of the nutrient cycle by recycling nutrients and the fixation of nitrogen from the atmosphere. The nutrient cycle includes the decomposition of dead bodies; bacteria are responsible for the putrefaction stage in this process. In the ",
+    "evidence_sha256": "cd7d94d3103872ed86afe11a6f59b06611f04af1f9bb8becdda9428be8c9af85",
+    "answerable": true
+  },
+  {
+    "id": "Q082",
+    "domain": "Politics and government",
+    "question": "What establishes the fundamental legal basis of a polity?",
+    "answers": [
+      "constitution"
+    ],
+    "article_id": "5253",
+    "title": "Constitution",
+    "url": "https://en.wikipedia.org/wiki/Constitution",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5253:0:1076",
+    "pg_id": 65384,
+    "evidence_quote": "A constitution is the aggregate of fundamental principles or established precedents that constitute the legal basis of a polity, organization or other type of entity, and com",
+    "evidence_sha256": "e6aa8f5fe4cec413b4596383ea5ea35127e8a87cb906c9cf8fda9b907c5120ea",
+    "answerable": true
+  },
+  {
+    "id": "Q083",
+    "domain": "Politics and government",
+    "question": "What is a constitution written in a single comprehensive document called?",
+    "answers": [
+      "codified constitution"
+    ],
+    "article_id": "5253",
+    "title": "Constitution",
+    "url": "https://en.wikipedia.org/wiki/Constitution",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5253:0:1076",
+    "pg_id": 65384,
+    "evidence_quote": "en constitution; if they are encompassed in a single comprehensive document, it is said to embody a codified constitution. The Constitution of the United Kingdom is a notable example of an uncodified constitution; it is instead written in numerous fundamental Acts of a legislature",
+    "evidence_sha256": "e6aa8f5fe4cec413b4596383ea5ea35127e8a87cb906c9cf8fda9b907c5120ea",
+    "answerable": true
+  },
+  {
+    "id": "Q084",
+    "domain": "Politics and government",
+    "question": "What does a constitution commonly determine about an entity?",
+    "answers": [
+      "how that entity is to be governed"
+    ],
+    "article_id": "5253",
+    "title": "Constitution",
+    "url": "https://en.wikipedia.org/wiki/Constitution",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5253:0:1076",
+    "pg_id": 65384,
+    "evidence_quote": "nstitute the legal basis of a polity, organization or other type of entity, and commonly determines how that entity is to be governed.\n\nWhen these principles are written down into a single document or set of legal documents, those documents may be said to embody a written constitution; if the",
+    "evidence_sha256": "e6aa8f5fe4cec413b4596383ea5ea35127e8a87cb906c9cf8fda9b907c5120ea",
+    "answerable": true
+  },
+  {
+    "id": "Q085",
+    "domain": "Politics and government",
+    "question": "Which political philosophy advocates stateless societies and voluntary association?",
+    "answers": [
+      "Anarchism"
+    ],
+    "article_id": "12",
+    "title": "Anarchism",
+    "url": "https://en.wikipedia.org/wiki/Anarchism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "12:0:1167",
+    "pg_id": 1,
+    "evidence_quote": "Anarchism is a political philosophy and movement that is skeptical of all justifications for authority and seeks to abolish the institutions it claims maintain unnecessa",
+    "evidence_sha256": "01f4354ca9a2c119ff9508c2a0dd63b43c8f8306e92fecdca377d569a281f8f4",
+    "answerable": true
+  },
+  {
+    "id": "Q086",
+    "domain": "Politics and government",
+    "question": "What kind of societies does anarchism propose in place of the state?",
+    "answers": [
+      "stateless societies"
+    ],
+    "article_id": "12",
+    "title": "Anarchism",
+    "url": "https://en.wikipedia.org/wiki/Anarchism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "12:0:1167",
+    "pg_id": 1,
+    "evidence_quote": " including nation-states, and capitalism. Anarchism advocates for the replacement of the state with stateless societies and voluntary free associations. As a historically left-wing movement, this reading of anarchism is placed on the farthest left of the political spectrum, usua",
+    "evidence_sha256": "01f4354ca9a2c119ff9508c2a0dd63b43c8f8306e92fecdca377d569a281f8f4",
+    "answerable": true
+  },
+  {
+    "id": "Q087",
+    "domain": "Politics and government",
+    "question": "Which institutions does anarchism typically seek to abolish alongside capitalism?",
+    "answers": [
+      "nation-states"
+    ],
+    "article_id": "12",
+    "title": "Anarchism",
+    "url": "https://en.wikipedia.org/wiki/Anarchism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "12:0:1167",
+    "pg_id": 1,
+    "evidence_quote": "abolish the institutions it claims maintain unnecessary coercion and hierarchy, typically including nation-states, and capitalism. Anarchism advocates for the replacement of the state with stateless societies and voluntary free associations. As a historically left-wing mov",
+    "evidence_sha256": "01f4354ca9a2c119ff9508c2a0dd63b43c8f8306e92fecdca377d569a281f8f4",
+    "answerable": true
+  },
+  {
+    "id": "Q088",
+    "domain": "Business and economics",
+    "question": "Which economic system is based on private ownership of the means of production?",
+    "answers": [
+      "Capitalism"
+    ],
+    "article_id": "5416",
+    "title": "Capitalism",
+    "url": "https://en.wikipedia.org/wiki/Capitalism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5416:0:1247",
+    "pg_id": 68000,
+    "evidence_quote": "Capitalism is an economic system based on the private ownership of the means of production and their operation for profit. Central characteristics of capitalism include c",
+    "evidence_sha256": "b78b55041dcd0f797121d0ee22e1cdcd545a3dc0b6e6474d0845339a18338a04",
+    "answerable": true
+  },
+  {
+    "id": "Q089",
+    "domain": "Business and economics",
+    "question": "For what purpose are the means of production operated under capitalism?",
+    "answers": [
+      "profit"
+    ],
+    "article_id": "5416",
+    "title": "Capitalism",
+    "url": "https://en.wikipedia.org/wiki/Capitalism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5416:0:1247",
+    "pg_id": 68000,
+    "evidence_quote": "n economic system based on the private ownership of the means of production and their operation for profit. Central characteristics of capitalism include capital accumulation, competitive markets, price systems, private property, property rights recognition, volunta",
+    "evidence_sha256": "b78b55041dcd0f797121d0ee22e1cdcd545a3dc0b6e6474d0845339a18338a04",
+    "answerable": true
+  },
+  {
+    "id": "Q090",
+    "domain": "Business and economics",
+    "question": "What type of markets are a central characteristic of capitalism?",
+    "answers": [
+      "competitive markets"
+    ],
+    "article_id": "5416",
+    "title": "Capitalism",
+    "url": "https://en.wikipedia.org/wiki/Capitalism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5416:0:1247",
+    "pg_id": 68000,
+    "evidence_quote": "and their operation for profit. Central characteristics of capitalism include capital accumulation, competitive markets, price systems, private property, property rights recognition, voluntary exchange, and wage labor. In a market economy, decision-making and investments are det",
+    "evidence_sha256": "b78b55041dcd0f797121d0ee22e1cdcd545a3dc0b6e6474d0845339a18338a04",
+    "answerable": true
+  },
+  {
+    "id": "Q091",
+    "domain": "Business and economics",
+    "question": "Which institution manages a country's currency and monetary policy?",
+    "answers": [
+      "central bank"
+    ],
+    "article_id": "5666",
+    "title": "Central bank",
+    "url": "https://en.wikipedia.org/wiki/Central%20bank",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5666:0:1228",
+    "pg_id": 71600,
+    "evidence_quote": "A central bank, reserve bank, or monetary authority is an institution that manages the currency and monetary policy of a country or monetary union. In contrast to a commercia",
+    "evidence_sha256": "cf6be060136825056210c0a5af5bfaf076763964a6cf2e6710fd2d09ede32fae",
+    "answerable": true
+  },
+  {
+    "id": "Q092",
+    "domain": "Business and economics",
+    "question": "What is another name for a central bank besides reserve bank?",
+    "answers": [
+      "monetary authority"
+    ],
+    "article_id": "5666",
+    "title": "Central bank",
+    "url": "https://en.wikipedia.org/wiki/Central%20bank",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5666:0:1228",
+    "pg_id": 71600,
+    "evidence_quote": "A central bank, reserve bank, or monetary authority is an institution that manages the currency and monetary policy of a country or monetary union. In contrast to a commercial bank, a central bank possesses a mo",
+    "evidence_sha256": "cf6be060136825056210c0a5af5bfaf076763964a6cf2e6710fd2d09ede32fae",
+    "answerable": true
+  },
+  {
+    "id": "Q093",
+    "domain": "Business and economics",
+    "question": "On increasing what does a central bank possess a monopoly?",
+    "answers": [
+      "monetary base"
+    ],
+    "article_id": "5666",
+    "title": "Central bank",
+    "url": "https://en.wikipedia.org/wiki/Central%20bank",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5666:0:1228",
+    "pg_id": 71600,
+    "evidence_quote": "tary union. In contrast to a commercial bank, a central bank possesses a monopoly on increasing the monetary base. Many central banks also have supervisory or regulatory powers to ensure the stability of commercial banks in their jurisdiction, to prevent bank runs, and in ",
+    "evidence_sha256": "cf6be060136825056210c0a5af5bfaf076763964a6cf2e6710fd2d09ede32fae",
+    "answerable": true
+  },
+  {
+    "id": "Q094",
+    "domain": "Business and economics",
+    "question": "Who wrote The Wealth of Nations?",
+    "answers": [
+      "Adam Smith"
+    ],
+    "article_id": "1814",
+    "title": "Adam Smith",
+    "url": "https://en.wikipedia.org/wiki/Adam%20Smith",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1814:0:1083",
+    "pg_id": 19214,
+    "evidence_quote": "Adam Smith  (baptised  1723 – 17 July 1790) was a Scottish economist and philosopher who was a pioneer in the thinking of political economy and key figure during the Scot",
+    "evidence_sha256": "9081c0fa28ec9f6b3fbec2b07305be418862a2015c6ca2d7c38e1eeb2b307419",
+    "answerable": true
+  },
+  {
+    "id": "Q095",
+    "domain": "Business and economics",
+    "question": "In which year was The Wealth of Nations published?",
+    "answers": [
+      "1776"
+    ],
+    "article_id": "1814",
+    "title": "Adam Smith",
+    "url": "https://en.wikipedia.org/wiki/Adam%20Smith",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1814:0:1083",
+    "pg_id": 19214,
+    "evidence_quote": "eory of Moral Sentiments (1759) and An Inquiry into the Nature and Causes of the Wealth of Nations (1776). The latter, often abbreviated as The Wealth of Nations, is considered his magnum opus and the first modern work that treats economics as a comprehensive syst",
+    "evidence_sha256": "9081c0fa28ec9f6b3fbec2b07305be418862a2015c6ca2d7c38e1eeb2b307419",
+    "answerable": true
+  },
+  {
+    "id": "Q096",
+    "domain": "Business and economics",
+    "question": "Which Enlightenment movement was Adam Smith a key figure in?",
+    "answers": [
+      "Scottish Enlightenment"
+    ],
+    "article_id": "1814",
+    "title": "Adam Smith",
+    "url": "https://en.wikipedia.org/wiki/Adam%20Smith",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "1814:0:1083",
+    "pg_id": 19214,
+    "evidence_quote": "st and philosopher who was a pioneer in the thinking of political economy and key figure during the Scottish Enlightenment. Seen by some as \"The Father of Economics\" or \"The Father of Capitalism\", he wrote two classic works, The Theory of Moral Sentiments (1759) and An Inquiry into",
+    "evidence_sha256": "9081c0fa28ec9f6b3fbec2b07305be418862a2015c6ca2d7c38e1eeb2b307419",
+    "answerable": true
+  },
+  {
+    "id": "Q097",
+    "domain": "Sports",
+    "question": "How many players are most commonly on each basketball team on court?",
+    "answers": [
+      "five",
+      "5"
+    ],
+    "article_id": "3921",
+    "title": "Basketball",
+    "url": "https://en.wikipedia.org/wiki/Basketball",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3921:0:959",
+    "pg_id": 44999,
+    "evidence_quote": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball (approximately  in diameter) through the",
+    "evidence_sha256": "f1c9606e584be6fdb928aa481f5d4fc46300e5119697f06c33c595dc749f0059",
+    "answerable": true
+  },
+  {
+    "id": "Q098",
+    "domain": "Sports",
+    "question": "How many points is an ordinary basketball field goal worth?",
+    "answers": [
+      "two",
+      "2"
+    ],
+    "article_id": "3921",
+    "title": "Basketball",
+    "url": "https://en.wikipedia.org/wiki/Basketball",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3921:0:959",
+    "pg_id": 44999,
+    "evidence_quote": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball (approximat",
+    "evidence_sha256": "f1c9606e584be6fdb928aa481f5d4fc46300e5119697f06c33c595dc749f0059",
+    "answerable": true
+  },
+  {
+    "id": "Q099",
+    "domain": "Sports",
+    "question": "What must a basketball be shot through to score?",
+    "answers": [
+      "hoop"
+    ],
+    "article_id": "3921",
+    "title": "Basketball",
+    "url": "https://en.wikipedia.org/wiki/Basketball",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3921:0:959",
+    "pg_id": 44999,
+    "evidence_quote": " the primary objective of shooting a basketball (approximately  in diameter) through the defender's hoop (a basket  in diameter mounted  high to a backboard at each end of the court), while preventing the opposing team from shooting through their own hoop. A field",
+    "evidence_sha256": "f1c9606e584be6fdb928aa481f5d4fc46300e5119697f06c33c595dc749f0059",
+    "answerable": true
+  },
+  {
+    "id": "Q100",
+    "domain": "Sports",
+    "question": "How many players take part in chess?",
+    "answers": [
+      "two",
+      "2"
+    ],
+    "article_id": "5134",
+    "title": "Chess",
+    "url": "https://en.wikipedia.org/wiki/Chess",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5134:0:1023",
+    "pg_id": 63637,
+    "evidence_quote": "Chess is a board game for two players, called White and Black, each controlling an army of chess pieces, with the objective to checkmate the opponent's king. It is sometimes called internat",
+    "evidence_sha256": "a931e8c920a19c4523985f8dabec457b2cfccdab0cb67ec35945947e8f4c1392",
+    "answerable": true
+  },
+  {
+    "id": "Q101",
+    "domain": "Sports",
+    "question": "What is the objective of chess?",
+    "answers": [
+      "checkmate"
+    ],
+    "article_id": "5134",
+    "title": "Chess",
+    "url": "https://en.wikipedia.org/wiki/Chess",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5134:0:1023",
+    "pg_id": 63637,
+    "evidence_quote": "wo players, called White and Black, each controlling an army of chess pieces, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to distinguish it from related games such as  (Chinese chess) and  (Japanese c",
+    "evidence_sha256": "a931e8c920a19c4523985f8dabec457b2cfccdab0cb67ec35945947e8f4c1392",
+    "answerable": true
+  },
+  {
+    "id": "Q102",
+    "domain": "Sports",
+    "question": "What are the two players in chess called?",
+    "answers": [
+      "White and Black"
+    ],
+    "article_id": "5134",
+    "title": "Chess",
+    "url": "https://en.wikipedia.org/wiki/Chess",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5134:0:1023",
+    "pg_id": 63637,
+    "evidence_quote": "Chess is a board game for two players, called White and Black, each controlling an army of chess pieces, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to ",
+    "evidence_sha256": "a931e8c920a19c4523985f8dabec457b2cfccdab0cb67ec35945947e8f4c1392",
+    "answerable": true
+  },
+  {
+    "id": "Q103",
+    "domain": "Sports",
+    "question": "Which sport uses a shuttlecock and racquets?",
+    "answers": [
+      "Badminton"
+    ],
+    "article_id": "3956",
+    "title": "Badminton",
+    "url": "https://en.wikipedia.org/wiki/Badminton",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3956:0:993",
+    "pg_id": 45339,
+    "evidence_quote": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are ",
+    "evidence_sha256": "9db01186b587733045c6f299551208481022c532412a4bda2646c7ec0a84ba25",
+    "answerable": true
+  },
+  {
+    "id": "Q104",
+    "domain": "Sports",
+    "question": "How many players per side are there in badminton doubles?",
+    "answers": [
+      "two",
+      "2"
+    ],
+    "article_id": "3956",
+    "title": "Badminton",
+    "url": "https://en.wikipedia.org/wiki/Badminton",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3956:0:993",
+    "pg_id": 45339,
+    "evidence_quote": "ams, the most common forms of the game are \"singles\" (with one player per side) and \"doubles\" (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Point",
+    "evidence_sha256": "9db01186b587733045c6f299551208481022c532412a4bda2646c7ec0a84ba25",
+    "answerable": true
+  },
+  {
+    "id": "Q105",
+    "domain": "Sports",
+    "question": "Where are formal badminton games played?",
+    "answers": [
+      "rectangular indoor court"
+    ],
+    "article_id": "3956",
+    "title": "Badminton",
+    "url": "https://en.wikipedia.org/wiki/Badminton",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3956:0:993",
+    "pg_id": 45339,
+    "evidence_quote": " is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Points are scored by striking the shuttlecock with the racquet and landing it within the other team's half of the court.\n\nEach side may only strike the shuttl",
+    "evidence_sha256": "9db01186b587733045c6f299551208481022c532412a4bda2646c7ec0a84ba25",
+    "answerable": true
+  },
+  {
+    "id": "Q106",
+    "domain": "Arts and entertainment",
+    "question": "What are the Academy Awards commonly called?",
+    "answers": [
+      "Oscars"
+    ],
+    "article_id": "324",
+    "title": "Academy Awards",
+    "url": "https://en.wikipedia.org/wiki/Academy%20Awards",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "324:0:1144",
+    "pg_id": 456,
+    "evidence_quote": "The Academy Awards, mainly known as the Oscars, are awards for artistic and technical merit for the film industry. They are presented annually by the Academy of Motion Picture Arts and Sciences located in B",
+    "evidence_sha256": "2cafd5eb145026d174c4d679b6b3059f7bbbeefbe83b56a3d7716af22e78c24c",
+    "answerable": true
+  },
+  {
+    "id": "Q107",
+    "domain": "Arts and entertainment",
+    "question": "Which industry do the Academy Awards recognize?",
+    "answers": [
+      "film industry"
+    ],
+    "article_id": "324",
+    "title": "Academy Awards",
+    "url": "https://en.wikipedia.org/wiki/Academy%20Awards",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "324:0:1144",
+    "pg_id": 456,
+    "evidence_quote": "The Academy Awards, mainly known as the Oscars, are awards for artistic and technical merit for the film industry. They are presented annually by the Academy of Motion Picture Arts and Sciences located in Beverly Hills, California, United States, in recognition of excellen",
+    "evidence_sha256": "2cafd5eb145026d174c4d679b6b3059f7bbbeefbe83b56a3d7716af22e78c24c",
+    "answerable": true
+  },
+  {
+    "id": "Q108",
+    "domain": "Arts and entertainment",
+    "question": "Which organization presents the Oscars?",
+    "answers": [
+      "Academy of Motion Picture Arts and Sciences"
+    ],
+    "article_id": "324",
+    "title": "Academy Awards",
+    "url": "https://en.wikipedia.org/wiki/Academy%20Awards",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "324:0:1144",
+    "pg_id": 456,
+    "evidence_quote": "e awards for artistic and technical merit for the film industry. They are presented annually by the Academy of Motion Picture Arts and Sciences located in Beverly Hills, California, United States, in recognition of excellence in cinematic achievements as assessed by the Academy's voting membership. The",
+    "evidence_sha256": "2cafd5eb145026d174c4d679b6b3059f7bbbeefbe83b56a3d7716af22e78c24c",
+    "answerable": true
+  },
+  {
+    "id": "Q109",
+    "domain": "Arts and entertainment",
+    "question": "Who composed An American in Paris?",
+    "answers": [
+      "George Gershwin"
+    ],
+    "article_id": "309",
+    "title": "An American in Paris",
+    "url": "https://en.wikipedia.org/wiki/An%20American%20in%20Paris",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "309:0:921",
+    "pg_id": 438,
+    "evidence_quote": "ican in Paris is a jazz-influenced symphonic poem (or tone poem) for orchestra by American composer George Gershwin first performed in 1928. It was inspired by the time that Gershwin had spent in Paris and evokes the sights and energy of the French capital during the .\n\nGers",
+    "evidence_sha256": "71e435ade1c4033729ff1548a5a428b61f02315b87316a72a7a40356c2268aaa",
+    "answerable": true
+  },
+  {
+    "id": "Q110",
+    "domain": "Arts and entertainment",
+    "question": "In which year was An American in Paris first performed?",
+    "answers": [
+      "1928"
+    ],
+    "article_id": "309",
+    "title": "An American in Paris",
+    "url": "https://en.wikipedia.org/wiki/An%20American%20in%20Paris",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "309:0:921",
+    "pg_id": 438,
+    "evidence_quote": "symphonic poem (or tone poem) for orchestra by American composer George Gershwin first performed in 1928. It was inspired by the time that Gershwin had spent in Paris and evokes the sights and energy of the French capital during the .\n\nGershwin scored the piece fo",
+    "evidence_sha256": "71e435ade1c4033729ff1548a5a428b61f02315b87316a72a7a40356c2268aaa",
+    "answerable": true
+  },
+  {
+    "id": "Q111",
+    "domain": "Arts and entertainment",
+    "question": "Which city inspired Gershwin's An American in Paris?",
+    "answers": [
+      "Paris"
+    ],
+    "article_id": "309",
+    "title": "An American in Paris",
+    "url": "https://en.wikipedia.org/wiki/An%20American%20in%20Paris",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "309:0:921",
+    "pg_id": 438,
+    "evidence_quote": "An American in Paris is a jazz-influenced symphonic poem (or tone poem) for orchestra by American composer George Gershwin first performed in 1928. It was inspired by the time that",
+    "evidence_sha256": "71e435ade1c4033729ff1548a5a428b61f02315b87316a72a7a40356c2268aaa",
+    "answerable": true
+  },
+  {
+    "id": "Q112",
+    "domain": "Religion and philosophy",
+    "question": "Whose life and teachings form the basis of Christianity?",
+    "answers": [
+      "Jesus of Nazareth"
+    ],
+    "article_id": "5211",
+    "title": "Christianity",
+    "url": "https://en.wikipedia.org/wiki/Christianity",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5211:0:1029",
+    "pg_id": 64497,
+    "evidence_quote": "Christianity () is an Abrahamic monotheistic religion based on the life and teachings of Jesus of Nazareth. It is the world's largest and most widespread religion with roughly 2.4 billion followers representing one-third of the global population. Its adherents, know",
+    "evidence_sha256": "c8f79df064c0b4be3c5332612949f60c89de57820cba8016897fa78d3af0e1bc",
+    "answerable": true
+  },
+  {
+    "id": "Q113",
+    "domain": "Religion and philosophy",
+    "question": "What are adherents of Christianity called?",
+    "answers": [
+      "Christians"
+    ],
+    "article_id": "5211",
+    "title": "Christianity",
+    "url": "https://en.wikipedia.org/wiki/Christianity",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5211:0:1029",
+    "pg_id": 64497,
+    "evidence_quote": "ghly 2.4 billion followers representing one-third of the global population. Its adherents, known as Christians, are estimated to make up a majority of the population in 157 countries and territories. They believe that Jesus is the Son of God, whose coming as the Messiah",
+    "evidence_sha256": "c8f79df064c0b4be3c5332612949f60c89de57820cba8016897fa78d3af0e1bc",
+    "answerable": true
+  },
+  {
+    "id": "Q114",
+    "domain": "Religion and philosophy",
+    "question": "According to the snapshot, approximately how many followers does Christianity have?",
+    "answers": [
+      "2.4"
+    ],
+    "article_id": "5211",
+    "title": "Christianity",
+    "url": "https://en.wikipedia.org/wiki/Christianity",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5211:0:1029",
+    "pg_id": 64497,
+    "evidence_quote": "teachings of Jesus of Nazareth. It is the world's largest and most widespread religion with roughly 2.4 billion followers representing one-third of the global population. Its adherents, known as Christians, are estimated to make up a majority of the population in",
+    "evidence_sha256": "c8f79df064c0b4be3c5332612949f60c89de57820cba8016897fa78d3af0e1bc",
+    "answerable": true
+  },
+  {
+    "id": "Q115",
+    "domain": "Religion and philosophy",
+    "question": "Which scripture is central to Islam?",
+    "answers": [
+      "Quran"
+    ],
+    "article_id": "6037917",
+    "title": "Islam",
+    "url": "https://en.wikipedia.org/wiki/Islam",
+    "shard": "train-00001-of-00041.parquet",
+    "passage_id": "6037917:0:933",
+    "pg_id": 1437377,
+    "evidence_quote": "Islam (; ,  , ) is an Abrahamic, monotheistic religion centered on the Quran and the teachings of Muhammad, the religion's founder. Adherents of Islam, called Muslims, number approximately 1.9 billion globally and are the world's second",
+    "evidence_sha256": "f7d079ea8b605be75f1583115dcb6f79a7abef1dba81ef2dc4bc6e73fd379dc8",
+    "answerable": true
+  },
+  {
+    "id": "Q116",
+    "domain": "Religion and philosophy",
+    "question": "What are followers of Islam called?",
+    "answers": [
+      "Muslims"
+    ],
+    "article_id": "6037917",
+    "title": "Islam",
+    "url": "https://en.wikipedia.org/wiki/Islam",
+    "shard": "train-00001-of-00041.parquet",
+    "passage_id": "6037917:0:933",
+    "pg_id": 1437377,
+    "evidence_quote": "ered on the Quran and the teachings of Muhammad, the religion's founder. Adherents of Islam, called Muslims, number approximately 1.9 billion globally and are the world's second-largest religious population after Christians.\n\nMuslims believe that Islam is the complet",
+    "evidence_sha256": "f7d079ea8b605be75f1583115dcb6f79a7abef1dba81ef2dc4bc6e73fd379dc8",
+    "answerable": true
+  },
+  {
+    "id": "Q117",
+    "domain": "Religion and philosophy",
+    "question": "Who is named as the founder of Islam in the article?",
+    "answers": [
+      "Muhammad"
+    ],
+    "article_id": "6037917",
+    "title": "Islam",
+    "url": "https://en.wikipedia.org/wiki/Islam",
+    "shard": "train-00001-of-00041.parquet",
+    "passage_id": "6037917:0:933",
+    "pg_id": 1437377,
+    "evidence_quote": "Islam (; ,  , ) is an Abrahamic, monotheistic religion centered on the Quran and the teachings of Muhammad, the religion's founder. Adherents of Islam, called Muslims, number approximately 1.9 billion globally and are the world's second-largest religious population ",
+    "evidence_sha256": "f7d079ea8b605be75f1583115dcb6f79a7abef1dba81ef2dc4bc6e73fd379dc8",
+    "answerable": true
+  },
+  {
+    "id": "Q118",
+    "domain": "Religion and philosophy",
+    "question": "In which ancient civilization did Confucianism originate?",
+    "answers": [
+      "China"
+    ],
+    "article_id": "5820",
+    "title": "Confucianism",
+    "url": "https://en.wikipedia.org/wiki/Confucianism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5820:0:882",
+    "pg_id": 74221,
+    "evidence_quote": "m, also known as Ruism or Ru classicism, is a system of thought and behavior originating in ancient China, and is variously described as a tradition, philosophy, (humanistic or rationalistic) religion, theory of government, or way of life. Confucianism developed fr",
+    "evidence_sha256": "4fe7cfe52a9d17d329274c21da4347b79c5aed97668e61ae10ceff2110f6d91a",
+    "answerable": true
+  },
+  {
+    "id": "Q119",
+    "domain": "Religion and philosophy",
+    "question": "Whose teachings underpin Confucianism?",
+    "answers": [
+      "Confucius"
+    ],
+    "article_id": "5820",
+    "title": "Confucianism",
+    "url": "https://en.wikipedia.org/wiki/Confucianism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5820:0:882",
+    "pg_id": 74221,
+    "evidence_quote": " what was later called the Hundred Schools of Thought from the teachings of the Chinese philosopher Confucius (551–479 BCE). Confucius considered himself a transmitter of cultural values inherited from the Xia (c. 2070–1600 BCE), Shang (c. 1600–1046 BCE) and Western Zh",
+    "evidence_sha256": "4fe7cfe52a9d17d329274c21da4347b79c5aed97668e61ae10ceff2110f6d91a",
+    "answerable": true
+  },
+  {
+    "id": "Q120",
+    "domain": "Religion and philosophy",
+    "question": "What alternative name for Confucianism begins with Ru?",
+    "answers": [
+      "Ruism"
+    ],
+    "article_id": "5820",
+    "title": "Confucianism",
+    "url": "https://en.wikipedia.org/wiki/Confucianism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5820:0:882",
+    "pg_id": 74221,
+    "evidence_quote": "Confucianism, also known as Ruism or Ru classicism, is a system of thought and behavior originating in ancient China, and is variously described as a tradition, philosophy, (humanistic or ratio",
+    "evidence_sha256": "4fe7cfe52a9d17d329274c21da4347b79c5aed97668e61ae10ceff2110f6d91a",
+    "answerable": true
+  },
+  {
+    "id": "Q121",
+    "domain": "Religion and philosophy",
+    "question": "What is concern for others' well-being without selfishness called?",
+    "answers": [
+      "Altruism"
+    ],
+    "article_id": "336",
+    "title": "Altruism",
+    "url": "https://en.wikipedia.org/wiki/Altruism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "336:0:980",
+    "pg_id": 532,
+    "evidence_quote": "Altruism is the principle and practice of concern for the well-being and/or happiness of other humans or animals. While objects of altruistic concern vary, it is an imp",
+    "evidence_sha256": "5630ef49cf1ff29152d2c9bb85cfcdb88949c8a6f595acde2c8a42ce5286d00d",
+    "answerable": true
+  },
+  {
+    "id": "Q122",
+    "domain": "Religion and philosophy",
+    "question": "Which French philosopher popularized the word altruism?",
+    "answers": [
+      "Auguste Comte"
+    ],
+    "article_id": "336",
+    "title": "Altruism",
+    "url": "https://en.wikipedia.org/wiki/Altruism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "336:0:980",
+    "pg_id": 532,
+    "evidence_quote": " of selfishness.\n\nThe word altruism was popularized (and possibly coined) by the French philosopher Auguste Comte in French, as , for an antonym of egoism. He derived it from the Italian , which in turn was derived from Latin , meaning \"other people\" or \"somebody else\".\n\nA",
+    "evidence_sha256": "5630ef49cf1ff29152d2c9bb85cfcdb88949c8a6f595acde2c8a42ce5286d00d",
+    "answerable": true
+  },
+  {
+    "id": "Q123",
+    "domain": "Religion and philosophy",
+    "question": "What word is given as a synonym of altruism?",
+    "answers": [
+      "selflessness"
+    ],
+    "article_id": "336",
+    "title": "Altruism",
+    "url": "https://en.wikipedia.org/wiki/Altruism",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "336:0:980",
+    "pg_id": 532,
+    "evidence_quote": "y, it is an important moral value in many cultures and religions. It may be considered a synonym of selflessness, the opposite of selfishness.\n\nThe word altruism was popularized (and possibly coined) by the French philosopher Auguste Comte in French, as , for an antonym o",
+    "evidence_sha256": "5630ef49cf1ff29152d2c9bb85cfcdb88949c8a6f595acde2c8a42ce5286d00d",
+    "answerable": true
+  },
+  {
+    "id": "Q124",
+    "domain": "Religion and philosophy",
+    "question": "Which philosophy did Ayn Rand develop?",
+    "answers": [
+      "Objectivism"
+    ],
+    "article_id": "339",
+    "title": "Ayn Rand",
+    "url": "https://en.wikipedia.org/wiki/Ayn%20Rand",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "339:0:1043",
+    "pg_id": 573,
+    "evidence_quote": "ublic philosopher. She is known for her fiction and for developing a philosophical system she named Objectivism. Born and educated in Russia, she moved to the United States in 1926. After two early novels that were initially unsuccessful and two Broadway plays, she achie",
+    "evidence_sha256": "27a3b081f9d8badbe19857db46a0eac9dbc3cdf7f21ad0d97ae8671cac61fe86",
+    "answerable": true
+  },
+  {
+    "id": "Q125",
+    "domain": "Religion and philosophy",
+    "question": "What pen name did Alice O'Connor use?",
+    "answers": [
+      "Ayn Rand"
+    ],
+    "article_id": "339",
+    "title": "Ayn Rand",
+    "url": "https://en.wikipedia.org/wiki/Ayn%20Rand",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "339:0:1043",
+    "pg_id": 573,
+    "evidence_quote": "ce O'Connor (born Alisa Zinovyevna Rosenbaum; , 1905 – March 6, 1982), better known by her pen name Ayn Rand (), was a Russian-born American writer and public philosopher. She is known for her fiction and for developing a philosophical system she named Objectivism. Bo",
+    "evidence_sha256": "27a3b081f9d8badbe19857db46a0eac9dbc3cdf7f21ad0d97ae8671cac61fe86",
+    "answerable": true
+  },
+  {
+    "id": "Q126",
+    "domain": "Religion and philosophy",
+    "question": "In which year did Ayn Rand move to the United States?",
+    "answers": [
+      "1926"
+    ],
+    "article_id": "339",
+    "title": "Ayn Rand",
+    "url": "https://en.wikipedia.org/wiki/Ayn%20Rand",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "339:0:1043",
+    "pg_id": 573,
+    "evidence_quote": "phical system she named Objectivism. Born and educated in Russia, she moved to the United States in 1926. After two early novels that were initially unsuccessful and two Broadway plays, she achieved fame with her 1943 novel, The Fountainhead. In 1957, Rand publish",
+    "evidence_sha256": "27a3b081f9d8badbe19857db46a0eac9dbc3cdf7f21ad0d97ae8671cac61fe86",
+    "answerable": true
+  },
+  {
+    "id": "Q127",
+    "domain": "Education",
+    "question": "In which city is Brown University located?",
+    "answers": [
+      "Providence"
+    ],
+    "article_id": "4157",
+    "title": "Brown University",
+    "url": "https://en.wikipedia.org/wiki/Brown%20University",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4157:0:832",
+    "pg_id": 48310,
+    "evidence_quote": "Brown University is a private Ivy League research university in Providence, Rhode Island. It is the seventh-oldest institution of higher education in the United States, founded in 1764 as the College in the English Colony of Rhode Isl",
+    "evidence_sha256": "45de99573fc57183d58ccb0e64f60f7d01f77df631c4c029f61d47560afdf838",
+    "answerable": true
+  },
+  {
+    "id": "Q128",
+    "domain": "Education",
+    "question": "In which US state is Brown University located?",
+    "answers": [
+      "Rhode Island"
+    ],
+    "article_id": "4157",
+    "title": "Brown University",
+    "url": "https://en.wikipedia.org/wiki/Brown%20University",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4157:0:832",
+    "pg_id": 48310,
+    "evidence_quote": "Brown University is a private Ivy League research university in Providence, Rhode Island. It is the seventh-oldest institution of higher education in the United States, founded in 1764 as the College in the English Colony of Rhode Island and Provid",
+    "evidence_sha256": "45de99573fc57183d58ccb0e64f60f7d01f77df631c4c029f61d47560afdf838",
+    "answerable": true
+  },
+  {
+    "id": "Q129",
+    "domain": "Education",
+    "question": "In which year was Brown University founded?",
+    "answers": [
+      "1764"
+    ],
+    "article_id": "4157",
+    "title": "Brown University",
+    "url": "https://en.wikipedia.org/wiki/Brown%20University",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4157:0:832",
+    "pg_id": 48310,
+    "evidence_quote": "e Island. It is the seventh-oldest institution of higher education in the United States, founded in 1764 as the College in the English Colony of Rhode Island and Providence Plantations. One of nine colonial colleges chartered before the American Revolution, it was",
+    "evidence_sha256": "45de99573fc57183d58ccb0e64f60f7d01f77df631c4c029f61d47560afdf838",
+    "answerable": true
+  },
+  {
+    "id": "Q130",
+    "domain": "Education",
+    "question": "A college can be a constituent part of what larger institution?",
+    "answers": [
+      "university"
+    ],
+    "article_id": "5689",
+    "title": "College",
+    "url": "https://en.wikipedia.org/wiki/College",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5689:0:1195",
+    "pg_id": 72036,
+    "evidence_quote": "ollege may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution offering vocational education, a further education institution, or a secondary school.  \n\t\nIn most of the world, a college may be a high school",
+    "evidence_sha256": "86cd9b4483d7ba83e89a8f3405e4dab4fe7d43695988361681d6ec1758f3d13f",
+    "answerable": true
+  },
+  {
+    "id": "Q131",
+    "domain": "Education",
+    "question": "What type of institution is a college?",
+    "answers": [
+      "educational institution"
+    ],
+    "article_id": "5689",
+    "title": "College",
+    "url": "https://en.wikipedia.org/wiki/College",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5689:0:1195",
+    "pg_id": 72036,
+    "evidence_quote": "A college (Latin: collegium) is an educational institution or a constituent part of one. A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution",
+    "evidence_sha256": "86cd9b4483d7ba83e89a8f3405e4dab4fe7d43695988361681d6ec1758f3d13f",
+    "answerable": true
+  },
+  {
+    "id": "Q132",
+    "domain": "Education",
+    "question": "What type of training can a vocational college offer?",
+    "answers": [
+      "vocational education"
+    ],
+    "article_id": "5689",
+    "title": "College",
+    "url": "https://en.wikipedia.org/wiki/College",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5689:0:1195",
+    "pg_id": 72036,
+    "evidence_quote": "iary educational institution, a part of a collegiate or federal university, an institution offering vocational education, a further education institution, or a secondary school.  \n\t\nIn most of the world, a college may be a high school or secondary school, a college of further edu",
+    "evidence_sha256": "86cd9b4483d7ba83e89a8f3405e4dab4fe7d43695988361681d6ec1758f3d13f",
+    "answerable": true
+  },
+  {
+    "id": "Q133",
+    "domain": "Education",
+    "question": "What does an academic genealogy organize?",
+    "answers": [
+      "scientists and scholars"
+    ],
+    "article_id": "4083089",
+    "title": "Academic genealogy",
+    "url": "https://en.wikipedia.org/wiki/Academic%20genealogy",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4083089:0:1159",
+    "pg_id": 104226,
+    "evidence_quote": "An academic genealogy (or scientific genealogy) organizes a family tree of scientists and scholars according to mentoring relationships, often in the form of dissertation supervision relationships, and not according to genetic relationships as in conventiona",
+    "evidence_sha256": "8ee9d843c4ad8e822fbc96ee54dbe6772a4c1d2af030007e73aa3958e92d7532",
+    "answerable": true
+  },
+  {
+    "id": "Q134",
+    "domain": "Education",
+    "question": "Which relationship links people in an academic genealogy?",
+    "answers": [
+      "mentoring relationships"
+    ],
+    "article_id": "4083089",
+    "title": "Academic genealogy",
+    "url": "https://en.wikipedia.org/wiki/Academic%20genealogy",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4083089:0:1159",
+    "pg_id": 104226,
+    "evidence_quote": "genealogy (or scientific genealogy) organizes a family tree of scientists and scholars according to mentoring relationships, often in the form of dissertation supervision relationships, and not according to genetic relationships as in conventional genealogy. Since the term academic ",
+    "evidence_sha256": "8ee9d843c4ad8e822fbc96ee54dbe6772a4c1d2af030007e73aa3958e92d7532",
+    "answerable": true
+  },
+  {
+    "id": "Q135",
+    "domain": "Education",
+    "question": "What metaphorical structure is used to represent an academic genealogy?",
+    "answers": [
+      "family tree"
+    ],
+    "article_id": "4083089",
+    "title": "Academic genealogy",
+    "url": "https://en.wikipedia.org/wiki/Academic%20genealogy",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "4083089:0:1159",
+    "pg_id": 104226,
+    "evidence_quote": "An academic genealogy (or scientific genealogy) organizes a family tree of scientists and scholars according to mentoring relationships, often in the form of dissertation supervision relationships, and not according to genetic rela",
+    "evidence_sha256": "8ee9d843c4ad8e822fbc96ee54dbe6772a4c1d2af030007e73aa3958e92d7532",
+    "answerable": true
+  },
+  {
+    "id": "Q136",
+    "domain": "Transport and infrastructure",
+    "question": "What structure provides passage over a physical obstacle?",
+    "answers": [
+      "bridge"
+    ],
+    "article_id": "3397",
+    "title": "Bridge",
+    "url": "https://en.wikipedia.org/wiki/Bridge",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3397:0:1049",
+    "pg_id": 39662,
+    "evidence_quote": "A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath. It is constructed for",
+    "evidence_sha256": "7342dfd0c396a0c0a680dee2afc42b09836a7b2325b5374afb6f937711006bb7",
+    "answerable": true
+  },
+  {
+    "id": "Q137",
+    "domain": "Transport and infrastructure",
+    "question": "Does a bridge normally block the way underneath it?",
+    "answers": [
+      "without blocking"
+    ],
+    "article_id": "3397",
+    "title": "Bridge",
+    "url": "https://en.wikipedia.org/wiki/Bridge",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3397:0:1049",
+    "pg_id": 39662,
+    "evidence_quote": "s a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath. It is constructed for the purpose of providing passage over the obstacle, which is usually something that is otherwise difficult or impossi",
+    "evidence_sha256": "7342dfd0c396a0c0a680dee2afc42b09836a7b2325b5374afb6f937711006bb7",
+    "answerable": true
+  },
+  {
+    "id": "Q138",
+    "domain": "Transport and infrastructure",
+    "question": "Name a natural depression that a bridge can span.",
+    "answers": [
+      "valley"
+    ],
+    "article_id": "3397",
+    "title": "Bridge",
+    "url": "https://en.wikipedia.org/wiki/Bridge",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3397:0:1049",
+    "pg_id": 39662,
+    "evidence_quote": "A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) without blocking the way underneath. It is constructed for the purpose of providing passage over the obstacle, which is usually something th",
+    "evidence_sha256": "7342dfd0c396a0c0a680dee2afc42b09836a7b2325b5374afb6f937711006bb7",
+    "answerable": true
+  },
+  {
+    "id": "Q139",
+    "domain": "Transport and infrastructure",
+    "question": "What is a person riding a bicycle called?",
+    "answers": [
+      "cyclist"
+    ],
+    "article_id": "3973",
+    "title": "Bicycle",
+    "url": "https://en.wikipedia.org/wiki/Bicycle",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3973:0:1016",
+    "pg_id": 45755,
+    "evidence_quote": ", single-track vehicle, having two wheels attached to a frame, one behind the other. A  is called a cyclist, or bicyclist.\n\nBicycles were introduced in the 19th century in Europe. By the early 21st century there were more than 1 billion. These numbers far exceed the ",
+    "evidence_sha256": "0abc315fc806010591d8bb8d6cd3fb6702cbaa4e3ba6587b16047408e0978dce",
+    "answerable": true
+  },
+  {
+    "id": "Q140",
+    "domain": "Transport and infrastructure",
+    "question": "In which century were bicycles introduced in Europe?",
+    "answers": [
+      "19th century"
+    ],
+    "article_id": "3973",
+    "title": "Bicycle",
+    "url": "https://en.wikipedia.org/wiki/Bicycle",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3973:0:1016",
+    "pg_id": 45755,
+    "evidence_quote": "frame, one behind the other. A  is called a cyclist, or bicyclist.\n\nBicycles were introduced in the 19th century in Europe. By the early 21st century there were more than 1 billion. These numbers far exceed the number of cars, both in total and ranked by the number of ind",
+    "evidence_sha256": "0abc315fc806010591d8bb8d6cd3fb6702cbaa4e3ba6587b16047408e0978dce",
+    "answerable": true
+  },
+  {
+    "id": "Q141",
+    "domain": "Transport and infrastructure",
+    "question": "How many wheels does a bicycle have?",
+    "answers": [
+      "two",
+      "2"
+    ],
+    "article_id": "3973",
+    "title": "Bicycle",
+    "url": "https://en.wikipedia.org/wiki/Bicycle",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "3973:0:1016",
+    "pg_id": 45755,
+    "evidence_quote": " or cycle, is a human-powered or motor-powered assisted, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A  is called a cyclist, or bicyclist.\n\nBicycles were introduced in the 19th century in Europe. By the early 2",
+    "evidence_sha256": "0abc315fc806010591d8bb8d6cd3fb6702cbaa4e3ba6587b16047408e0978dce",
+    "answerable": true
+  },
+  {
+    "id": "Q142",
+    "domain": "Society and culture",
+    "question": "What discipline is the scientific study of humanity?",
+    "answers": [
+      "Anthropology"
+    ],
+    "article_id": "569",
+    "title": "Anthropology",
+    "url": "https://en.wikipedia.org/wiki/Anthropology",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "569:0:1207",
+    "pg_id": 766,
+    "evidence_quote": "Anthropology is the scientific study of humanity, concerned with human behavior, human biology, cultures, societies, and linguistics, in both the present and past, includin",
+    "evidence_sha256": "8c392aa62263a67cf350edbf2ee216b9defe6e510cd56b252711c0bdcd6ac871",
+    "answerable": true
+  },
+  {
+    "id": "Q143",
+    "domain": "Society and culture",
+    "question": "Which branch of anthropology studies patterns of behavior?",
+    "answers": [
+      "Social anthropology"
+    ],
+    "article_id": "569",
+    "title": "Anthropology",
+    "url": "https://en.wikipedia.org/wiki/Anthropology",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "569:0:1207",
+    "pg_id": 766,
+    "evidence_quote": ", cultures, societies, and linguistics, in both the present and past, including past human species. Social anthropology studies patterns of behavior, while cultural anthropology studies cultural meaning, including norms and values. A portmanteau term sociocultural anthropology i",
+    "evidence_sha256": "8c392aa62263a67cf350edbf2ee216b9defe6e510cd56b252711c0bdcd6ac871",
+    "answerable": true
+  },
+  {
+    "id": "Q144",
+    "domain": "Society and culture",
+    "question": "Which branch studies cultural meaning, norms and values?",
+    "answers": [
+      "cultural anthropology"
+    ],
+    "article_id": "569",
+    "title": "Anthropology",
+    "url": "https://en.wikipedia.org/wiki/Anthropology",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "569:0:1207",
+    "pg_id": 766,
+    "evidence_quote": "ent and past, including past human species. Social anthropology studies patterns of behavior, while cultural anthropology studies cultural meaning, including norms and values. A portmanteau term sociocultural anthropology is commonly used today. Linguistic anthropology studies how",
+    "evidence_sha256": "8c392aa62263a67cf350edbf2ee216b9defe6e510cd56b252711c0bdcd6ac871",
+    "answerable": true
+  },
+  {
+    "id": "Q145",
+    "domain": "Society and culture",
+    "question": "To which language family branch does Arabic belong?",
+    "answers": [
+      "Semitic"
+    ],
+    "article_id": "803",
+    "title": "Arabic",
+    "url": "https://en.wikipedia.org/wiki/Arabic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "803:0:958",
+    "pg_id": 4858,
+    "evidence_quote": "Arabic (,  ; ,   or ) is a Semitic language spoken primarily across the Arab world. Having emerged in the 1st century AD, it is named after the Arab people; the term \"Arab\" was initially used to",
+    "evidence_sha256": "7fb366e27e6583e7c173a5934e8f9cf65fc95c36f4e28bd31995eff244fd1232",
+    "answerable": true
+  },
+  {
+    "id": "Q146",
+    "domain": "Society and culture",
+    "question": "Which peninsula did the people originally called Arabs inhabit?",
+    "answers": [
+      "Arabian Peninsula"
+    ],
+    "article_id": "803",
+    "title": "Arabic",
+    "url": "https://en.wikipedia.org/wiki/Arabic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "803:0:958",
+    "pg_id": 4858,
+    "evidence_quote": " is named after the Arab people; the term \"Arab\" was initially used to describe those living in the Arabian Peninsula, as perceived by geographers from ancient Greece.\n\nSince the 7th century, Arabic has been characterized by diglossia, with an opposition between a standard pre",
+    "evidence_sha256": "7fb366e27e6583e7c173a5934e8f9cf65fc95c36f4e28bd31995eff244fd1232",
+    "answerable": true
+  },
+  {
+    "id": "Q147",
+    "domain": "Society and culture",
+    "question": "Which language is named after the Arabs?",
+    "answers": [
+      "Arabic"
+    ],
+    "article_id": "803",
+    "title": "Arabic",
+    "url": "https://en.wikipedia.org/wiki/Arabic",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "803:0:958",
+    "pg_id": 4858,
+    "evidence_quote": "Arabic (,  ; ,   or ) is a Semitic language spoken primarily across the Arab world. Having emerged in the 1st century AD, it is named after the Arab people; the term ",
+    "evidence_sha256": "7fb366e27e6583e7c173a5934e8f9cf65fc95c36f4e28bd31995eff244fd1232",
+    "answerable": true
+  },
+  {
+    "id": "Q148",
+    "domain": "Society and culture",
+    "question": "Chinese languages form which branch of the Sino-Tibetan family?",
+    "answers": [
+      "Sinitic"
+    ],
+    "article_id": "5751",
+    "title": "Chinese language",
+    "url": "https://en.wikipedia.org/wiki/Chinese%20language",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5751:0:993",
+    "pg_id": 73264,
+    "evidence_quote": " global population, speak a variety of Chinese as their first language.\n\nChinese languages form the Sinitic branch of the Sino-Tibetan language family. The spoken varieties of Chinese are usually considered by native speakers to be dialects of a single language. Howe",
+    "evidence_sha256": "ae181067533f24e6c4ec9f36241a409edf264f2f401b5c0d3ec0a1e2d3927cd7",
+    "answerable": true
+  },
+  {
+    "id": "Q149",
+    "domain": "Society and culture",
+    "question": "Which ethnic majority primarily speaks Chinese?",
+    "answers": [
+      "Han Chinese"
+    ],
+    "article_id": "5751",
+    "title": "Chinese language",
+    "url": "https://en.wikipedia.org/wiki/Chinese%20language",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5751:0:993",
+    "pg_id": 73264,
+    "evidence_quote": "Chinese ( or ) is a group of languages spoken natively by the ethnic Han Chinese majority and many minority ethnic groups in Greater China. Approximately 1.3 billion people, or around 16% of the global population, speak a variety of Chinese",
+    "evidence_sha256": "ae181067533f24e6c4ec9f36241a409edf264f2f401b5c0d3ec0a1e2d3927cd7",
+    "answerable": true
+  },
+  {
+    "id": "Q150",
+    "domain": "Society and culture",
+    "question": "Approximately how many people speak a variety of Chinese as their first language?",
+    "answers": [
+      "1.3 billion"
+    ],
+    "article_id": "5751",
+    "title": "Chinese language",
+    "url": "https://en.wikipedia.org/wiki/Chinese%20language",
+    "shard": "train-00000-of-00041.parquet",
+    "passage_id": "5751:0:993",
+    "pg_id": 73264,
+    "evidence_quote": " by the ethnic Han Chinese majority and many minority ethnic groups in Greater China. Approximately 1.3 billion people, or around 16% of the global population, speak a variety of Chinese as their first language.\n\nChinese languages form the Sinitic branch of the Sino-Tibe",
+    "evidence_sha256": "ae181067533f24e6c4ec9f36241a409edf264f2f401b5c0d3ec0a1e2d3927cd7",
+    "answerable": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "invalid output rejected: '[1]'",
+    "invalid output rejected: '[1], [2].'",
+    "invalid output rejected: ''",
+    "Long model-produced prose not rejected by word count or verbatim gate",
+    "No evidence causes abstention",
+    "Excerpt attribution preserves selected source offsets"
+  ]
+}

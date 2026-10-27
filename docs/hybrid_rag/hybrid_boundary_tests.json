@@ -1,0 +1,9 @@
+{
+  "passed": [
+    "lexical timeout is explicit",
+    "hybrid timeout fallback reports warning",
+    "BM25-only timeout raises",
+    "mismatched corpus fingerprint rejected",
+    "article diversity cap enforced"
+  ]
+}
